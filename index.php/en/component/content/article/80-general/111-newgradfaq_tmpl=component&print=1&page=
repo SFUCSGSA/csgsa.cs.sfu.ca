@@ -1,0 +1,411 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb" dir="ltr">
+<head>
+	  <base href="http://csgsa.cs.sfu.ca/index.php/en/component/content/article/80-general/111-newgradfaq" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="robots" content="noindex, nofollow" />
+  <meta name="generator" content="Joomla! 1.7 - Open Source Content Management" />
+  <title>CSGSA</title>
+  <link href="/templates/beez_20/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+  <link rel="stylesheet" href="/plugins/content/attachments/attachments1.css" type="text/css" />
+  <link rel="stylesheet" href="/plugins/content/attachments/attachments.css" type="text/css" />
+  <script src="/media/system/js/core.js" type="text/javascript"></script>
+  <script src="/media/system/js/mootools-core.js" type="text/javascript"></script>
+  <script src="/media/system/js/caption.js" type="text/javascript"></script>
+  <script src="/media/system/js/mootools-more.js" type="text/javascript"></script>
+  <script src="/plugins/content/attachments/attachments_refresh.js" type="text/javascript"></script>
+
+	<link rel="stylesheet" href="/templates/system/css/system.css" type="text/css" />
+	<link rel="stylesheet" href="/templates/beez_20/css/template.css" type="text/css" />
+	<link rel="stylesheet" href="/templates/beez_20/css/position.css" type="text/css" />
+	<link rel="stylesheet" href="/templates/beez_20/css/layout.css" type="text/css" media="screen,projection" />
+	<link rel="stylesheet" href="/templates/beez_20/css/print.css" type="text/css" media="Print" />
+	<link rel="stylesheet" href="/templates/beez_20/css/personal.css" type="text/css" />
+			<link rel="stylesheet" href="/templates/beez_20/css/general.css" type="text/css" />
+
+<!--[if lte IE 6]>
+	<link href="/templates/beez_20/css/ieonly.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+</head>
+<body class="contentpane">
+	<div id="all">
+		<div id="main">
+			
+<div id="system-message-container">
+</div>
+			<div class="item-page">
+	<h1>
+	Articles	</h1>
+	<h2>
+			<a href="/index.php/en/component/content/article/80-general/111-newgradfaq">
+		New Grad. FAQ</a>
+		</h2>
+
+	<ul class="actions">
+			<li>
+		<a href="#" onclick="window.print();return false;"><img src="/media/system/images/printButton.png" alt="Print"  /></a>		</li>
+	
+	</ul>
+
+
+
+
+
+
+	<p> </p>
+<h1>Welcome!!!</h1>
+<p>Welcome to the SFU CS new grad FAQ!</p>
+<p> </p>
+<p>This listing has been put together by the organizers of the CS "grad buddy" program, in order to try to answer some of the common questions that many new grads have. </p>
+<p><a name="top"></a>If you have problems with the FAQ, please contact the current FAQ maintainer, Hoda Akbari (h o d a a AT  s f u DOT c a).</p>
+<p> </p>
+<h1>The Campus</h1>
+<p> <span style="color: #3366ff;"><strong>Main Office</strong></span></p>
+<p>The Main Office of the School of Computing Science is located in the Applied Sciences Building, room 9971. The main door to the office is in the middle of the southern atrium (at the far end from the coffee stand). It's a large, automatic sliding glass door, and should be easy to spot.</p>
+<p> </p>
+<p><span style="color: #3366ff;"><strong>Graduate Program Assistants</strong></span></p>
+<p>The Graduate Program Assistants are the primary link between you as a graduate student and the administration of the school. If you are uncertain about anything administrative, or related to your finances or registration, you should talk to them.</p>
+<p><br /> The School currently has two Grad. Program Assistants: Ms. Val Galat, who handles graduate student admissions and general issues for Doctoral students; and Ms. Gerdi Snyder, who handles Master’s students and all scholarship related issues. You should try to direct your questions to the appropriate Assistant, but if that's not possible, the other one can usually be helpful. You can also contact them by emailing 
+ <script type='text/javascript'>
+ <!--
+ var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+ var path = 'hr' + 'ef' + '=';
+ var addy93973 = 'csgr&#97;d&#97;' + '&#64;';
+ addy93973 = addy93973 + 'sf&#117;' + '&#46;' + 'c&#97;';
+ var addy_text93973 = 'csgrada AT sfu DOT ca';
+ document.write('<a ' + path + '\'' + prefix + ':' + addy93973 + '\'>');
+ document.write(addy_text93973);
+ document.write('<\/a>');
+ //-->\n </script><script type='text/javascript'>
+ <!--
+ document.write('<span style=\'display: none;\'>');
+ //-->
+ </script>This e-mail address is being protected from spambots. You need JavaScript enabled to view it.
+ <script type='text/javascript'>
+ <!--
+ document.write('</');
+ document.write('span>');
+ //-->
+ </script>.</p>
+<p> </p>
+<p><span style="color: #3366ff;"><strong>Your Mailbox</strong></span></p>
+<p>When you first check in with the school, you'll be given a package of paperwork. Any paperwork, mail, etc., that you receive after that will be placed in your mailbox. Your mailbox is currently located in the departmental lunch room (T 9401). You need to look your box up alphabetically. They're sorted first by the first letter of your last name, then by the first letter of your first name. You should also make it a point to check the mailboxes on either side of yours, as well as the ones above and below it, from time to time, since the mail can sometimes wind up in the wrong box by accident.</p>
+<p> </p>
+<p><span style="color: #3366ff;"><strong>Locations</strong></span></p>
+<p>Maps of the campus can be found <a href="https://www.sfu.ca/sub/about/maps-and-directions/burnaby.html" target="_blank" title="External link to http://www.sfu.ca/FacilitiesManagement/campus/ca_maps.html">here</a>.</p>
+<p style="padding-left: 30px;"> </p>
+<p style="padding-left: 30px;"><span style="color: #000000;"><strong>Dining</strong></span></p>
+<p style="padding-left: 30px;">See the dining map <a href="http://www.dineoncampus.ca/sfu/?cmd=DiningMap">here</a>.</p>
+<p style="padding-left: 30px;"> </p>
+<p style="padding-left: 30px;"><span style="color: #000000;"><strong>Library</strong></span></p>
+<p style="padding-left: 30px;">The <a href="http://www.lib.sfu.ca/">library</a> is located at north of the Convocation Mall. Your SFU student ID card is required for receiving service here. You can also borrow laptops and video projectors from the library.</p>
+<p style="padding-left: 30px;">There are some group study rooms you can book <a href="http://roombookings.lib.sfu.ca/studyrooms/day.php?year=2012&amp;month=07&amp;day=20&amp;area=1">here</a>.</p>
+<p style="padding-left: 30px;"> </p>
+<p style="padding-left: 30px;"><span style="color: #000000;"><strong>Recreation</strong></span></p>
+<p style="padding-left: 30px;">The <a href="http://students.sfu.ca/recreation/member-reg.html">membership</a> fee for recreational facilities is included in your tuition. Look up the operation hours, drop-in schedule and intramural programs <a href="http://students.sfu.ca/recreation/about.html">here</a>.</p>
+<p style="padding-left: 30px;">The membership is now integrated into the SFU ID card. All you need to do is complete your Athletics &amp; Recreation Liability Waiver online (through <a href="https://go.sfu.ca/" title="What's goSFU? - FAQ maintainer, Friday, June 09, 2006 3:49:00 PM">goSFU</a>)/on paper. Read more <a href="http://students.sfu.ca/recreation/member-reg/membership.html">here</a>.</p>
+<p style="padding-left: 30px;"><span style="color: #000000;"><strong>Residence</strong></span></p>
+<p style="padding-left: 30px;"> One option for a place to live is to stay in <a href="http://students.sfu.ca/residences/residences.html">on-campus residences</a>. Unfortunately, on-campus housing is in high demand and SHORT supply. The new students typically have problems in getting a room on campus in the beginning of their studies but you may try to ask when you arrive, sometimes there are rooms available on a first-come first-served basis.</p>
+<p style="padding-left: 30px;">An alternative would be to rent a room in the vicinity of the university. Rent normally ranges from $400 to $600 a month for basement suites. Rooms in houses can often be rented for a much lower cost ($250 to $350 a month). The <a href="http://www.sfuoffcampushousing.com/">off-campus housing</a> is the main source of current listings of all types of housing available to students in the neighboring community. It is usually easy to find reasonable accommodation close to school and most students prefer this option, so don't worry too much if you didn't manage to arrange for the housing on campus! Again, the choice is better if you come a week or so before the school actually starts. Also, talk to your buddy or some of the other grad students to find out about the advantages and disadvantages of different areas.</p>
+<p style="padding-left: 30px;">Other than the above site, you can also search in <a href="http://vancouver.craigslist.ca/apa/">the Craig's list</a> or the <a href="https://www.padmapper.com/">Padmapper</a>. To see what locations are close to transit, you can check the transit map below (note that only relevant skytrain stations are circled):</p>
+<p style="padding-left: 30px;"><a href="/images/transit-routes.jpg"><img src="/images/transit-routes.jpg" border="0" width="256" height="160" /></a></p>
+<p> </p>
+<h1>General Grad. Information</h1>
+<p> <span style="color: #3366ff;"><strong>I'm a new CS grad. What do I do?!?</strong></span></p>
+<p>We assume you have already confirmed your offer of admission with the Graduate Program office (gradpgm AT cs DOT sfu DOT ca) - if you haven't done this, and you intend to start your graduate studies here, then you should probably do it ASAP.</p>
+<p><br /> Most of the information that you need to know will be (or has already been) sent to you in an email from the President of the SFU <a href="#csgsa">Computer Science Graduate Students Association</a>. This email will also contain contact information for your "<a href="#buddy">grad buddy</a>". Your buddy is there to answer any questions you might have about the process of getting started in the CS graduate program, and you may want to ask them this question, since they can give you a more personal answer.<br /> <br /> The main thing you need to do is <strong>register for classes</strong>. In order to register for classes, you need to have a <strong>SFU account</strong>. In order to get an account, you need to pay at least the $100 deposit on your tuition. Instructions on paying your tuition are <a href="http://students.sfu.ca/fees/howtopay.html" target="_blank" title="External link to http://students.sfu.ca/studentaccounts/payments.html">here</a>. If you are a TA, you may instead set up a <a href="http://students.sfu.ca/fees/howtopay/methods/tssupayroll.html">TSSU payroll deduction</a> to have the tuition deducted from your payments during the semester.</p>
+<p><br /> After your <strong>tuition payment</strong> has processed (typically 3-5 days after the payment is received), you can obtain your SFU computer account from ACS (Academic Computing Services) by following their <a href="http://www.sfu.ca/acs/accounts/" target="_blank">account activation procedure</a>.</p>
+<p><br /> Once you have your account, you can use it to log into <a href="https://go.sfu.ca/" title="What's goSFU? - FAQ maintainer, Friday, June 09, 2006 3:49:00 PM">goSFU</a> (you may have to wait until the next day in order for the new account information to be propagated to the goSFU system). You can use goSFU to register for courses. If you don't know what courses you want to register for, just register for one of CMPT 897, 898, or 899.  CMPT 897, 898, and 899 are the "placeholder" courses used to register you in your appropriate degree program (M.Sc (course/project/thesis-based), Ph.D., respectively).</p>
+<p><br /> There will be other stuff you'll have to do, but you'll be sent specific information by email about this.</p>
+<p> </p>
+<p><span style="color: #3366ff;"><strong>What's a "grad buddy" and why do I have one?<a name="buddy"></a></strong></span></p>
+<p>A "grad buddy" is an existing SFU CS graduate student who's agreed to help make your introduction to our graduate program, the School, SFU, and life in the Greater Vancouver Area easier. They're here to answer your questions (or, if nothing else, to point you in the direction of someone who can answer them). If you'd like, they'll give you a tour of the School, and the University campus in general.</p>
+<p><br /> Please feel free to contact your buddy with any questions you might have. If you're having trouble contacting your buddy, or you don't know who your buddy is, please email the Buddy Program Coordinator (currently Hoda Akbari: hodaa AT sfu DOT ca), who will help you out.</p>
+<p> </p>
+<p>The Buddy Program is coordinated and run entirely by the <a href="#csgsa" title="What's the CSGSA? - FAQ maintainer, Friday, June 09, 2006 3:49:00 PM">CSGSA</a>.</p>
+<p> </p>
+<p><span style="color: #3366ff;"><strong>What do I do with all these forms they gave me when I got here?</strong></span></p>
+<p style="padding-left: 30px;">Here's a list of the forms you likely received in your "Welcome Package", what they're for, and where you should return them:</p>
+<p style="padding-left: 30px;"><strong>Change of Address Form</strong></p>
+<p style="padding-left: 30px;">This form is used by the School to keep your address up to date in our files. Please fill it out and return it to one of the Grad. secretaries in the main office.</p>
+<p style="padding-left: 30px;">It does not, however, keep your address up-to-date in the University's main record. Please update that address on <a href="https://go.sfu.ca/" target="_blank" title="External link to http://www.go.sfu.ca">goSFU</a>.</p>
+<p style="padding-left: 30px;"><strong>Key Requisition</strong></p>
+<p style="padding-left: 30px;">This form is the School's request to University Security to issue you an access fob. This fob will give you access to the general grad labs, the lunch room, and the grad common room.<br /> <br /> You need to take this form to the Key Office, along with photo ID (a student card is preferable, although any official government-issued ID with a photograph is usually enough), and around $30 cash (for deposit and processing fee).</p>
+<p style="padding-left: 30px;"><strong>Research Network (FASnet / CSSnet) Application</strong></p>
+<p style="padding-left: 30px;">This form is used to request the creation of a "research network" account for you, which is the primary account you will use to access the grad student and research lab computers, as well as to receive all your official School email on.</p>
+<p style="padding-left: 30px;">Please fill it out and return it to one of the Grad. Secretaries in the main office.</p>
+<p style="padding-left: 30px;"><strong>TA Contract (2 copies)</strong></p>
+<p style="padding-left: 30px;">(Only applicable if you're working as a TA in your first term.)<br /> <br /> This is your contract of employment with the school. It states what course(s) you'll be working on, as well as who's instructing those courses.</p>
+<p style="padding-left: 30px;">You need to fill out one copy with your <a href="#sin">SIN</a> and any other required details and to return it to one of the Grad. secretaries in the main office. If you don't have a SIN (Social Insurance Number), you'll need to get one as soon as possible.</p>
+<p style="padding-left: 30px;"><strong>TA Time Use Worksheet (2 copies)</strong></p>
+<p style="padding-left: 30px;">(Only applicable if you're working as a TA in your first term.)<br /> <br /> This is a form that you and your instructor can fill out that spells out how much time you'll spend on various duties of being a TA (i.e. marking, giving tutorials, holding office hours). You're not required to fill it out, but it's helpful if you want to ensure that you're not being asked to do more TA work than you're being paid to.</p>
+<p style="padding-left: 30px;">When you've completed it, keep a copy for yourself and leave one with your instructor.</p>
+<p style="padding-left: 30px;"><strong>Payroll Data Form</strong></p>
+<p style="padding-left: 30px;">(Only applicable if you're being paid in some fashion by/through the University.)<br /> <br /> This form is used to provide the Payroll department with the information they need to pay you. This usually requires a SIN, and a chequing account at a Canadian chartered bank, trust company, or credit union.</p>
+<p style="padding-left: 30px;">Fill this form out and return it to the Payroll department, 2170 Strand Hall (2nd floor).</p>
+<p style="padding-left: 30px;"><strong>Federal T1-A Form / Provincial T1-A Form</strong></p>
+<p style="padding-left: 30px;">(Only applicable if you're being paid in some fashion by/through the University.)<br /> <br /> These forms are used to tell the Payroll department your expected income. They need this information in order to determine if you need to have income tax deducted from your payments.</p>
+<p style="padding-left: 30px;">Fill this form out and return it to the Payroll department, 2170 Strand Hall (2nd floor).</p>
+<p><span style="color: #3366ff;"><strong>U-pass</strong></span></p>
+<p>The <a href="http://students.sfu.ca/upass/general.html">U-pass</a> is a transportation card which provides students with universal and affordable access to public transit. The U-pass fee is included in your tuition. U-pass must be picked up on a monthly basis from the <a href="http://students.sfu.ca/upass/obtaining.html">kiosks located at Maggie Benston Building</a>.<strong></strong></p>
+<p><span style="color: #3366ff;"><strong>Medical Insurance</strong></span></p>
+<p> All the information is previously sent to you by an e-mail from SFU. If you are a TA, you can apply in human resources office at SFU. Note that <em>There is a three (3) month waiting period (the balance of the month of arrival in BC plus two full calendar months) before you are eligible for coverage. You are recommended to apply for a private health insurance to be covered during this period.</em> More info is available <a href="http://www.sfu.ca/human-resources/hr_services/pensions_benefits/benefits/tssu/FrequentlyAskedQuestions.html">here</a>. </p>
+<p> </p>
+<p><span style="color: #3366ff;"><strong>What's goSFU?</strong></span></p>
+<p><a href="http://www.go.sfu.ca/" target="_blank" title="External link to http://www.go.sfu.ca/">goSFU</a> is the University's online system for student registration, financial account maintenance, and record-keeping. You'll use it to register for classes, keep your personal data (i.e. home address) up to date, track your financial account status, and, eventually, to apply to graduate.<br /> <br /> <strong><span style="color: #3366ff;">What's the CSGSA?</span><a name="csgsa"></a></strong></p>
+<p>The CSGSA (Computing Science Graduate Students' Association) is the offical graduate caucus representing all students in the CS graduate program. We're funded by the SFSS (Simon Fraser Student Society) thought the ancillary fees you pay along with your tuition, and we (try to) provide various programs and activities to benefit all CS grads. These programs include:</p>
+<ul>
+<li>The Grad Buddy program.</li>
+<li>Access to funding for conference travel.</li>
+<li>A common room, outfitted with comfy seating, a library of past CS theses, and a ping-pong table.</li>
+<li>Social events, like an annual summertime BBQ, and an annual Christmas party (presented in conjunction with the School).</li>
+<li>This FAQ.</li>
+</ul>
+<p>The CSGSA works thanks to student volunteers. Volunteers are always needed to:</p>
+<ul>
+<li>Serve in positions within the Association</li>
+<li>Help organize special events</li>
+<li>Work on special projects of the Association</li>
+<li>Serve as grad student representatives on departmental committees and SFSS committees</li>
+</ul>
+<p>The CSGSA normally holds at least two meetings in each term. These meetings will be announced by email, usually one week in advance.</p>
+<p><br /> For more information, check the <a href="http://csgsa.cs.sfu.ca/index.php/en/" target="_blank" title="External link to http://www.cs.sfu.ca/~csgsa">CSGSA website</a>.</p>
+<p>You can contact the CSGSA executive by email to: <strong>csgsa</strong> AT <strong>cs</strong> DOT <strong>sfu</strong> DOT <strong>ca</strong></p>
+<p> </p>
+<p> </p>
+<h1>Courses</h1>
+<p> <span style="color: #3366ff;"><strong>How many courses should I take?</strong></span></p>
+<p>There's no easy answer to this question. Despite that, here's some advice:</p>
+<ul>
+<li>If you've chosen a permanent supervisor with whom you seriously intend to work on your research with, then you should consult them for their advice. They may suggest certain courses for you to take, which will govern your schedule.</li>
+<li>If you haven't chosen a permanent supervisor yet, then you should govern your choices according to your schedule. Most new grads, especially those working as TAs, find that two courses per term is a maximum number. This is a good number for your first two terms in the program. It will help you get to know the School, the faculty, and their research areas. If all goes well, by the end of your second term, you'll have a good idea of what research area you'd like to work in.</li>
+</ul>
+<p><span style="color: #3366ff;"><strong>What courses should I take?</strong></span></p>
+<p>You should register for one of CMPT 897 (M.Sc. Project), CMPT 898 (M.Sc. Thesis), and CMPT 899 (Ph.D. Thesis), depending on which degree program you intend to take (you can always change your registration in these courses if you change your mind about project vs. thesis, or move into the Ph.D. program). When you're working on your research and not taking any classroom-based courses, this "course" will keep you listed as a registered student.</p>
+<p>Other courses are categorized in different areas. You should take courses from a couple of areas so that the <a href="http://www.cs.sfu.ca/content/dam/sfu/computing/Graduate_students/grad-forms/Graduate%20Expectations%20-%20April%202011.pdf">breadth requirement</a> is satisfied.</p>
+<p>You'll take courses both at the 700-level (material taught in formal, "textbook" approaches to topics) and the 800-level (material taught as current research topics).</p>
+<p> </p>
+<p><span style="color: #3366ff;"><strong>CourSys</strong></span></p>
+<p><a href="https://courses.cs.sfu.ca/">CourSys</a> is the online course management system. Most instructors use this system for assignment submission, grading, and sometimes uploading course material.</p>
+<p><strong> </strong></p>
+<p><span style="color: #3366ff;"><strong>What does "good standing" mean?</strong></span></p>
+<p>The School wants to ensure that students make adequate, regular progress toward their degrees. This normally means that students who are new to the department (i.e. not working on their thesis) will be doing two courses per term. Students working on their thesis are considered to be making normal progress (as long as their Senior Supervisor agrees).<br /> <br /> You must maintain "good standing" to be considered for funding from the department (i.e. TAships and scholarships).</p>
+<p> </p>
+<p><span style="color: #3366ff;"><strong>Dates and Deadlines</strong></span></p>
+<p>Information on deadlines applicable to graduate students can be found on the <a href="http://www.sfu.ca/dean-gradstudies/current/important_dates.html">Dean of Graduate Studies website</a>.</p>
+<p> </p>
+<p><span style="color: #3366ff;"><strong>How much should I expect to pay for books?</strong></span></p>
+<p>The cost of textbooks can vary greatly, depending on what courses you do. Some courses require no materials you have to purchase. Others may require you to read articles that you may have to print or photocopy; costs for those will depend on how you do the copying and/or printing. Other courses will require you to purchase a textbook.</p>
+<p><br /> In our experience, most grad courses that do require textbooks will only require one textbook per course. Based on the current cost of textbooks, a reasonable estimate seems to be that you will spend between $0 - $100 per course on books.</p>
+<p> </p>
+<p> </p>
+<h1>Financial Support</h1>
+<p> <span style="color: #3366ff;"><strong>How does my financial support work?</strong></span></p>
+<p>The School publishes a <a href="http://www.cs.sfu.ca/graduateprogram/financial-information.html" target="_blank" title="External link to http://www.cs.sfu.ca/gradpgm/Recruiting/index.html#finance">general description</a> of the financial support policy on their website, however this description may no longer apply to all graduate students. For your own support terms, you <strong>must</strong> refer to the support terms outlined in the offer letter sent to you by the School.<br /> <br /> For most students in their first year, support will come partially from Teaching Assistantships, which usually require about around 40 hours of work per semester-base-unit.</p>
+<p><br /><span style="color: #3366ff;"> <strong>How/when do I get paid?</strong></span></p>
+<p>Payroll issues pay bi-weekly. TA work is paid bi-weekly, as is research assistant work and students on scholarships administered by the university (i.e. NSERC).</p>
+<p><br /> You'll get your first pay within 1-3 weeks of submitting your contract (or other document indicating that you're to be paid.) If your job started before the pay period for that first pay, you'll be issued back-pay.</p>
+<p><br /> Students receiving a fellowship will normally get a cheque for the whole amount. It is usually available within the first 2 - 3 weeks of term.</p>
+<p> </p>
+<p><span style="color: #3366ff;"><strong>How do I find out how much I'm getting paid?</strong></span></p>
+<p>You can access your payment information via the <a href="http://myinfo.sfu.ca/">myInfo</a> website.</p>
+<p> </p>
+<p><strong><span style="color: #3366ff;">How do I get a SIN (Social Insurance Number)?</span><a name="sin"></a></strong></p>
+<p>A <a href="http://www.servicecanada.gc.ca/eng/sc/sin/index.shtml">Social Insurance Number</a> is used by the government to coordinate taxation and employment income. If you're new to Canada, you may not yet have a Social Insurance Number (or "SIN number"). To apply for a SIN, visit a <a href="http://www.servicecanada.gc.ca/cgi-bin/sc-srch.cgi?cmd=lst&amp;pv=bc&amp;ln=eng">service Canada center</a>. You’ll need your employment letter (from the CS main office) and study permit.</p>
+<p> </p>
+<h1>Facilities and Computers</h1>
+<p><span style="color: #3366ff;"><strong>What keys do I need?</strong></span></p>
+<p>As a new grad student, you only need your access card. This card will give you access to the general access grad labs in TASC (T 9217 &amp; T 9429), as well as the CS lunch room (T 9401) and the grad common room (T 8201). Once you start working in a research lab, you'll generally be issued the necessary key(s) and/or access for that facility.</p>
+<p> </p>
+<p><span style="color: #3366ff;"><strong>Where do I get keys?</strong></span></p>
+<p>The Key Office produces and distributes keys for the whole University. The Key Office is located next to the Chancellor's Gymnasium (near the transportation center).</p>
+<p> </p>
+<p style="padding-left: 30px;"><span style="color: #3366ff;"><strong>How are the computer systems organized?</strong></span></p>
+<p style="padding-left: 30px;"><strong>ACS Account</strong></p>
+<p style="padding-left: 30px;">The University provides an overall computer system for students, faculty, and staff. These services are provided by the University's Academic Computing Services department (ACS). Your ACS account is the first account that you receive when you start your program. Each student, faculty member, and staff member at the University is eligible to hold an ACS account.</p>
+<p style="padding-left: 30px;"><strong>Provides:</strong></p>
+<p style="padding-left: 30px;">-         Access to general access computers on campus, both Windows and Mac based.</p>
+<p style="padding-left: 30px;">-         Access to campus-wide wireless network service.</p>
+<p style="padding-left: 30px;">-         Access to library facilities (from both on- and off- campus)</p>
+<p style="padding-left: 30px;">-         Access to general UNIX server (fraser.sfu.ca)</p>
+<p style="padding-left: 30px;">-         5 GB of storage quota</p>
+<p style="padding-left: 30px;">-         Webspace, as part of your storage quota</p>
+<p style="padding-left: 30px;">-         Access to goSFU <a href="http://go.sfu.ca/" target="_blank" title="External link to http://go.sfu.ca">http://go.sfu.ca</a></p>
+<p style="padding-left: 30px;">-         Access to mySFU <a href="http://my.sfu.ca/" target="_blank" title="External link to http://my.sfu.ca">http://my.sfu.ca</a></p>
+<p style="padding-left: 30px;">-         Email, with webmail <a href="http://webmail.sfu.ca/" target="_blank" title="External link to http://webmail.sfu.ca">http://webmail.sfu.ca</a></p>
+<p style="padding-left: 30px;"><br /> Address: [your student account name]@sfu.ca (<strong>e.g.</strong> 
+ <script type='text/javascript'>
+ <!--
+ var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+ var path = 'hr' + 'ef' + '=';
+ var addy34482 = 'jsm&#105;th' + '&#64;';
+ addy34482 = addy34482 + 'sf&#117;' + '&#46;' + 'c&#97;';
+ document.write('<a ' + path + '\'' + prefix + ':' + addy34482 + '\'>');
+ document.write(addy34482);
+ document.write('<\/a>');
+ //-->\n </script><script type='text/javascript'>
+ <!--
+ document.write('<span style=\'display: none;\'>');
+ //-->
+ </script>This e-mail address is being protected from spambots. You need JavaScript enabled to view it.
+ <script type='text/javascript'>
+ <!--
+ document.write('</');
+ document.write('span>');
+ //-->
+ </script>)</p>
+<p style="padding-left: 30px;"><strong>FAS Research Network account</strong></p>
+<p style="padding-left: 30px;"><a href="http://www.sfu.ca/itservices/technical/fasnet/documentation/frequently_askedquestionsfaqs.html">This account</a> is provided by the Faculty of Applied Sciences, and is the account on the internal CS network.</p>
+<p style="padding-left: 30px;"><br /> <strong>Provides:</strong></p>
+<p style="padding-left: 30px;">-         Access to graduate-use computers in CS, both Windows and Linux based.</p>
+<p style="padding-left: 30px;">-         Access to several Sun UNIX CPU servers (css.css.sfu.ca, dogwood.fas.sfu.ca, daffodil.css.sfu.ca, geranium.fas.sfu.ca)</p>
+<p style="padding-left: 30px;">-         Access to a Linux CPU server (oak.fas.sfu.ca)</p>
+<p style="padding-left: 30px;">-         Access to a Windows Terminal Services Server (ts.fas.sfu.ca)</p>
+<p style="padding-left: 30px;">-         3 GB of storage quota</p>
+<p style="padding-left: 30px;">-         Webspace (available by request to 
+ <script type='text/javascript'>
+ <!--
+ var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+ var path = 'hr' + 'ef' + '=';
+ var addy91638 = 'gr&#105;p&#101;' + '&#64;';
+ addy91638 = addy91638 + 'cs' + '&#46;' + 'sf&#117;' + '&#46;' + 'c&#97;';
+ document.write('<a ' + path + '\'' + prefix + ':' + addy91638 + '\'>');
+ document.write(addy91638);
+ document.write('<\/a>');
+ //-->\n </script><script type='text/javascript'>
+ <!--
+ document.write('<span style=\'display: none;\'>');
+ //-->
+ </script>This e-mail address is being protected from spambots. You need JavaScript enabled to view it.
+ <script type='text/javascript'>
+ <!--
+ document.write('</');
+ document.write('span>');
+ //-->
+ </script>) as part of your storage quota</p>
+<p style="padding-left: 30px;">-         Email, with webmail (<a href="http://webmail.sfu.ca/" target="_blank" title="External link to http://webmail.sfu.ca">http://webmail.sfu.ca</a> (login with your full @cs.sfu.ca email address)</p>
+<p style="padding-left: 30px;"><br /> <strong>Address:</strong> [your student account name]@cs.sfu.ca</p>
+<p style="padding-left: 30px;"><strong>CSIL (Computing Science Instructional Lab) Account</strong></p>
+<p style="padding-left: 30px;">This account is provided to all undergraduate students in Computing Science, as well as to all CS TAs who need one. You'll use this account to access the computers in the undergraduate computing labs, which you'll most likely only need for your TA duties. <br /> <br /> <strong>Provides:</strong></p>
+<ul style="padding-left: 30px;">
+<li>Access to the undergraduate-use computers in CS.</li>
+</ul>
+<p style="padding-left: 30px;"><br /> <strong>Lab account(s)</strong></p>
+<p style="padding-left: 30px;">Once you become associated with a research lab, you may obtain a special user account to access the resources in your lab. You should talk to the Lab Administrator for your lab (the student, staff member, or faculty member responsible for administering your lab's resources) about this account.</p>
+<p><span style="color: #3366ff;"><strong>How do I get my email account?</strong></span></p>
+<p>Your ACS-provided student account ([your student account name]@sfu.ca) can be activated on the ACS website|<a href="http://www.sfu.ca/acs/accounts/" target="_blank" title="External link to http://www.sfu.ca/acs/accounts/">http://www.sfu.ca/acs/accounts/</a>] (wait 3-5 days after paying your $100 registration deposit).</p>
+<p><br /> Your Research Network account ([your student account name]@cs.sfu.ca) will be created after you fill out the application provided when you arrive at the School.</p>
+<p><br /> Your CSIL account is created automatically when necessary.</p>
+<p> </p>
+<p><span style="color: #3366ff;"><strong>Where can I find a wireless network?</strong></span></p>
+<p>Wireless access is provided by ACS, who provides a wireless network that serves much of the Burnaby campus. Wireless service has been installed throughout both ASB and TASC.</p>
+<p> </p>
+<p><span style="color: #3366ff;"><strong>Who do I contact for technical support?</strong></span></p>
+<p>Most of the computing that you'll do as a CS graduate student will be on the Research Network. There are two groups responsible for providing technical support to CS machines on the Research Network: the Network Support Group (part of the Faculty of Applied Sciences), who maintain the network; and Computing Science Technical Support (part of the School of Computing Science), who maintain the hardware. The easiest way to obtain support is to email your problem to 
+ <script type='text/javascript'>
+ <!--
+ var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+ var path = 'hr' + 'ef' + '=';
+ var addy15521 = 'h&#101;lpd&#101;sk' + '&#64;';
+ addy15521 = addy15521 + 'cs' + '&#46;' + 'sf&#117;' + '&#46;' + 'c&#97;';
+ document.write('<a ' + path + '\'' + prefix + ':' + addy15521 + '\'>');
+ document.write(addy15521);
+ document.write('<\/a>');
+ //-->\n </script><script type='text/javascript'>
+ <!--
+ document.write('<span style=\'display: none;\'>');
+ //-->
+ </script>This e-mail address is being protected from spambots. You need JavaScript enabled to view it.
+ <script type='text/javascript'>
+ <!--
+ document.write('</');
+ document.write('span>');
+ //-->
+ </script>, which is constantly monitored by someone who will route your problem to the most appropriate person.</p>
+<p><br /> Technical support on CSIL machines can be obtained by emailing your problem to 
+ <script type='text/javascript'>
+ <!--
+ var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+ var path = 'hr' + 'ef' + '=';
+ var addy35095 = 'cs&#105;l&#111;p' + '&#64;';
+ addy35095 = addy35095 + 'cs' + '&#46;' + 'sf&#117;' + '&#46;' + 'c&#97;';
+ document.write('<a ' + path + '\'' + prefix + ':' + addy35095 + '\'>');
+ document.write(addy35095);
+ document.write('<\/a>');
+ //-->\n </script><script type='text/javascript'>
+ <!--
+ document.write('<span style=\'display: none;\'>');
+ //-->
+ </script>This e-mail address is being protected from spambots. You need JavaScript enabled to view it.
+ <script type='text/javascript'>
+ <!--
+ document.write('</');
+ document.write('span>');
+ //-->
+ </script>.<br /> <br /> Technical support on ACS machines can be obtained by phone (604-291-3230), by email to 
+ <script type='text/javascript'>
+ <!--
+ var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+ var path = 'hr' + 'ef' + '=';
+ var addy55305 = 'h&#101;lp' + '&#64;';
+ addy55305 = addy55305 + 'sf&#117;' + '&#46;' + 'c&#97;';
+ document.write('<a ' + path + '\'' + prefix + ':' + addy55305 + '\'>');
+ document.write(addy55305);
+ document.write('<\/a>');
+ //-->\n </script><script type='text/javascript'>
+ <!--
+ document.write('<span style=\'display: none;\'>');
+ //-->
+ </script>This e-mail address is being protected from spambots. You need JavaScript enabled to view it.
+ <script type='text/javascript'>
+ <!--
+ document.write('</');
+ document.write('span>');
+ //-->
+ </script>, or in person in ACS labs.</p>
+<p> </p>
+<p><span style="color: #3366ff;"><strong>What is CSIL?</strong></span></p>
+<p>CSIL is the Computing Science Instructional Laboratory, and is generally pronounced "SEE-sill". It is located in the northwest corner of the 9000-level of the Applied Sciences Building (in rooms 9700, 9804, 9838, and 9840).</p>
+<p> </p>
+<p><span style="color: #3366ff;"><strong>What is CSS/FAS?</strong></span></p>
+<p>CSS was the Centre for Systems Science, which was a group established to support interdisciplinary research in the Applied Sciences. It was the original provider of the Research (computer) Network. It ceased to exist in 2003/2004, and all of the computer system support operations were transferred to the FAS.</p>
+<p>FAS is the Faculty of Applied Sciences, which is the faculty to which the School of Computing Science belongs.</p>
+<p> </p>
+<p><span style="color: #3366ff;"><strong>What's ACS?</strong></span></p>
+<p>ACS it the University's Academic Computing Services department. The provide the university-wide computer network, coordinate all the smaller, subordinate computer networks, provide general use computers in labs throughout the university as well as in the library, and provide the University's internet connection.</p>
+<p> </p>
+<p> </p>
+<h1>Being a TA</h1>
+<p>If you are a TA,</p>
+<p>-         You will probably use the <a href="https://courses.cs.sfu.ca/">CourSys</a> for marking and other related activities.</p>
+<p>-         Visit <a href="http://www.cs.sfu.ca/CourseCentral/tabooking/">this website</a> to book your TA offices (located in <a href="/csil">CSIL</a>).</p>
+<p>-         You may set up a <a href="http://students.sfu.ca/fees/howtopay/methods/tssupayroll.html">TSSU payroll deduction</a> to have the tuition deducted from your payments during the semester.</p>
+<p> </p>
+<p> </p>
+<h1>Misc.</h1>
+<p><span style="color: #3366ff;"><strong>How can I get admission in the CS graduate program?!?</strong></span></p>
+<p>This FAQ can't really help you with this question - it is intended for students who've already been granted admission to the graduate program.</p>
+<p><br /> If you'd like to become a student here, go to the <a href="http://www.cs.sfu.ca/graduateprogram/admissions.html" target="_blank" title="External link to http://www.cs.sfu.ca/gradpgm/">Graduate Program</a> website. Read about our programs, and if you like what you see, apply!</p>
+<p> </p>
+<p> </p>
+<h1>About this FAQ</h1>
+<p>This FAQ is intended to answer some of the questions of new graduate students. We highly recommend that all new students have a look at it, since it might answer some questions for you, as well as give you some questions you never realized you should ask!<br /> <br /> Disclaimer: It should be noted that this <strong>FAQ IS NOT</strong>:</p>
+<p><br /> <strong>Finished</strong> (Updates are being put in regularly)</p>
+<p><br /> OR<br /> <br /> <strong>Complete</strong> (We welcome new questions and answers)</p>
+<p> </p>
+<p><strong>Add a question</strong></p>
+<p><br /> To add a question, email the FAQ editor listed at the <a href="#top">top</a> of the document and give them the scoop. If you don't hear back from them, email the <a href="#csgsa">CSGSA</a>.</p>
+<p><strong> </strong></p>
+<p><strong>Add an answer</strong></p>
+<p>To add an answer, or to correct an answer in the FAQ, email the FAQ maintainer listed at the <a href="#top">top</a> of the document and set them on the path of truth. If you don't hear back from them, email the <a href="#csgsa">CSGSA</a>.</p>
+<p> </p> <div class="attachmentsContainer">
+
+<div class="attachmentsList" id="attachmentsList_com_content_default_111"></div>
+
+</div>
+	</div>
+
+		</div>
+	</div>
+</body>
+</html>

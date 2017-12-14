@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! 1.7 - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">Minutes</title>
+	<subtitle type="text"></subtitle>
+	<link rel="alternate" type="text/html" href="http://csgsa.cs.sfu.ca"/>
+	<id>http://csgsa.cs.sfu.ca/index.php/en/minutes</id>
+	<updated>2017-12-13T20:51:35+00:00</updated>
+	<generator uri="http://joomla.org" version="1.6">Joomla! 1.7 - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="http://csgsa.cs.sfu.ca/index.php/en/minutes?format=feed&amp;type=atom"/>
+	<entry>
+		<title>CS GSA General Meeting Minues 2014-5-15</title>
+		<link rel="alternate" type="text/html" href="http://csgsa.cs.sfu.ca/index.php/en/minutes/156-cs-gsa-general-meeting-minues-2014-5-15"/>
+		<published>2014-07-29T05:23:32+00:00</published>
+		<updated>2014-07-29T05:23:32+00:00</updated>
+		<id>http://csgsa.cs.sfu.ca/index.php/en/minutes/156-cs-gsa-general-meeting-minues-2014-5-15</id>
+		<author>
+			<name>Mengliu Zhao</name>
+			<email>mengliuz@sfu.ca</email>
+		</author>
+		<summary type="html">&lt;p&gt;Date: May 15h 2014&lt;br /&gt;Location: TASC1 9204E&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;Date: May 15h 2014&lt;br /&gt;Location: TASC1 9204E&lt;/p&gt;</content>
+	</entry>
+	<entry>
+		<title>Minutes for CS GSA meeting on Jan 23rd 2014</title>
+		<link rel="alternate" type="text/html" href="http://csgsa.cs.sfu.ca/index.php/en/minutes/155-minutes-for-cs-gsa-meeting-on-jan-23rd-2014"/>
+		<published>2014-02-06T02:48:44+00:00</published>
+		<updated>2014-02-06T02:48:44+00:00</updated>
+		<id>http://csgsa.cs.sfu.ca/index.php/en/minutes/155-minutes-for-cs-gsa-meeting-on-jan-23rd-2014</id>
+		<author>
+			<name>Arash Vahdat</name>
+			<email>avahdat@sfu.ca</email>
+		</author>
+		<summary type="html">&lt;p&gt;Date: Jan 23rd 2014&lt;/p&gt;
+&lt;p&gt;Location: TASC1 9204W&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;Date: Jan 23rd 2014&lt;/p&gt;
+&lt;p&gt;Location: TASC1 9204W&lt;/p&gt;</content>
+	</entry>
+	<entry>
+		<title>Minutes for CS GSA meeting on September 6th 2013</title>
+		<link rel="alternate" type="text/html" href="http://csgsa.cs.sfu.ca/index.php/en/minutes/149-cs-gsa-minutes6th-september-2013"/>
+		<published>2013-09-13T07:49:59+00:00</published>
+		<updated>2013-09-13T07:49:59+00:00</updated>
+		<id>http://csgsa.cs.sfu.ca/index.php/en/minutes/149-cs-gsa-minutes6th-september-2013</id>
+		<author>
+			<name>Aicha Ben Taieb</name>
+			<email>abentaie@sfu.ca</email>
+		</author>
+		<summary type="html">&lt;p&gt;Date: September 6th 2013&lt;/p&gt;
+&lt;p&gt;Location: TASC1 9204E&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;Date: September 6th 2013&lt;/p&gt;
+&lt;p&gt;Location: TASC1 9204E&lt;/p&gt;</content>
+	</entry>
+	<entry>
+		<title>CS GSA Meeting Minutes May 28th 2013</title>
+		<link rel="alternate" type="text/html" href="http://csgsa.cs.sfu.ca/index.php/en/minutes/146-cs-gsa-meeting-minutes-may-28th-2013"/>
+		<published>2013-06-07T12:33:47+00:00</published>
+		<updated>2013-06-07T12:33:47+00:00</updated>
+		<id>http://csgsa.cs.sfu.ca/index.php/en/minutes/146-cs-gsa-meeting-minutes-may-28th-2013</id>
+		<author>
+			<name>Evgeny Vinnik</name>
+			<email>evgeny_vinnik@sfu.ca</email>
+		</author>
+		<summary type="html">&lt;h2&gt;Minutes for CS GSA meeting on May 28, 2013&lt;/h2&gt;
+&lt;p&gt;&lt;span style=&quot;line-height: 1.3em;&quot;&gt;Date: May 28th&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Location: TASC1 9204E&lt;/p&gt;
+</summary>
+		<content type="html">&lt;h2&gt;Minutes for CS GSA meeting on May 28, 2013&lt;/h2&gt;
+&lt;p&gt;&lt;span style=&quot;line-height: 1.3em;&quot;&gt;Date: May 28th&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Location: TASC1 9204E&lt;/p&gt;
+</content>
+	</entry>
+	<entry>
+		<title>Minutes for CS GSA meeting on April 23rd, 2013</title>
+		<link rel="alternate" type="text/html" href="http://csgsa.cs.sfu.ca/index.php/en/minutes/141-minutes-for-cs-gsa-meeting-on-april-23rd-2013"/>
+		<published>2013-05-07T05:21:06+00:00</published>
+		<updated>2013-05-07T05:21:06+00:00</updated>
+		<id>http://csgsa.cs.sfu.ca/index.php/en/minutes/141-minutes-for-cs-gsa-meeting-on-april-23rd-2013</id>
+		<author>
+			<name>Evgeny Vinnik</name>
+			<email>evgeny_vinnik@sfu.ca</email>
+		</author>
+		<summary type="html">&lt;p align=&quot;center&quot;&gt; &lt;/p&gt;
+&lt;p&gt;Date: April 23&lt;sup&gt;rd&lt;/sup&gt;, 2013&lt;/p&gt;
+&lt;p&gt;Location: TASC1 9204E&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+</summary>
+		<content type="html">&lt;p align=&quot;center&quot;&gt; &lt;/p&gt;
+&lt;p&gt;Date: April 23&lt;sup&gt;rd&lt;/sup&gt;, 2013&lt;/p&gt;
+&lt;p&gt;Location: TASC1 9204E&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+</content>
+	</entry>
+	<entry>
+		<title>Minutes for CS GSA meeting on January 18, 2013</title>
+		<link rel="alternate" type="text/html" href="http://csgsa.cs.sfu.ca/index.php/en/minutes/136-minutes-for-cs-gsa-meeting-on-january-18-2013"/>
+		<published>2013-02-05T01:32:37+00:00</published>
+		<updated>2013-02-05T01:32:37+00:00</updated>
+		<id>http://csgsa.cs.sfu.ca/index.php/en/minutes/136-minutes-for-cs-gsa-meeting-on-january-18-2013</id>
+		<author>
+			<name>Evgeny Vinnik</name>
+			<email>evgeny_vinnik@sfu.ca</email>
+		</author>
+		<summary type="html">&lt;p style=&quot;text-align: left;&quot; align=&quot;center&quot;&gt;&lt;span style=&quot;line-height: 1.3em;&quot;&gt;Date: January 18&lt;/span&gt;&lt;sup style=&quot;line-height: 1.3em;&quot;&gt;th&lt;/sup&gt;&lt;span style=&quot;line-height: 1.3em;&quot;&gt;, 2013&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Location: TASC1 9204E&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+</summary>
+		<content type="html">&lt;p style=&quot;text-align: left;&quot; align=&quot;center&quot;&gt;&lt;span style=&quot;line-height: 1.3em;&quot;&gt;Date: January 18&lt;/span&gt;&lt;sup style=&quot;line-height: 1.3em;&quot;&gt;th&lt;/sup&gt;&lt;span style=&quot;line-height: 1.3em;&quot;&gt;, 2013&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Location: TASC1 9204E&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+</content>
+	</entry>
+	<entry>
+		<title>Amended minutes for CS GSA meeting on September 26, 2012 </title>
+		<link rel="alternate" type="text/html" href="http://csgsa.cs.sfu.ca/index.php/en/minutes/127-amended-minutes-for-cs-gsa-meeting-on-september-26-2012"/>
+		<published>2012-11-08T01:35:05+00:00</published>
+		<updated>2012-11-08T01:35:05+00:00</updated>
+		<id>http://csgsa.cs.sfu.ca/index.php/en/minutes/127-amended-minutes-for-cs-gsa-meeting-on-september-26-2012</id>
+		<author>
+			<name>Evgeny Vinnik</name>
+			<email>evgeny_vinnik@sfu.ca</email>
+		</author>
+		<summary type="html">&lt;h1 style=&quot;text-align: justify;&quot; align=&quot;center&quot;&gt;&lt;strong&gt;This is amended minutes for the CS GSA meeting that was carried on September 26, 2012. We had to change them because GSS head office wasn't happy with the wording of our financial motions.&lt;/strong&gt;&lt;/h1&gt;
+&lt;p align=&quot;center&quot;&gt;&lt;strong&gt;&lt;br /&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;&lt;strong&gt;Minutes for CS GSA meeting on September 26, 2012 &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Date : September 26&lt;sup&gt;th&lt;/sup&gt;, 2012           &lt;/p&gt;
+&lt;p&gt;Location: TASC1 9204E&lt;/p&gt;
+</summary>
+		<content type="html">&lt;h1 style=&quot;text-align: justify;&quot; align=&quot;center&quot;&gt;&lt;strong&gt;This is amended minutes for the CS GSA meeting that was carried on September 26, 2012. We had to change them because GSS head office wasn't happy with the wording of our financial motions.&lt;/strong&gt;&lt;/h1&gt;
+&lt;p align=&quot;center&quot;&gt;&lt;strong&gt;&lt;br /&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;&lt;strong&gt;Minutes for CS GSA meeting on September 26, 2012 &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Date : September 26&lt;sup&gt;th&lt;/sup&gt;, 2012           &lt;/p&gt;
+&lt;p&gt;Location: TASC1 9204E&lt;/p&gt;
+</content>
+	</entry>
+	<entry>
+		<title>Minutes for CS GSA meeting on September 26, 2012 </title>
+		<link rel="alternate" type="text/html" href="http://csgsa.cs.sfu.ca/index.php/en/minutes/125-minutes-for-cs-gsa-meeting-on-september-26-2012"/>
+		<published>2012-09-29T02:25:04+00:00</published>
+		<updated>2012-09-29T02:25:04+00:00</updated>
+		<id>http://csgsa.cs.sfu.ca/index.php/en/minutes/125-minutes-for-cs-gsa-meeting-on-september-26-2012</id>
+		<author>
+			<name>Evgeny Vinnik</name>
+			<email>evgeny_vinnik@sfu.ca</email>
+		</author>
+		<summary type="html">&lt;p align=&quot;center&quot;&gt;&lt;strong&gt;Minutes for CS GSA meeting on September 26, 2012 &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Date : September 26&lt;sup&gt;th&lt;/sup&gt;, 2012           &lt;/p&gt;
+&lt;p&gt;Location: TASC1 9204E&lt;/p&gt;
+</summary>
+		<content type="html">&lt;p align=&quot;center&quot;&gt;&lt;strong&gt;Minutes for CS GSA meeting on September 26, 2012 &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Date : September 26&lt;sup&gt;th&lt;/sup&gt;, 2012           &lt;/p&gt;
+&lt;p&gt;Location: TASC1 9204E&lt;/p&gt;
+</content>
+	</entry>
+	<entry>
+		<title>CSGSA Minutes for August 14th 2012</title>
+		<link rel="alternate" type="text/html" href="http://csgsa.cs.sfu.ca/index.php/en/minutes/118-csgsa-minutes-for-august-14th-2012"/>
+		<published>2012-09-10T06:48:18+00:00</published>
+		<updated>2012-09-10T06:48:18+00:00</updated>
+		<id>http://csgsa.cs.sfu.ca/index.php/en/minutes/118-csgsa-minutes-for-august-14th-2012</id>
+		<author>
+			<name>Evgeny Vinnik</name>
+			<email>evgeny_vinnik@sfu.ca</email>
+		</author>
+		<summary type="html">&lt;p style=&quot;text-align: left;&quot; align=&quot;center&quot;&gt;CSGSA Minutes for August 14th 2012 Computing Science Graduate Students Society(CSGSA) Meeting Minutes&lt;/p&gt;
+</summary>
+		<content type="html">&lt;p style=&quot;text-align: left;&quot; align=&quot;center&quot;&gt;CSGSA Minutes for August 14th 2012 Computing Science Graduate Students Society(CSGSA) Meeting Minutes&lt;/p&gt;
+</content>
+	</entry>
+</feed>

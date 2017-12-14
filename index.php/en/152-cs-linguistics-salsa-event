@@ -1,0 +1,271 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb" dir="ltr" >
+        <head>
+                  <base href="http://csgsa.cs.sfu.ca/index.php/en/152-cs-linguistics-salsa-event" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="robots" content="index, follow" />
+  <meta name="author" content="Arash Vahdat" />
+  <meta name="generator" content="Joomla! 1.7 - Open Source Content Management" />
+  <title>CS - Linguistics Salsa Event </title>
+  <link href="/templates/beez_20/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+  <link href="http://csgsa.cs.sfu.ca/index.php/en/component/search/?Itemid=468&amp;id=152&amp;format=opensearch" rel="search" title="Search CSGSA" type="application/opensearchdescription+xml" />
+  <link rel="stylesheet" href="/plugins/content/attachments/attachments1.css" type="text/css" />
+  <link rel="stylesheet" href="/plugins/content/attachments/attachments.css" type="text/css" />
+  <script src="/media/system/js/core.js" type="text/javascript"></script>
+  <script src="/media/system/js/mootools-core.js" type="text/javascript"></script>
+  <script src="/media/system/js/caption.js" type="text/javascript"></script>
+  <script src="/media/system/js/mootools-more.js" type="text/javascript"></script>
+  <script src="/plugins/content/attachments/attachments_refresh.js" type="text/javascript"></script>
+  <script src="/templates/beez_20/javascript/md_stylechanger.js" type="text/javascript" defer="defer"></script>
+
+                <link rel="stylesheet" href="/templates/system/css/system.css" type="text/css" />
+                <link rel="stylesheet" href="/templates/beez_20/css/position.css" type="text/css" media="screen,projection" />
+                <link rel="stylesheet" href="/templates/beez_20/css/layout.css" type="text/css" media="screen,projection" />
+                <link rel="stylesheet" href="/templates/beez_20/css/print.css" type="text/css" media="print" />
+                <link rel="stylesheet" href="/templates/beez_20/css/general.css" type="text/css" />
+                <link rel="stylesheet" href="/templates/beez_20/css/personal.css" type="text/css" />
+                <!--[if lte IE 6]>
+                <link href="/templates/beez_20/css/ieonly.css" rel="stylesheet" type="text/css" />
+
+                                <style type="text/css">
+                #line
+                {      width:98% ;
+                }
+                .logoheader
+                {
+                        height:200px;
+
+                }
+                #header ul.menu
+                {
+                display:block !important;
+                      width:98.2% ;
+
+
+                }
+                 </style>
+                                <![endif]-->
+                <!--[if IE 7]>
+                        <link href="/templates/beez_20/css/ie7only.css" rel="stylesheet" type="text/css" />
+                <![endif]-->
+                <script type="text/javascript" src="/templates/beez_20/javascript/hide.js"></script>
+
+                <script type="text/javascript">
+                        var big ='72%';
+                        var small='53%';
+                        var altopen='is open';
+                        var altclose='is closed';
+                        var bildauf='/templates/beez_20/images/plus.png';
+                        var bildzu='/templates/beez_20/images/minus.png';
+                        var rightopen='Open info';
+                        var rightclose='Close info';
+                        var fontSizeTitle='Font size';
+                        var bigger='Bigger';
+                        var reset='Reset';
+                        var smaller='Smaller';
+                        var biggerTitle='Increase size';
+                        var resetTitle='Revert styles to default';
+                        var smallerTitle='Decrease size';
+                </script>
+
+        </head>
+
+        <body>
+
+<div id="all">
+        <div id="back">
+                <div id="header">
+                                <div class="logoheader">
+                                        <h1 id="logo">
+
+                                                                                                                        CSGSA                                                                                <span class="header1">
+                                        Computer Science Graduate Students Association                                        </span></h1>
+                                </div><!-- end logoheader -->
+                                        <ul class="skiplinks">
+                                                <li><a href="#main" class="u2">Skip to content</a></li>
+                                                <li><a href="#nav" class="u2">Jump to main navigation and login</a></li>
+                                                                                    </ul>
+                                        <h2 class="unseen">Nav view search</h2>
+                                        <h3 class="unseen">Navigation</h3>
+                                        
+<ul class="menu">
+<li class="item-468 current active"><a href="/index.php/en/" >News and Upcoming Events</a></li><li class="item-472"><a href="/index.php/en/constitution" >Constitution</a></li><li class="item-466"><a href="/index.php/en/minutes" >Minutes</a></li><li class="item-489"><a href="/index.php/en/galleries" >Galleries</a></li><li class="item-492"><a href="/index.php/en/tssu" >TSSU</a></li><li class="item-471"><a href="/index.php/en/aboutcontacts" >About CS GSA</a></li><li class="item-470"><a href="/index.php/en/links" >Links</a></li><li class="item-496"><a href="/index.php/en/tutors-list" >Tutors</a></li><li class="item-493"><a href="https://csgsa.cs.sfu.ca/administrator/index.php" target="_blank" >Admin</a></li></ul>
+
+                                        <div id="line">
+                                        <div id="fontsize"></div>
+                                        <h3 class="unseen">Search</h3>
+                                        <form action="/index.php/en/" method="post">
+	<div class="search">
+		<label for="mod-search-searchword">Search...</label><input name="searchword" id="mod-search-searchword" maxlength="20"  class="inputbox" type="text" size="20" value="Search..."  onblur="if (this.value=='') this.value='Search...';" onfocus="if (this.value=='Search...') this.value='';" />	<input type="hidden" name="task" value="search" />
+	<input type="hidden" name="option" value="com_search" />
+	<input type="hidden" name="Itemid" value="468" />
+	</div>
+</form>
+
+                                        </div> <!-- end line -->
+
+
+                        </div><!-- end header -->
+                        <div id="contentarea">
+                                        <div id="breadcrumbs">
+
+                                                        
+
+                                        </div>
+
+                                        
+                                        <div id="wrapper2" class="shownocolumns">
+
+                                                <div id="main">
+
+                                                
+                                                        
+<div id="system-message-container">
+</div>
+                                                        <div class="item-page">
+	<h2>
+			<a href="/index.php/en/152-cs-linguistics-salsa-event">
+		CS - Linguistics Salsa Event </a>
+		</h2>
+
+	<ul class="actions">
+						<li class="print-icon">
+			<a href="/index.php/en/152-cs-linguistics-salsa-event?tmpl=component&amp;print=1&amp;layout=default&amp;page=" title="Print" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><img src="/media/system/images/printButton.png" alt="Print"  /></a>			</li>
+		
+		
+		
+	
+	</ul>
+
+
+
+
+
+
+	<div><span>Have you ever wished to learn dancing? Or maybe you felt scared to death of dancing in public? If so, the next event is for you. Come and join our next social event, where we will teach you how to dance salsa!  </span><span>To make it more fun, CSGSA and LGSA cooperate and organize the joint event for grad students from Computer Science and Linguistics departments!</span></div>
+<div> </div>
+<div dir="ltr"><span>Come, socialize with folks from Linguistics, and learn some</span><span style="color: #000000;"> Salsa</span><span>! </span></div>
+<div dir="ltr">
+<div>
+<div>
+<div>
+<p><span style="line-height: 1.3em;"> </span></p>
+<p><strong>Date: <span style="color: #000000;"><span class="aBn" data-term="goog_925054917"><span class="aQJ">October 24th</span></span>, <span class="aBn" data-term="goog_925054918"><span class="aQJ">Thursday</span></span></span></strong></p>
+<p><strong><span style="line-height: 1.3em; color: #000000;">Time: <span class="aBn" data-term="goog_925054919"><span class="aQJ">5:30pm - 7:30pm</span></span></span> </strong></p>
+</div>
+<div><strong>Place: <span style="color: #000000;">TASC1 9204 </span></strong></div>
+<div> </div>
+<div><strong>Format: </strong><span>We will have a salsa lesson for beginners (~1h), followed by a dinner. No partner required. </span><strong><span style="line-height: 1.3em;">Please use the link emailed to the members to let us know by </span><span class="aBn" data-term="goog_925054920"><span class="aQJ">Monday, October 21</span></span><span style="line-height: 1.3em;"> if you'd like to attend the event</span><span style="line-height: 1.3em; color: #0000ff;"><span style="text-decoration: underline;">.</span></span></strong></div>
+</div>
+<div><span><br /></span></div>
+<div><span>Food will be provided :)) </span></div>
+<div> </div>
+<div>
+<div><span>Best regards,</span></div>
+</div>
+</div>
+<div>Nataliya</div>
+</div>
+<p><span><br clear="all" /></span></p>
+<div> </div>
+<div><span style="font-family: arial, sans-serif;">--------------------------------------------------------------------------------------</span></div>
+<div>
+<div>Nataliya Shapovalova</div>
+<div><span style="color: #000000;">Vice President | Computer Science Graduate Students Association (<span>CS</span> GSA)</span></div>
+<div><span style="font-family: arial, sans-serif;"><span style="color: #000000;">Email: </span><a href="mailto:
+ <script type='text/javascript'>
+ <!--
+ var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+ var path = 'hr' + 'ef' + '=';
+ var addy8116 = 'nsh&#97;p&#111;v&#97;' + '&#64;';
+ addy8116 = addy8116 + 'sf&#117;' + '&#46;' + 'c&#97;';
+ document.write('<a ' + path + '\'' + prefix + ':' + addy8116 + '\'>');
+ document.write(addy8116);
+ document.write('<\/a>');
+ //-->\n </script><script type='text/javascript'>
+ <!--
+ document.write('<span style=\'display: none;\'>');
+ //-->
+ </script>This e-mail address is being protected from spambots. You need JavaScript enabled to view it.
+ <script type='text/javascript'>
+ <!--
+ document.write('</');
+ document.write('span>');
+ //-->
+ </script>" target="_blank"><span style="color: #0000ff;">
+ <script type='text/javascript'>
+ <!--
+ var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+ var path = 'hr' + 'ef' + '=';
+ var addy27679 = 'nsh&#97;p&#111;v&#97;' + '&#64;';
+ addy27679 = addy27679 + 'sf&#117;' + '&#46;' + 'c&#97;';
+ document.write('<a ' + path + '\'' + prefix + ':' + addy27679 + '\'>');
+ document.write(addy27679);
+ document.write('<\/a>');
+ //-->\n </script><script type='text/javascript'>
+ <!--
+ document.write('<span style=\'display: none;\'>');
+ //-->
+ </script>This e-mail address is being protected from spambots. You need JavaScript enabled to view it.
+ <script type='text/javascript'>
+ <!--
+ document.write('</');
+ document.write('span>');
+ //-->
+ </script></span></a></span></div>
+<div>CS GSA website: <a href="http://csgsa.cs.sfu.ca/index.php/en/" target="_blank"><span style="color: #0000ff;">http://csgsa.cs.sfu.ca/index.php/en/</span></a></div>
+<div><span style="color: #000000;">School of Computing Science | Simon Fraser University</span></div>
+</div> <div class="attachmentsContainer">
+
+<div class="attachmentsList" id="attachmentsList_com_content_default_152"></div>
+
+</div>
+	</div>
+
+
+                                                </div><!-- end main -->
+
+                                        </div><!-- end wrapper -->
+
+                                
+                        
+                                <div class="wrap"></div>
+
+                                </div> <!-- end contentarea -->
+
+                        </div><!-- back -->
+
+                </div><!-- all -->
+
+                <div id="footer-outer">
+			 
+                        <div id="footer-sub">
+
+
+                                <div id="footer">
+
+                                        
+                                        <p>
+                                                Powered by <a href="http://www.joomla.org/">Joomla!&#174;</a>
+                                        </p>
+
+
+                                </div><!-- end footer -->
+                        </div>
+
+                </div>
+        
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-26581930-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+        </body>
+</html>

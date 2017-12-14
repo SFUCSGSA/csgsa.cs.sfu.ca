@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! 1.7 - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">Galleries</title>
+	<subtitle type="text"></subtitle>
+	<link rel="alternate" type="text/html" href="http://csgsa.cs.sfu.ca"/>
+	<id>http://csgsa.cs.sfu.ca/index.php/en/galleries</id>
+	<updated>2017-12-13T20:51:37+00:00</updated>
+	<generator uri="http://joomla.org" version="1.6">Joomla! 1.7 - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="http://csgsa.cs.sfu.ca/index.php/en/galleries?format=feed&amp;type=atom"/>
+	<entry>
+		<title> CS GSA Game Night and Tea Social on December 11th</title>
+		<link rel="alternate" type="text/html" href="http://csgsa.cs.sfu.ca/index.php/en/galleries/130-cs-gsa-game-night-and-tea-social-on-december-11th"/>
+		<published>2013-01-15T01:20:51+00:00</published>
+		<updated>2013-01-15T01:20:51+00:00</updated>
+		<id>http://csgsa.cs.sfu.ca/index.php/en/galleries/130-cs-gsa-game-night-and-tea-social-on-december-11th</id>
+		<author>
+			<name>Evgeny Vinnik</name>
+			<email>evgeny_vinnik@sfu.ca</email>
+		</author>
+		<summary type="html">&lt;p&gt;On December 11th, 2012 CS GSA organized a game night for all grad students with pizza and Indian sweets.&lt;/p&gt;
+&lt;p&gt;That was a very cool event!&lt;/p&gt;
+&lt;p&gt;{gallery}event-albums/gamenight{/gallery}&lt;/p&gt;
+&lt;p&gt;Photos by Evgeny Vinnik&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;On December 11th, 2012 CS GSA organized a game night for all grad students with pizza and Indian sweets.&lt;/p&gt;
+&lt;p&gt;That was a very cool event!&lt;/p&gt;
+&lt;p&gt;{gallery}event-albums/gamenight{/gallery}&lt;/p&gt;
+&lt;p&gt;Photos by Evgeny Vinnik&lt;/p&gt;</content>
+	</entry>
+	<entry>
+		<title>SFU CS GSA BBQ Summer 2012</title>
+		<link rel="alternate" type="text/html" href="http://csgsa.cs.sfu.ca/index.php/en/galleries/109-sfu-cs-gsa-bbq-summer-2012"/>
+		<published>2012-07-19T22:29:00+00:00</published>
+		<updated>2012-07-19T22:29:00+00:00</updated>
+		<id>http://csgsa.cs.sfu.ca/index.php/en/galleries/109-sfu-cs-gsa-bbq-summer-2012</id>
+		<author>
+			<name>Evgeny Vinnik</name>
+			<email>evgeny_vinnik@sfu.ca</email>
+		</author>
+		<summary type="html">&lt;p&gt;On July 18th our Computing Science (CS) Graduate Student Society (GSS) organized BBQ for all grad students!&lt;/p&gt;
+&lt;p&gt;We carefully documented every step on how to prepare such a great event&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;On this video our master chef Thomas Torsney-Weir is sharing his professional secrets on how to cook BBQ North-American style&lt;/p&gt;
+&lt;p&gt;&lt;object width=&quot;853&quot; height=&quot;480&quot; data=&quot;http://www.youtube.com/v/LrwlwXP4xuM?version=3&amp;amp;hl=en_US&quot; type=&quot;application/x-shockwave-flash&quot;&gt;&lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot; /&gt;&lt;param name=&quot;allowscriptaccess&quot; value=&quot;always&quot; /&gt;&lt;param name=&quot;src&quot; value=&quot;http://www.youtube.com/v/LrwlwXP4xuM?version=3&amp;amp;hl=en_US&quot; /&gt;&lt;param name=&quot;allowfullscreen&quot; value=&quot;true&quot; /&gt;&lt;/object&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;More videos after the break&lt;/p&gt;
+</summary>
+		<content type="html">&lt;p&gt;On July 18th our Computing Science (CS) Graduate Student Society (GSS) organized BBQ for all grad students!&lt;/p&gt;
+&lt;p&gt;We carefully documented every step on how to prepare such a great event&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;On this video our master chef Thomas Torsney-Weir is sharing his professional secrets on how to cook BBQ North-American style&lt;/p&gt;
+&lt;p&gt;&lt;object width=&quot;853&quot; height=&quot;480&quot; data=&quot;http://www.youtube.com/v/LrwlwXP4xuM?version=3&amp;amp;hl=en_US&quot; type=&quot;application/x-shockwave-flash&quot;&gt;&lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot; /&gt;&lt;param name=&quot;allowscriptaccess&quot; value=&quot;always&quot; /&gt;&lt;param name=&quot;src&quot; value=&quot;http://www.youtube.com/v/LrwlwXP4xuM?version=3&amp;amp;hl=en_US&quot; /&gt;&lt;param name=&quot;allowfullscreen&quot; value=&quot;true&quot; /&gt;&lt;/object&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;More videos after the break&lt;/p&gt;
+</content>
+	</entry>
+	<entry>
+		<title>Photos of Ice-Skating 2 Dec 2011</title>
+		<link rel="alternate" type="text/html" href="http://csgsa.cs.sfu.ca/index.php/en/galleries/94-photos-of-ice-skating-2-dec-2011"/>
+		<published>2012-01-13T09:51:55+00:00</published>
+		<updated>2012-01-13T09:51:55+00:00</updated>
+		<id>http://csgsa.cs.sfu.ca/index.php/en/galleries/94-photos-of-ice-skating-2-dec-2011</id>
+		<author>
+			<name>Amir Hedayaty</name>
+			<email>aha49@sfu.ca</email>
+		</author>
+		<summary type="html">&lt;p&gt;{gallery}event-albums/Ice-Skating-2-Dec-2011{/gallery}&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;{gallery}event-albums/Ice-Skating-2-Dec-2011{/gallery}&lt;/p&gt;</content>
+	</entry>
+	<entry>
+		<title>Pictures from BBQ Event on Oct. 25, 2011</title>
+		<link rel="alternate" type="text/html" href="http://csgsa.cs.sfu.ca/index.php/en/galleries/88-pics-bbq-25-10-2011"/>
+		<published>2011-10-28T02:35:50+00:00</published>
+		<updated>2011-10-28T02:35:50+00:00</updated>
+		<id>http://csgsa.cs.sfu.ca/index.php/en/galleries/88-pics-bbq-25-10-2011</id>
+		<author>
+			<name>Shahab Tasharofi</name>
+			<email>sta44@sfu.ca</email>
+		</author>
+		<summary type="html">&lt;p&gt;{gallery}event-albums/BBQ-25-10-2011{/gallery}&lt;/p&gt;
+&lt;p&gt;Videos from the event:&lt;/p&gt;
+&lt;p&gt;&lt;object width=&quot;640&quot; height=&quot;480&quot; data=&quot;http://www.youtube.com/v/Bsz5w83uZwE?version=3&amp;amp;hl=en_US&quot; type=&quot;application/x-shockwave-flash&quot;&gt;&lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot; /&gt;&lt;param name=&quot;allowscriptaccess&quot; value=&quot;always&quot; /&gt;&lt;param name=&quot;src&quot; value=&quot;http://www.youtube.com/v/Bsz5w83uZwE?version=3&amp;amp;hl=en_US&quot; /&gt;&lt;param name=&quot;allowfullscreen&quot; value=&quot;true&quot; /&gt;&lt;/object&gt;&lt;/p&gt;
+&lt;p&gt;&lt;object width=&quot;640&quot; height=&quot;480&quot; data=&quot;http://www.youtube.com/v/l-4PFtnJJwI?version=3&amp;amp;hl=en_US&quot; type=&quot;application/x-shockwave-flash&quot;&gt;&lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot; /&gt;&lt;param name=&quot;allowscriptaccess&quot; value=&quot;always&quot; /&gt;&lt;param name=&quot;src&quot; value=&quot;http://www.youtube.com/v/l-4PFtnJJwI?version=3&amp;amp;hl=en_US&quot; /&gt;&lt;param name=&quot;allowfullscreen&quot; value=&quot;true&quot; /&gt;&lt;/object&gt; &lt;object width=&quot;640&quot; height=&quot;480&quot; data=&quot;http://www.youtube.com/v/oTHdjntZGZ4?version=3&amp;amp;hl=en_US&quot; type=&quot;application/x-shockwave-flash&quot;&gt;&lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot; /&gt;&lt;param name=&quot;allowscriptaccess&quot; value=&quot;always&quot; /&gt;&lt;param name=&quot;src&quot; value=&quot;http://www.youtube.com/v/oTHdjntZGZ4?version=3&amp;amp;hl=en_US&quot; /&gt;&lt;param name=&quot;allowfullscreen&quot; value=&quot;true&quot; /&gt;&lt;/object&gt;&lt;/p&gt;
+
+
+</summary>
+		<content type="html">&lt;p&gt;{gallery}event-albums/BBQ-25-10-2011{/gallery}&lt;/p&gt;
+&lt;p&gt;Videos from the event:&lt;/p&gt;
+&lt;p&gt;&lt;object width=&quot;640&quot; height=&quot;480&quot; data=&quot;http://www.youtube.com/v/Bsz5w83uZwE?version=3&amp;amp;hl=en_US&quot; type=&quot;application/x-shockwave-flash&quot;&gt;&lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot; /&gt;&lt;param name=&quot;allowscriptaccess&quot; value=&quot;always&quot; /&gt;&lt;param name=&quot;src&quot; value=&quot;http://www.youtube.com/v/Bsz5w83uZwE?version=3&amp;amp;hl=en_US&quot; /&gt;&lt;param name=&quot;allowfullscreen&quot; value=&quot;true&quot; /&gt;&lt;/object&gt;&lt;/p&gt;
+&lt;p&gt;&lt;object width=&quot;640&quot; height=&quot;480&quot; data=&quot;http://www.youtube.com/v/l-4PFtnJJwI?version=3&amp;amp;hl=en_US&quot; type=&quot;application/x-shockwave-flash&quot;&gt;&lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot; /&gt;&lt;param name=&quot;allowscriptaccess&quot; value=&quot;always&quot; /&gt;&lt;param name=&quot;src&quot; value=&quot;http://www.youtube.com/v/l-4PFtnJJwI?version=3&amp;amp;hl=en_US&quot; /&gt;&lt;param name=&quot;allowfullscreen&quot; value=&quot;true&quot; /&gt;&lt;/object&gt; &lt;object width=&quot;640&quot; height=&quot;480&quot; data=&quot;http://www.youtube.com/v/oTHdjntZGZ4?version=3&amp;amp;hl=en_US&quot; type=&quot;application/x-shockwave-flash&quot;&gt;&lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot; /&gt;&lt;param name=&quot;allowscriptaccess&quot; value=&quot;always&quot; /&gt;&lt;param name=&quot;src&quot; value=&quot;http://www.youtube.com/v/oTHdjntZGZ4?version=3&amp;amp;hl=en_US&quot; /&gt;&lt;param name=&quot;allowfullscreen&quot; value=&quot;true&quot; /&gt;&lt;/object&gt;&lt;/p&gt;
+
+
+</content>
+	</entry>
+</feed>

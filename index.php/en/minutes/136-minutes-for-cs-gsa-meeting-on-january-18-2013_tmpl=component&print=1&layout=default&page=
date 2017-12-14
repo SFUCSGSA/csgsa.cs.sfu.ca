@@ -1,0 +1,130 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb" dir="ltr">
+<head>
+	  <base href="http://csgsa.cs.sfu.ca/index.php/en/minutes/136-minutes-for-cs-gsa-meeting-on-january-18-2013" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="robots" content="noindex, nofollow" />
+  <meta name="author" content="Evgeny Vinnik" />
+  <meta name="generator" content="Joomla! 1.7 - Open Source Content Management" />
+  <title>Minutes for CS GSA meeting on January 18, 2013</title>
+  <link href="/templates/beez_20/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+  <link rel="stylesheet" href="/plugins/content/attachments/attachments1.css" type="text/css" />
+  <link rel="stylesheet" href="/plugins/content/attachments/attachments.css" type="text/css" />
+  <script src="/media/system/js/core.js" type="text/javascript"></script>
+  <script src="/media/system/js/mootools-core.js" type="text/javascript"></script>
+  <script src="/media/system/js/caption.js" type="text/javascript"></script>
+  <script src="/media/system/js/mootools-more.js" type="text/javascript"></script>
+  <script src="/plugins/content/attachments/attachments_refresh.js" type="text/javascript"></script>
+
+	<link rel="stylesheet" href="/templates/system/css/system.css" type="text/css" />
+	<link rel="stylesheet" href="/templates/beez_20/css/template.css" type="text/css" />
+	<link rel="stylesheet" href="/templates/beez_20/css/position.css" type="text/css" />
+	<link rel="stylesheet" href="/templates/beez_20/css/layout.css" type="text/css" media="screen,projection" />
+	<link rel="stylesheet" href="/templates/beez_20/css/print.css" type="text/css" media="Print" />
+	<link rel="stylesheet" href="/templates/beez_20/css/personal.css" type="text/css" />
+			<link rel="stylesheet" href="/templates/beez_20/css/general.css" type="text/css" />
+
+<!--[if lte IE 6]>
+	<link href="/templates/beez_20/css/ieonly.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+</head>
+<body class="contentpane">
+	<div id="all">
+		<div id="main">
+			
+<div id="system-message-container">
+</div>
+			<div class="item-page">
+	<h2>
+			<a href="/index.php/en/minutes/136-minutes-for-cs-gsa-meeting-on-january-18-2013">
+		Minutes for CS GSA meeting on January 18, 2013</a>
+		</h2>
+
+	<ul class="actions">
+			<li>
+		<a href="#" onclick="window.print();return false;"><img src="/media/system/images/printButton.png" alt="Print"  /></a>		</li>
+	
+	</ul>
+
+
+
+
+
+
+	<p style="text-align: left;" align="center"><span style="line-height: 1.3em;">Date: January 18</span><sup style="line-height: 1.3em;">th</sup><span style="line-height: 1.3em;">, 2013</span></p>
+<p>Location: TASC1 9204E</p>
+<p> </p>
+ 
+<p> </p>
+<p><strong>Present: </strong></p>
+<ol>
+<li>Evgeny Vinnik</li>
+<li>Ruiwen Chen</li>
+<li>Ahmed Hamza</li>
+<li>Kamyar Khodamoradi</li>
+<li>Mengliu Zhao</li>
+<li>Narek Nalbandyan</li>
+<li>Hossein Hajimirsadeghi</li>
+<li>Iman Sarrifi</li>
+<li>Abbas Sabat</li>
+<li>Mohsen Jamali</li>
+<li>Hamed Shahir</li>
+<li>Majid Razmara</li>
+<li>Maryam Sadeghi</li>
+<li>Rohil Dholakia</li>
+<li>Xiangbo Mao</li>
+<li>Sushant Joshi</li>
+<li>Xiaoqiang Ma</li>
+<li><a href="http://www.cs.sfu.ca/people/graduate/k/ska124.html">Snehasish Kumar</a></li>
+<li>Sadeqi Azer</li>
+<li>Mehran Khadabanedeh</li>
+<li>Jian Peng</li>
+<li>Carrie Wong</li>
+<li><a href="http://www.cs.sfu.ca/people/graduate/s/vsokol.html">Vladyslav Sokol</a></li>
+<li>Frederik Nullmanmu-Trenn</li>
+<li><a href="http://www.cs.sfu.ca/people/graduate/r/mrouhipo.html">Marjan Rouhipour</a></li>
+<li><a href="http://www.cs.sfu.ca/people/graduate/m/tsmiucin.html">Svetozar Miucin</a></li>
+<li>Salem Malikic</li>
+<li>Yen-Yi Lin</li>
+<li>Zhensong Qian</li>
+<li>Mani Monajjemi</li>
+<li>Mohammad Tayebi</li>
+<li><a href="http://www.cs.sfu.ca/people/graduate/b/abharadw.html">Arun Bharadwaj</a></li>
+<li>Jianqiao Li</li>
+<li>Fei Zhan</li>
+<li>Cong Zhang</li>
+<li>Haitao Li</li>
+<li>Shuyang Sun</li>
+<li>Kiana Calagari</li>
+<li>Fetemeh Riali</li>
+</ol>
+<p><strong>Minutes</strong></p>
+<p><strong style="line-height: 1.3em;">1.    </strong><span style="line-height: 1.3em;">The meeting was called to order </span><strong style="line-height: 1.3em;">at 4:00 pm in TASC1 9204E</strong><span style="line-height: 1.3em;">.</span><br /><strong style="line-height: 1.3em;">2.    </strong><strong style="line-height: 1.3em;">Evgeny Vinnik</strong><span style="line-height: 1.3em;"> is appointed as the </span><strong style="line-height: 1.3em;">chair</strong><br /><strong style="line-height: 1.3em;">3.    </strong><strong style="line-height: 1.3em;">Mengliu Zhao</strong><span style="line-height: 1.3em;"> is appointed as the </span><strong style="line-height: 1.3em;">secretary</strong><br /><strong style="line-height: 1.3em;">4.    </strong><strong style="line-height: 1.3em;">Ravikran Vadlapudi</strong><span style="line-height: 1.3em;"> is stepped down from the secretary position.</span><br /><strong style="line-height: 1.3em;">5.    </strong><strong style="line-height: 1.3em;">Parastoo Geranmayeh</strong><span style="line-height: 1.3em;"> is stepped down from the treasurer position.</span></p>
+<p><br /><strong style="line-height: 1.3em;">6.    </strong><span style="line-height: 1.3em;">Elections for the CS GSA treasurer position</span></p>
+<p>Nominee: <strong>Iman Sarrifi</strong> – votes for 39</p>
+<p><strong>Iman Sarrifi</strong> was elected as the treasurer unanimously.</p>
+<p> </p>
+<p><strong style="line-height: 1.3em;">7.    </strong><span style="line-height: 1.3em;">Elections for the CS GSA secretary position</span></p>
+<p>Nominee: <strong>Jianqiao Li</strong> – votes for 39</p>
+<p><strong>Jianqiao Li</strong> was elected as the secretary unanimously.</p>
+<p> </p>
+<p><strong style="line-height: 1.3em;">8.    </strong><strong style="line-height: 1.3em;">Financial Motions</strong></p>
+<p style="padding-left: 30px;"><strong style="line-height: 1.3em;"></strong><strong style="line-height: 1.3em;">a.    </strong><span style="line-height: 1.3em;">Moved that Computing Science Graduate Students’ Association (CS GSA) reimburse Evgeny Vinnik</span><strong style="line-height: 1.3em;"> </strong><span style="line-height: 1.3em;">with</span><strong style="line-height: 1.3em;"> </strong><span style="line-height: 1.3em;">$170 from caucus trust account </span><span style="text-decoration: underline;">for organization of the meeting</span><span style="line-height: 1.3em;"> on January 18</span><sup style="line-height: 1.3em;">th</sup><span style="line-height: 1.3em;"> 2013: purchases of pizza, sandwiches and drinks.</span><br /><span style="line-height: 1.3em;">Moved by: Evgeny Vinnik</span><br /><span style="line-height: 1.3em;">Seconded by: Narek Nalbandyan</span><br /><span style="line-height: 1.3em;">Decision: <span style="color: #3366ff;">Motion carries unanimously</span></span></p>
+<p style="padding-left: 30px;"><br /><strong style="line-height: 1.3em;">b.    </strong><span style="line-height: 1.3em;">Moved that CS GSA designates Jian Peng to spend $200 from caucus core funds for </span><span style="text-decoration: underline;">four gamepads for XBOX 360</span><span style="line-height: 1.3em;">.</span><br /><span style="line-height: 1.3em;">Moved by: Jian Peng</span><br /><span style="line-height: 1.3em;">Seconded by: Narek Nalbandyan</span><br /><span style="line-height: 1.3em;">Decision: <span style="color: #3366ff;">Motion carries</span> – 25 votes for it, 0 against it, and 14 abstained.</span></p>
+<p style="padding-left: 30px;"><br /><strong style="line-height: 1.3em;">c.    </strong><span style="line-height: 1.3em;">Moved that CS GSA designates Snehasish Kumar to spend $400 from caucus trust account </span><span style="text-decoration: underline;">for 24 tickets for paintball event</span><span style="line-height: 1.3em;">.</span><br /><span style="line-height: 1.3em;">Moved by: Snehasish Kumar</span><br /><span style="line-height: 1.3em;">Seconded by: Svetozar Miucin</span><br /><span style="line-height: 1.3em;">Decision: <span style="color: #3366ff;">Motion carries</span> – 13 votes for it, 0 against it, and 26 abstained.</span></p>
+<p style="padding-left: 30px;"><br /><strong style="line-height: 1.3em;">d.    </strong><span style="line-height: 1.3em;">Moved that CS GSA designates Hamed Shahir to spend $560 from caucus trust account for </span><span style="text-decoration: underline;">a Ping-Pong table </span><span style="line-height: 1.3em;">to place in Surrey campus.</span><br /><span style="line-height: 1.3em;">Moved by Hamed Shahir</span><br /><span style="line-height: 1.3em;">Seconded by Marjan Rouhipour</span><br /><span style="line-height: 1.3em;">Decision: <span style="color: #3366ff;">Motion carries</span> – 12 votes for it, 0 against it, and 27 abstained.</span></p>
+<p style="padding-left: 30px;"><br /><strong style="line-height: 1.3em;">e.    </strong><span style="line-height: 1.3em;">Moved that CS GSA designates Majid Razmara to spend $1500 from caucus trust account for </span><span style="text-decoration: underline;">a massage chair</span><span style="line-height: 1.3em;">.</span><br /><span style="line-height: 1.3em;">Moved by Majid Razmara</span><br /><span style="line-height: 1.3em;">Seconded by Mohammad Tayebi</span><br /><span style="line-height: 1.3em;">Decision: <span style="color: #ff0000;">Motion fails</span> – 7 votes in favor, 13 against it, and 19 abstained.</span></p>
+<p style="padding-left: 30px;"><br /><strong style="line-height: 1.3em;">f.     </strong><span style="line-height: 1.3em;">Moved that CS GSA designates Evgeny Vinnik to spend $700 from caucus core funds for </span><span style="text-decoration: underline;">a foosball table</span><span style="line-height: 1.3em;">.</span><br /><span style="line-height: 1.3em;">Moved by Evgeny Vinnik</span><br /><span style="line-height: 1.3em;">Seconded by Mohsen Jamali</span><br /><span style="line-height: 1.3em;">Decision: <span style="color: #3366ff;">Motion carries</span> – 16 votes for it, 0 against it, and 23 abstained</span></p>
+<p style="padding-left: 30px;"><br /><strong style="line-height: 1.3em;">g.    </strong><span style="line-height: 1.3em;">Moved that CS GSA designates Mengliu Zhao to spend $800 from caucus trust account for </span><span style="text-decoration: underline;">an electronic piano</span><span style="line-height: 1.3em;">.</span><br /><span style="line-height: 1.3em;">Moved by Mengliu Zhao</span><br /><span style="line-height: 1.3em;">Seconded by Mani Monajjemi</span><br /><span style="line-height: 1.3em;">Decision: <span style="color: #ff0000;">Motion fails</span> – 10 votes for it, 11 against it, and 18 abstained.</span></p>
+<p style="padding-left: 30px;"><br /><strong style="line-height: 1.3em;">h.    </strong><span style="line-height: 1.3em;">Moved that CS GSA designates Iman Sarrifi to spend $210 from caucus trust account for </span><span style="text-decoration: underline;">three tea socials</span><span style="line-height: 1.3em;">.</span><br /><span style="line-height: 1.3em;">Moved by Iman Sarrifi</span><br /><span style="line-height: 1.3em;">Seconded by Evgeny Vinnik</span><br /><span style="line-height: 1.3em;">Decision: <span style="color: #3366ff;">Motion carries</span> - 21 votes for it, 0 against it, and 18 abstained.</span></p>
+<p><br /><strong style="line-height: 1.3em;">9.    </strong><span style="line-height: 1.3em;">The meeting is called adjourned </span><strong style="line-height: 1.3em;">at 5:00 pm</strong><span style="line-height: 1.3em;">.</span></p><div class="attachmentsContainer">
+
+<div class="attachmentsList" id="attachmentsList_com_content_default_136"></div>
+
+</div>
+	</div>
+
+		</div>
+	</div>
+</body>
+</html>

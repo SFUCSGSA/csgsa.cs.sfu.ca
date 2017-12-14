@@ -1,0 +1,570 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! 1.7 - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">News and Upcoming Events</title>
+	<subtitle type="text"></subtitle>
+	<link rel="alternate" type="text/html" href="http://csgsa.cs.sfu.ca"/>
+	<id>http://csgsa.cs.sfu.ca/index.php/en/</id>
+	<updated>2017-12-13T20:51:31+00:00</updated>
+	<generator uri="http://joomla.org" version="1.6">Joomla! 1.7 - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="http://csgsa.cs.sfu.ca/index.php/en/?format=feed&amp;type=atom"/>
+	<entry>
+		<title>TSSU Results</title>
+		<link rel="alternate" type="text/html" href="http://csgsa.cs.sfu.ca/index.php/en/153-tssu-results"/>
+		<published>2013-10-19T02:48:09+00:00</published>
+		<updated>2013-10-19T02:48:09+00:00</updated>
+		<id>http://csgsa.cs.sfu.ca/index.php/en/153-tssu-results</id>
+		<author>
+			<name>Arash Vahdat</name>
+			<email>avahdat@sfu.ca</email>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;span&gt;Hi everyone,&lt;/span&gt;&lt;/p&gt;
+&lt;div&gt;&lt;span style=&quot;line-height: 1.3em;&quot;&gt;According to our online survey result, the following five students are ratified as our new &lt;/span&gt;&lt;span class=&quot;il&quot; style=&quot;line-height: 1.3em;&quot;&gt;TSSU&lt;/span&gt;&lt;span style=&quot;line-height: 1.3em;&quot;&gt; &lt;/span&gt;&lt;span class=&quot;il&quot; style=&quot;line-height: 1.3em;&quot;&gt;stewards&lt;/span&gt;&lt;span style=&quot;line-height: 1.3em;&quot;&gt; for this semester:&lt;/span&gt;&lt;/div&gt;
+&lt;div&gt; &lt;/div&gt;
+&lt;div&gt;
+&lt;div&gt;&lt;span&gt;Karol Swietlicki,&lt;/span&gt;&lt;span&gt; &lt;/span&gt;&lt;span&gt;&lt;a href=&quot;mailto:magotari@gmail.com&quot; target=&quot;_blank&quot;&gt;magotari@gmail.com&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div&gt;&lt;span&gt;Alireza Ensan,&lt;/span&gt;&lt;span&gt; &lt;/span&gt;&lt;span&gt;&lt;a href=&quot;mailto:aensan@sfu.ca&quot; target=&quot;_blank&quot;&gt;aensan@sfu.ca&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div&gt;&lt;span&gt;Arun R Bharadwaj,&lt;/span&gt;&lt;span&gt; &lt;/span&gt;&lt;span&gt;&lt;a href=&quot;mailto:arun_bharadwaj@sfu.ca&quot; target=&quot;_blank&quot;&gt;arun_bharadwaj@sfu.ca&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div&gt;&lt;span&gt;Aungon Nag Radon,&lt;/span&gt;&lt;span&gt; &lt;/span&gt;&lt;span&gt;&lt;a href=&quot;mailto:aradon@sfu.ca&quot; target=&quot;_blank&quot;&gt;aradon@sfu.ca&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div&gt;&lt;span&gt;Yong Liao,&lt;/span&gt;&lt;span&gt; &lt;/span&gt;&lt;span&gt;&lt;a href=&quot;mailto:yla338@sfu.ca&quot; target=&quot;_blank&quot;&gt;yla338@sfu.ca&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div&gt;&lt;span&gt;&lt;br /&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div&gt;
+&lt;div&gt;Thanks,&lt;/div&gt;
+&lt;div&gt;Mengliu&lt;/div&gt;
+&lt;/div&gt;
+&lt;div&gt; &lt;/div&gt;
+&lt;div&gt;&lt;img src=&quot;images/survey result.png&quot; border=&quot;0&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;
+&lt;/div&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;span&gt;Hi everyone,&lt;/span&gt;&lt;/p&gt;
+&lt;div&gt;&lt;span style=&quot;line-height: 1.3em;&quot;&gt;According to our online survey result, the following five students are ratified as our new &lt;/span&gt;&lt;span class=&quot;il&quot; style=&quot;line-height: 1.3em;&quot;&gt;TSSU&lt;/span&gt;&lt;span style=&quot;line-height: 1.3em;&quot;&gt; &lt;/span&gt;&lt;span class=&quot;il&quot; style=&quot;line-height: 1.3em;&quot;&gt;stewards&lt;/span&gt;&lt;span style=&quot;line-height: 1.3em;&quot;&gt; for this semester:&lt;/span&gt;&lt;/div&gt;
+&lt;div&gt; &lt;/div&gt;
+&lt;div&gt;
+&lt;div&gt;&lt;span&gt;Karol Swietlicki,&lt;/span&gt;&lt;span&gt; &lt;/span&gt;&lt;span&gt;&lt;a href=&quot;mailto:magotari@gmail.com&quot; target=&quot;_blank&quot;&gt;magotari@gmail.com&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div&gt;&lt;span&gt;Alireza Ensan,&lt;/span&gt;&lt;span&gt; &lt;/span&gt;&lt;span&gt;&lt;a href=&quot;mailto:aensan@sfu.ca&quot; target=&quot;_blank&quot;&gt;aensan@sfu.ca&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div&gt;&lt;span&gt;Arun R Bharadwaj,&lt;/span&gt;&lt;span&gt; &lt;/span&gt;&lt;span&gt;&lt;a href=&quot;mailto:arun_bharadwaj@sfu.ca&quot; target=&quot;_blank&quot;&gt;arun_bharadwaj@sfu.ca&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div&gt;&lt;span&gt;Aungon Nag Radon,&lt;/span&gt;&lt;span&gt; &lt;/span&gt;&lt;span&gt;&lt;a href=&quot;mailto:aradon@sfu.ca&quot; target=&quot;_blank&quot;&gt;aradon@sfu.ca&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div&gt;&lt;span&gt;Yong Liao,&lt;/span&gt;&lt;span&gt; &lt;/span&gt;&lt;span&gt;&lt;a href=&quot;mailto:yla338@sfu.ca&quot; target=&quot;_blank&quot;&gt;yla338@sfu.ca&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div&gt;&lt;span&gt;&lt;br /&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div&gt;
+&lt;div&gt;Thanks,&lt;/div&gt;
+&lt;div&gt;Mengliu&lt;/div&gt;
+&lt;/div&gt;
+&lt;div&gt; &lt;/div&gt;
+&lt;div&gt;&lt;img src=&quot;images/survey result.png&quot; border=&quot;0&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;
+&lt;/div&gt;</content>
+	</entry>
+	<entry>
+		<title>CS - Linguistics Salsa Event </title>
+		<link rel="alternate" type="text/html" href="http://csgsa.cs.sfu.ca/index.php/en/152-cs-linguistics-salsa-event"/>
+		<published>2013-10-18T03:07:12+00:00</published>
+		<updated>2013-10-18T03:07:12+00:00</updated>
+		<id>http://csgsa.cs.sfu.ca/index.php/en/152-cs-linguistics-salsa-event</id>
+		<author>
+			<name>Arash Vahdat</name>
+			<email>avahdat@sfu.ca</email>
+		</author>
+		<summary type="html">&lt;div&gt;&lt;span&gt;Have you ever wished to learn dancing? Or maybe you felt scared to death of dancing in public? If so, the next event is for you. Come and join our next social event, where we will teach you how to dance salsa!  &lt;/span&gt;&lt;span&gt;To make it more fun, CSGSA and LGSA cooperate and organize the joint event for grad students from Computer Science and Linguistics departments!&lt;/span&gt;&lt;/div&gt;
+&lt;div&gt; &lt;/div&gt;
+&lt;div dir=&quot;ltr&quot;&gt;&lt;span&gt;Come, socialize with folks from Linguistics, and learn some&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt; Salsa&lt;/span&gt;&lt;span&gt;! &lt;/span&gt;&lt;/div&gt;
+&lt;div dir=&quot;ltr&quot;&gt;
+&lt;div&gt;
+&lt;div&gt;
+&lt;div&gt;
+&lt;p&gt;&lt;span style=&quot;line-height: 1.3em;&quot;&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Date: &lt;span style=&quot;color: #000000;&quot;&gt;&lt;span class=&quot;aBn&quot; data-term=&quot;goog_925054917&quot;&gt;&lt;span class=&quot;aQJ&quot;&gt;October 24th&lt;/span&gt;&lt;/span&gt;, &lt;span class=&quot;aBn&quot; data-term=&quot;goog_925054918&quot;&gt;&lt;span class=&quot;aQJ&quot;&gt;Thursday&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;line-height: 1.3em; color: #000000;&quot;&gt;Time: &lt;span class=&quot;aBn&quot; data-term=&quot;goog_925054919&quot;&gt;&lt;span class=&quot;aQJ&quot;&gt;5:30pm - 7:30pm&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; &lt;/strong&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Place: &lt;span style=&quot;color: #000000;&quot;&gt;TASC1 9204 &lt;/span&gt;&lt;/strong&gt;&lt;/div&gt;
+&lt;div&gt; &lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Format: &lt;/strong&gt;&lt;span&gt;We will have a salsa lesson for beginners (~1h), followed by a dinner. No partner required. &lt;/span&gt;&lt;strong&gt;&lt;span style=&quot;line-height: 1.3em;&quot;&gt;Please use the link emailed to the members to let us know by &lt;/span&gt;&lt;span class=&quot;aBn&quot; data-term=&quot;goog_925054920&quot;&gt;&lt;span class=&quot;aQJ&quot;&gt;Monday, October 21&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;line-height: 1.3em;&quot;&gt; if you'd like to attend the event&lt;/span&gt;&lt;span style=&quot;line-height: 1.3em; color: #0000ff;&quot;&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;.&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div&gt;&lt;span&gt;&lt;br /&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div&gt;&lt;span&gt;Food will be provided :)) &lt;/span&gt;&lt;/div&gt;
+&lt;div&gt; &lt;/div&gt;
+&lt;div&gt;
+&lt;div&gt;&lt;span&gt;Best regards,&lt;/span&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div&gt;Nataliya&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;span&gt;&lt;br clear=&quot;all&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;div&gt; &lt;/div&gt;
+&lt;div&gt;&lt;span style=&quot;font-family: arial, sans-serif;&quot;&gt;--------------------------------------------------------------------------------------&lt;/span&gt;&lt;/div&gt;
+&lt;div&gt;
+&lt;div&gt;Nataliya Shapovalova&lt;/div&gt;
+&lt;div&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Vice President | Computer Science Graduate Students Association (&lt;span&gt;CS&lt;/span&gt; GSA)&lt;/span&gt;&lt;/div&gt;
+&lt;div&gt;&lt;span style=&quot;font-family: arial, sans-serif;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Email: &lt;/span&gt;&lt;a href=&quot;mailto:nshapova@sfu.ca&quot; target=&quot;_blank&quot;&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;nshapova@sfu.ca&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div&gt;CS GSA website: &lt;a href=&quot;http://csgsa.cs.sfu.ca/index.php/en/&quot; target=&quot;_blank&quot;&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;http://csgsa.cs.sfu.ca/index.php/en/&lt;/span&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;span style=&quot;color: #000000;&quot;&gt;School of Computing Science | Simon Fraser University&lt;/span&gt;&lt;/div&gt;
+&lt;/div&gt;</summary>
+		<content type="html">&lt;div&gt;&lt;span&gt;Have you ever wished to learn dancing? Or maybe you felt scared to death of dancing in public? If so, the next event is for you. Come and join our next social event, where we will teach you how to dance salsa!  &lt;/span&gt;&lt;span&gt;To make it more fun, CSGSA and LGSA cooperate and organize the joint event for grad students from Computer Science and Linguistics departments!&lt;/span&gt;&lt;/div&gt;
+&lt;div&gt; &lt;/div&gt;
+&lt;div dir=&quot;ltr&quot;&gt;&lt;span&gt;Come, socialize with folks from Linguistics, and learn some&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt; Salsa&lt;/span&gt;&lt;span&gt;! &lt;/span&gt;&lt;/div&gt;
+&lt;div dir=&quot;ltr&quot;&gt;
+&lt;div&gt;
+&lt;div&gt;
+&lt;div&gt;
+&lt;p&gt;&lt;span style=&quot;line-height: 1.3em;&quot;&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Date: &lt;span style=&quot;color: #000000;&quot;&gt;&lt;span class=&quot;aBn&quot; data-term=&quot;goog_925054917&quot;&gt;&lt;span class=&quot;aQJ&quot;&gt;October 24th&lt;/span&gt;&lt;/span&gt;, &lt;span class=&quot;aBn&quot; data-term=&quot;goog_925054918&quot;&gt;&lt;span class=&quot;aQJ&quot;&gt;Thursday&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;line-height: 1.3em; color: #000000;&quot;&gt;Time: &lt;span class=&quot;aBn&quot; data-term=&quot;goog_925054919&quot;&gt;&lt;span class=&quot;aQJ&quot;&gt;5:30pm - 7:30pm&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; &lt;/strong&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Place: &lt;span style=&quot;color: #000000;&quot;&gt;TASC1 9204 &lt;/span&gt;&lt;/strong&gt;&lt;/div&gt;
+&lt;div&gt; &lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Format: &lt;/strong&gt;&lt;span&gt;We will have a salsa lesson for beginners (~1h), followed by a dinner. No partner required. &lt;/span&gt;&lt;strong&gt;&lt;span style=&quot;line-height: 1.3em;&quot;&gt;Please use the link emailed to the members to let us know by &lt;/span&gt;&lt;span class=&quot;aBn&quot; data-term=&quot;goog_925054920&quot;&gt;&lt;span class=&quot;aQJ&quot;&gt;Monday, October 21&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;line-height: 1.3em;&quot;&gt; if you'd like to attend the event&lt;/span&gt;&lt;span style=&quot;line-height: 1.3em; color: #0000ff;&quot;&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;.&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div&gt;&lt;span&gt;&lt;br /&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div&gt;&lt;span&gt;Food will be provided :)) &lt;/span&gt;&lt;/div&gt;
+&lt;div&gt; &lt;/div&gt;
+&lt;div&gt;
+&lt;div&gt;&lt;span&gt;Best regards,&lt;/span&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div&gt;Nataliya&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;span&gt;&lt;br clear=&quot;all&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;div&gt; &lt;/div&gt;
+&lt;div&gt;&lt;span style=&quot;font-family: arial, sans-serif;&quot;&gt;--------------------------------------------------------------------------------------&lt;/span&gt;&lt;/div&gt;
+&lt;div&gt;
+&lt;div&gt;Nataliya Shapovalova&lt;/div&gt;
+&lt;div&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Vice President | Computer Science Graduate Students Association (&lt;span&gt;CS&lt;/span&gt; GSA)&lt;/span&gt;&lt;/div&gt;
+&lt;div&gt;&lt;span style=&quot;font-family: arial, sans-serif;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Email: &lt;/span&gt;&lt;a href=&quot;mailto:nshapova@sfu.ca&quot; target=&quot;_blank&quot;&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;nshapova@sfu.ca&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div&gt;CS GSA website: &lt;a href=&quot;http://csgsa.cs.sfu.ca/index.php/en/&quot; target=&quot;_blank&quot;&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;http://csgsa.cs.sfu.ca/index.php/en/&lt;/span&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;span style=&quot;color: #000000;&quot;&gt;School of Computing Science | Simon Fraser University&lt;/span&gt;&lt;/div&gt;
+&lt;/div&gt;</content>
+	</entry>
+	<entry>
+		<title>CSGSA Biking Event at Stanley Park</title>
+		<link rel="alternate" type="text/html" href="http://csgsa.cs.sfu.ca/index.php/en/151-csgsa-biking-event-at-stanley-park"/>
+		<published>2013-10-11T12:10:34+00:00</published>
+		<updated>2013-10-11T12:10:34+00:00</updated>
+		<id>http://csgsa.cs.sfu.ca/index.php/en/151-csgsa-biking-event-at-stanley-park</id>
+		<author>
+			<name>Arash Vahdat</name>
+			<email>avahdat@sfu.ca</email>
+		</author>
+		<summary type="html">&lt;div&gt;As we planed earlier this semester, we are going to have a biking event at Stanley Park this weekend. The plan is to rent bikes from the stores next to the Park and go for a ride around Stanley Park. Typically the ride is short but exciting. It may take up to two hours depending on how often we stop. &lt;/div&gt;
+&lt;div&gt; &lt;/div&gt;
+&lt;div&gt; &lt;/div&gt;
+&lt;div&gt;Where to meet?&lt;/div&gt;
+&lt;div&gt;We are going to meet at the intersection of &lt;strong&gt;Denman St and Alberni St&lt;/strong&gt;. If it's your first time to go to the area use Google map to get direction, &lt;a href=&quot;https://maps.google.ca/maps?q=alberni+and+denman&amp;amp;hl=en&amp;amp;ll=49.292518,-123.133392&amp;amp;spn=0.004625,0.013078&amp;amp;sll=49.285026,-122.756592&amp;amp;sspn=0.147134,0.41851&amp;amp;hnear=Denman+St+%26+Alberni+St,+Vancouver,+Greater+Vancouver,+British+Columbia&amp;amp;t=m&amp;amp;z=17&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;. If it's hard for you to get there on your own, send me an email and I will arrange someone to help you get there.&lt;/div&gt;
+&lt;div&gt; &lt;/div&gt;
+&lt;div&gt;When?&lt;/div&gt;
+&lt;div&gt;We are going to meet &lt;strong&gt;10:00am on Sunday&lt;/strong&gt;, Oct 13 (this weekend). Please &lt;strong&gt;be sharp&lt;/strong&gt;. We will not wait for late people. Current weather prediction is sunny for the whole day, but in the case prediction changes, we may change the schedule of event. The final call will be made on Friday.&lt;/div&gt;
+&lt;div&gt; &lt;/div&gt;
+&lt;div&gt;What to bring?&lt;/div&gt;
+&lt;div&gt;CSGSA will cover the bike rental which also includes helmet. But your are recommended to bring the following items for yourself:&lt;/div&gt;
+&lt;div&gt;
+&lt;ul&gt;
+&lt;li&gt;water.&lt;/li&gt;
+&lt;li&gt;some snacks like chocolate bar, energy bar, or small sandwiches.&lt;/li&gt;
+&lt;li&gt;camera.&lt;/li&gt;
+&lt;li&gt;some sense of adventure :D&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div&gt;Please don't bring big backpacks or large purses. You really don't want to carry all those things on the bike. A small backpack will be ideal. &lt;/div&gt;
+&lt;div&gt; &lt;/div&gt;
+&lt;div&gt;The capacity of event is limited. So, please let me know if you'd like to attend the event using the form emailed to you, by the end of Thursday. Note that by RSVP this event through the link you agree that &quot;you&quot;, not the event organizer, CSGSA, or anyone else, are entirely responsible for your own safety in this event.&lt;/div&gt;
+&lt;div&gt; &lt;/div&gt;
+&lt;div&gt; &lt;/div&gt;
+&lt;div&gt;-------------------------------------------------------------------------------------------------------------&lt;/div&gt;
+&lt;div&gt;
+&lt;div&gt;&lt;span style=&quot;font-family: arial, sans-serif;&quot;&gt;Arash Vahdat&lt;/span&gt;&lt;/div&gt;
+&lt;div&gt;&lt;span style=&quot;font-family: arial, sans-serif;&quot;&gt;&lt;br /&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div&gt;&lt;span style=&quot;font-family: arial, sans-serif;&quot;&gt;Vice President of Communications&lt;/span&gt;&lt;/div&gt;
+&lt;div&gt;&lt;span style=&quot;font-family: arial, sans-serif;&quot;&gt;Computer Science Graduate Students Association (CS GSA)&lt;/span&gt;&lt;/div&gt;
+&lt;div&gt;&lt;span style=&quot;font-family: arial, sans-serif;&quot;&gt;School of Computing Science &lt;/span&gt;&lt;/div&gt;
+&lt;div&gt;&lt;span style=&quot;font-family: arial, sans-serif;&quot;&gt;Simon Fraser University&lt;/span&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div&gt;
+&lt;div&gt;&lt;span style=&quot;font-family: arial, sans-serif;&quot;&gt;&lt;span&gt;Email: &lt;a href=&quot;mailto:avahdat@sfu.ca&quot; target=&quot;_blank&quot;&gt;avahdat@sfu.ca&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div&gt;&lt;span style=&quot;font-family: arial, sans-serif;&quot;&gt;&lt;span&gt;CS GSA website: &lt;a href=&quot;http://csgsa.cs.sfu.ca/index.php/en/&quot; target=&quot;_blank&quot;&gt;http://csgsa.cs.sfu.ca/index.php/en/&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;/div&gt;</summary>
+		<content type="html">&lt;div&gt;As we planed earlier this semester, we are going to have a biking event at Stanley Park this weekend. The plan is to rent bikes from the stores next to the Park and go for a ride around Stanley Park. Typically the ride is short but exciting. It may take up to two hours depending on how often we stop. &lt;/div&gt;
+&lt;div&gt; &lt;/div&gt;
+&lt;div&gt; &lt;/div&gt;
+&lt;div&gt;Where to meet?&lt;/div&gt;
+&lt;div&gt;We are going to meet at the intersection of &lt;strong&gt;Denman St and Alberni St&lt;/strong&gt;. If it's your first time to go to the area use Google map to get direction, &lt;a href=&quot;https://maps.google.ca/maps?q=alberni+and+denman&amp;amp;hl=en&amp;amp;ll=49.292518,-123.133392&amp;amp;spn=0.004625,0.013078&amp;amp;sll=49.285026,-122.756592&amp;amp;sspn=0.147134,0.41851&amp;amp;hnear=Denman+St+%26+Alberni+St,+Vancouver,+Greater+Vancouver,+British+Columbia&amp;amp;t=m&amp;amp;z=17&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;. If it's hard for you to get there on your own, send me an email and I will arrange someone to help you get there.&lt;/div&gt;
+&lt;div&gt; &lt;/div&gt;
+&lt;div&gt;When?&lt;/div&gt;
+&lt;div&gt;We are going to meet &lt;strong&gt;10:00am on Sunday&lt;/strong&gt;, Oct 13 (this weekend). Please &lt;strong&gt;be sharp&lt;/strong&gt;. We will not wait for late people. Current weather prediction is sunny for the whole day, but in the case prediction changes, we may change the schedule of event. The final call will be made on Friday.&lt;/div&gt;
+&lt;div&gt; &lt;/div&gt;
+&lt;div&gt;What to bring?&lt;/div&gt;
+&lt;div&gt;CSGSA will cover the bike rental which also includes helmet. But your are recommended to bring the following items for yourself:&lt;/div&gt;
+&lt;div&gt;
+&lt;ul&gt;
+&lt;li&gt;water.&lt;/li&gt;
+&lt;li&gt;some snacks like chocolate bar, energy bar, or small sandwiches.&lt;/li&gt;
+&lt;li&gt;camera.&lt;/li&gt;
+&lt;li&gt;some sense of adventure :D&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div&gt;Please don't bring big backpacks or large purses. You really don't want to carry all those things on the bike. A small backpack will be ideal. &lt;/div&gt;
+&lt;div&gt; &lt;/div&gt;
+&lt;div&gt;The capacity of event is limited. So, please let me know if you'd like to attend the event using the form emailed to you, by the end of Thursday. Note that by RSVP this event through the link you agree that &quot;you&quot;, not the event organizer, CSGSA, or anyone else, are entirely responsible for your own safety in this event.&lt;/div&gt;
+&lt;div&gt; &lt;/div&gt;
+&lt;div&gt; &lt;/div&gt;
+&lt;div&gt;-------------------------------------------------------------------------------------------------------------&lt;/div&gt;
+&lt;div&gt;
+&lt;div&gt;&lt;span style=&quot;font-family: arial, sans-serif;&quot;&gt;Arash Vahdat&lt;/span&gt;&lt;/div&gt;
+&lt;div&gt;&lt;span style=&quot;font-family: arial, sans-serif;&quot;&gt;&lt;br /&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div&gt;&lt;span style=&quot;font-family: arial, sans-serif;&quot;&gt;Vice President of Communications&lt;/span&gt;&lt;/div&gt;
+&lt;div&gt;&lt;span style=&quot;font-family: arial, sans-serif;&quot;&gt;Computer Science Graduate Students Association (CS GSA)&lt;/span&gt;&lt;/div&gt;
+&lt;div&gt;&lt;span style=&quot;font-family: arial, sans-serif;&quot;&gt;School of Computing Science &lt;/span&gt;&lt;/div&gt;
+&lt;div&gt;&lt;span style=&quot;font-family: arial, sans-serif;&quot;&gt;Simon Fraser University&lt;/span&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div&gt;
+&lt;div&gt;&lt;span style=&quot;font-family: arial, sans-serif;&quot;&gt;&lt;span&gt;Email: &lt;a href=&quot;mailto:avahdat@sfu.ca&quot; target=&quot;_blank&quot;&gt;avahdat@sfu.ca&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div&gt;&lt;span style=&quot;font-family: arial, sans-serif;&quot;&gt;&lt;span&gt;CS GSA website: &lt;a href=&quot;http://csgsa.cs.sfu.ca/index.php/en/&quot; target=&quot;_blank&quot;&gt;http://csgsa.cs.sfu.ca/index.php/en/&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;/div&gt;</content>
+	</entry>
+	<entry>
+		<title>CS GSA Game Night</title>
+		<link rel="alternate" type="text/html" href="http://csgsa.cs.sfu.ca/index.php/en/150-cs-gsa-game-nighet"/>
+		<published>2013-09-18T13:11:25+00:00</published>
+		<updated>2013-09-18T13:11:25+00:00</updated>
+		<id>http://csgsa.cs.sfu.ca/index.php/en/150-cs-gsa-game-nighet</id>
+		<author>
+			<name>Arash Vahdat</name>
+			<email>avahdat@sfu.ca</email>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;span&gt;Hey everyone,&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;&lt;span&gt;Your &quot;Computer Science Graduate Students Association&quot; will be holding it's first event for the fall semester this &lt;/span&gt;&lt;span class=&quot;aBn&quot; data-term=&quot;goog_655582985&quot;&gt;&lt;span class=&quot;aQJ&quot;&gt;Thursday September 19th&lt;/span&gt;&lt;/span&gt;&lt;span&gt;.&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;&lt;span&gt;For this first hang out we decided to organize a game night were we could all get together and get to know each other. What would be better than a FIFA party among lab mates, or a poker game or any other game you can think of ... yes we are full of resources! (Chess, Cards, Uno, Risk,ping pong ...)&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;&lt;span&gt;ATTENTION ATTENTION!!!&lt;/span&gt;&lt;br /&gt;&lt;span&gt;THIS EVENT INCLUDES REFRESHMENTs&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;span&gt;So book your &lt;/span&gt;&lt;span class=&quot;aBn&quot; data-term=&quot;goog_655582986&quot;&gt;&lt;span class=&quot;aQJ&quot;&gt;Thursday&lt;/span&gt;&lt;/span&gt;&lt;span&gt; night after class/work and be there starting &lt;/span&gt;&lt;span class=&quot;aBn&quot; data-term=&quot;goog_655582987&quot;&gt;&lt;span class=&quot;aQJ&quot;&gt;5pm&lt;/span&gt;&lt;/span&gt;&lt;span&gt; on TASC1 9204 to meet all the members of your CS GSA community&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;&lt;span&gt;So to make it short:&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;&lt;span&gt;    WHERE: TASC1 9204 and Game Room&lt;/span&gt;&lt;br /&gt;&lt;span&gt;    WHEN: &lt;/span&gt;&lt;span class=&quot;aBn&quot; data-term=&quot;goog_655582988&quot;&gt;&lt;span class=&quot;aQJ&quot;&gt;Thursday September 19th, 5pm to 8pm&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;&lt;span&gt;    WHAT: REFRESHMENTs ... and other stuff!&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;span&gt;Hope to see you there!&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;span&gt;------------------&lt;/span&gt;&lt;br /&gt;&lt;span&gt;Aïcha&lt;/span&gt;&lt;br /&gt;&lt;span&gt;CS GSA executive member&lt;/span&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;span&gt;Hey everyone,&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;&lt;span&gt;Your &quot;Computer Science Graduate Students Association&quot; will be holding it's first event for the fall semester this &lt;/span&gt;&lt;span class=&quot;aBn&quot; data-term=&quot;goog_655582985&quot;&gt;&lt;span class=&quot;aQJ&quot;&gt;Thursday September 19th&lt;/span&gt;&lt;/span&gt;&lt;span&gt;.&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;&lt;span&gt;For this first hang out we decided to organize a game night were we could all get together and get to know each other. What would be better than a FIFA party among lab mates, or a poker game or any other game you can think of ... yes we are full of resources! (Chess, Cards, Uno, Risk,ping pong ...)&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;&lt;span&gt;ATTENTION ATTENTION!!!&lt;/span&gt;&lt;br /&gt;&lt;span&gt;THIS EVENT INCLUDES REFRESHMENTs&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;span&gt;So book your &lt;/span&gt;&lt;span class=&quot;aBn&quot; data-term=&quot;goog_655582986&quot;&gt;&lt;span class=&quot;aQJ&quot;&gt;Thursday&lt;/span&gt;&lt;/span&gt;&lt;span&gt; night after class/work and be there starting &lt;/span&gt;&lt;span class=&quot;aBn&quot; data-term=&quot;goog_655582987&quot;&gt;&lt;span class=&quot;aQJ&quot;&gt;5pm&lt;/span&gt;&lt;/span&gt;&lt;span&gt; on TASC1 9204 to meet all the members of your CS GSA community&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;&lt;span&gt;So to make it short:&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;&lt;span&gt;    WHERE: TASC1 9204 and Game Room&lt;/span&gt;&lt;br /&gt;&lt;span&gt;    WHEN: &lt;/span&gt;&lt;span class=&quot;aBn&quot; data-term=&quot;goog_655582988&quot;&gt;&lt;span class=&quot;aQJ&quot;&gt;Thursday September 19th, 5pm to 8pm&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;&lt;span&gt;    WHAT: REFRESHMENTs ... and other stuff!&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;span&gt;Hope to see you there!&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;span&gt;------------------&lt;/span&gt;&lt;br /&gt;&lt;span&gt;Aïcha&lt;/span&gt;&lt;br /&gt;&lt;span&gt;CS GSA executive member&lt;/span&gt;&lt;/p&gt;</content>
+	</entry>
+	<entry>
+		<title>CS GSA July News</title>
+		<link rel="alternate" type="text/html" href="http://csgsa.cs.sfu.ca/index.php/en/148-cs-gsa-july-news"/>
+		<published>2013-07-12T22:29:13+00:00</published>
+		<updated>2013-07-12T22:29:13+00:00</updated>
+		<id>http://csgsa.cs.sfu.ca/index.php/en/148-cs-gsa-july-news</id>
+		<author>
+			<name>Evgeny Vinnik</name>
+			<email>evgeny_vinnik@sfu.ca</email>
+		</author>
+		<summary type="html">&lt;div&gt;Hi everyone,&lt;/div&gt;
+&lt;div&gt; &lt;/div&gt;
+&lt;div&gt;1. As you all know CS GSA on June 19, 20 and July 3 held a colloquium, where our fellow graduate students gave talks about their research.&lt;/div&gt;
+&lt;div&gt;Everything went very smooth, and we had more than 100 people in attendance (3 days combined). We ate pile of pizza, drank lots of pop and had a very smart discussion about science and stuff.&lt;/div&gt;
+&lt;div&gt; &lt;/div&gt;
+&lt;div&gt;Each talk was recorded and posted on YouTube. I've compiled a playlist of videos and you can check it out by the following link&lt;/div&gt;
+&lt;div&gt;&lt;a href=&quot;http://www.youtube.com/playlist?list=PLNC6lmsIySCOeINW-95UagVNAQN0Xvkx_&quot;&gt;http://www.youtube.com/playlist?list=PLNC6lmsIySCOeINW-95UagVNAQN0Xvkx_&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;Note that there is no audio on the first day speakers' videos due to technical glitch.&lt;/div&gt;
+&lt;div&gt; &lt;/div&gt;
+&lt;div&gt;I hope that both speakers and attendees liked this type of colloquium and get to know about each other's research more.&lt;/div&gt;
+&lt;div&gt; &lt;/div&gt;
+&lt;div&gt;2. Our CS GSA need new executive members to keep things going in the new semester and beyound.&lt;/div&gt;
+&lt;div&gt;Particularly we need:&lt;/div&gt;
+&lt;div&gt;1. &lt;strong&gt;CS GSA president&lt;/strong&gt;. I will be stepping down on July 26th. I'll be on internship and won't be around.&lt;/div&gt;
+&lt;div&gt;2. &lt;strong&gt;Treasuser&lt;/strong&gt;. Our current treasurer Iman Sarrafi graduated recently.&lt;/div&gt;
+&lt;div&gt;3. &lt;strong&gt;Secretary&lt;/strong&gt;. Jianqiao Li graduated.&lt;/div&gt;
+&lt;div&gt;4. &lt;strong&gt;GSS Representative&lt;/strong&gt;. Frederick will be away as well.&lt;/div&gt;
+&lt;div&gt; &lt;/div&gt;
+&lt;div&gt;Basically, the only member who stays is Mengliu Zhao. She is our vice president.&lt;/div&gt;
+&lt;div&gt; &lt;/div&gt;
+&lt;div&gt;So if you want to become an executive member - drop me a message and we'll figure out how to proceed from now.&lt;/div&gt;
+&lt;div&gt;I also should remind that without executive members our CS GSA won't be able to function normally, and we would have to pull the plug on such things as tea socials and equipment purchases.&lt;/div&gt;
+&lt;div&gt; &lt;/div&gt;
+&lt;div&gt;P.S. and yes we are holding a BBQ event sometime soon, so I hope that everyone could join.&lt;/div&gt;
+&lt;div&gt;-- &lt;br /&gt;Evgeny Vinnik&lt;/div&gt;
+&lt;div&gt;CS GSA President&lt;/div&gt;</summary>
+		<content type="html">&lt;div&gt;Hi everyone,&lt;/div&gt;
+&lt;div&gt; &lt;/div&gt;
+&lt;div&gt;1. As you all know CS GSA on June 19, 20 and July 3 held a colloquium, where our fellow graduate students gave talks about their research.&lt;/div&gt;
+&lt;div&gt;Everything went very smooth, and we had more than 100 people in attendance (3 days combined). We ate pile of pizza, drank lots of pop and had a very smart discussion about science and stuff.&lt;/div&gt;
+&lt;div&gt; &lt;/div&gt;
+&lt;div&gt;Each talk was recorded and posted on YouTube. I've compiled a playlist of videos and you can check it out by the following link&lt;/div&gt;
+&lt;div&gt;&lt;a href=&quot;http://www.youtube.com/playlist?list=PLNC6lmsIySCOeINW-95UagVNAQN0Xvkx_&quot;&gt;http://www.youtube.com/playlist?list=PLNC6lmsIySCOeINW-95UagVNAQN0Xvkx_&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;Note that there is no audio on the first day speakers' videos due to technical glitch.&lt;/div&gt;
+&lt;div&gt; &lt;/div&gt;
+&lt;div&gt;I hope that both speakers and attendees liked this type of colloquium and get to know about each other's research more.&lt;/div&gt;
+&lt;div&gt; &lt;/div&gt;
+&lt;div&gt;2. Our CS GSA need new executive members to keep things going in the new semester and beyound.&lt;/div&gt;
+&lt;div&gt;Particularly we need:&lt;/div&gt;
+&lt;div&gt;1. &lt;strong&gt;CS GSA president&lt;/strong&gt;. I will be stepping down on July 26th. I'll be on internship and won't be around.&lt;/div&gt;
+&lt;div&gt;2. &lt;strong&gt;Treasuser&lt;/strong&gt;. Our current treasurer Iman Sarrafi graduated recently.&lt;/div&gt;
+&lt;div&gt;3. &lt;strong&gt;Secretary&lt;/strong&gt;. Jianqiao Li graduated.&lt;/div&gt;
+&lt;div&gt;4. &lt;strong&gt;GSS Representative&lt;/strong&gt;. Frederick will be away as well.&lt;/div&gt;
+&lt;div&gt; &lt;/div&gt;
+&lt;div&gt;Basically, the only member who stays is Mengliu Zhao. She is our vice president.&lt;/div&gt;
+&lt;div&gt; &lt;/div&gt;
+&lt;div&gt;So if you want to become an executive member - drop me a message and we'll figure out how to proceed from now.&lt;/div&gt;
+&lt;div&gt;I also should remind that without executive members our CS GSA won't be able to function normally, and we would have to pull the plug on such things as tea socials and equipment purchases.&lt;/div&gt;
+&lt;div&gt; &lt;/div&gt;
+&lt;div&gt;P.S. and yes we are holding a BBQ event sometime soon, so I hope that everyone could join.&lt;/div&gt;
+&lt;div&gt;-- &lt;br /&gt;Evgeny Vinnik&lt;/div&gt;
+&lt;div&gt;CS GSA President&lt;/div&gt;</content>
+	</entry>
+	<entry>
+		<title>CS GSA Colloquium Calendar</title>
+		<link rel="alternate" type="text/html" href="http://csgsa.cs.sfu.ca/index.php/en/145-cs-gsa-colloquium-calendar"/>
+		<published>2013-06-07T11:48:25+00:00</published>
+		<updated>2013-06-07T11:48:25+00:00</updated>
+		<id>http://csgsa.cs.sfu.ca/index.php/en/145-cs-gsa-colloquium-calendar</id>
+		<author>
+			<name>Evgeny Vinnik</name>
+			<email>evgeny_vinnik@sfu.ca</email>
+		</author>
+		<summary type="html">&lt;p&gt;Hello everyone,&lt;/p&gt;
+&lt;p&gt; &lt;span style=&quot;line-height: 1.3em;&quot;&gt;BIG NEWS: we have dates for our colloquium and confirmed list of speakers!&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;CS GSA Scientific Colloquium:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Dates: &lt;strong&gt;June 19&lt;sup&gt;th&lt;/sup&gt;, June 20&lt;sup&gt;th&lt;/sup&gt;, July 3&lt;sup&gt;rd&lt;/sup&gt; 2013&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Times: &lt;strong&gt;12:30 pm – 2:30 pm&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Place: &lt;strong&gt;TASC 1 room 9204&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;In the past two weeks we were quite busy searching for the speakers among the SFU CS graduate students: here is the list of our speakers and detailed schedule:&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;June 19&lt;sup&gt;th&lt;/sup&gt; &lt;/strong&gt;(Wednesday)&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;12:30pm&lt;/strong&gt;           Honghua Li&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;12:50pm&lt;/strong&gt;           Stephen Makonin&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1:10pm&lt;/strong&gt;             Kamyar Khodamorahi&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1:30pm&lt;/strong&gt;             Jeremy Kawahara&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1:50pm&lt;/strong&gt;             Colin Brown&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2:10pm&lt;/strong&gt;             Tayebeh Lotfi Mahyari&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt; &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;June 20&lt;sup&gt;th&lt;/sup&gt;&lt;/strong&gt; (Thursday)&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;12:30pm&lt;/strong&gt;           Mohammad Hosseini&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;12:50pm&lt;/strong&gt;           Pouya Bastani&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1:10pm&lt;/strong&gt;             Frederick Mallman&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1:30pm&lt;/strong&gt;             Erfan Sageqi Azer&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1:50pm&lt;/strong&gt;             MengLiu Zhao&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2:10pm&lt;/strong&gt;             Rohit Dholakia&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt; &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;July 3&lt;sup&gt;rd&lt;/sup&gt;&lt;/strong&gt; (Wednesday)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt; &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;12:30pm&lt;/strong&gt;           Shenwei Huang&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;12:50pm&lt;/strong&gt;           Marjan Rouhipour&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1:10pm&lt;/strong&gt;             Hengameh Mirzaalian&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1:30pm&lt;/strong&gt;             Ruiwen Chen&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1:50pm&lt;/strong&gt;             Fatemeh Riahi&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2:10pm&lt;/strong&gt;             Yasaman Sefidgar        &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Now only two big things left: organize food for guests and invite as many CS grads as possible!&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;P.S. You can also see the schedule as a Google Calendar: &lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.google.com/calendar/embed?src=l3lrqfi4quns3t2r5834htiup8%40group.calendar.google.com&amp;amp;ctz=America/Vancouver&quot;&gt;https://www.google.com/calendar/embed?src=l3lrqfi4quns3t2r5834htiup8%40group.calendar.google.com&amp;amp;ctz=America/Vancouver&lt;/a&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;Hello everyone,&lt;/p&gt;
+&lt;p&gt; &lt;span style=&quot;line-height: 1.3em;&quot;&gt;BIG NEWS: we have dates for our colloquium and confirmed list of speakers!&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;CS GSA Scientific Colloquium:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Dates: &lt;strong&gt;June 19&lt;sup&gt;th&lt;/sup&gt;, June 20&lt;sup&gt;th&lt;/sup&gt;, July 3&lt;sup&gt;rd&lt;/sup&gt; 2013&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Times: &lt;strong&gt;12:30 pm – 2:30 pm&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Place: &lt;strong&gt;TASC 1 room 9204&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;In the past two weeks we were quite busy searching for the speakers among the SFU CS graduate students: here is the list of our speakers and detailed schedule:&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;June 19&lt;sup&gt;th&lt;/sup&gt; &lt;/strong&gt;(Wednesday)&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;12:30pm&lt;/strong&gt;           Honghua Li&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;12:50pm&lt;/strong&gt;           Stephen Makonin&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1:10pm&lt;/strong&gt;             Kamyar Khodamorahi&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1:30pm&lt;/strong&gt;             Jeremy Kawahara&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1:50pm&lt;/strong&gt;             Colin Brown&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2:10pm&lt;/strong&gt;             Tayebeh Lotfi Mahyari&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt; &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;June 20&lt;sup&gt;th&lt;/sup&gt;&lt;/strong&gt; (Thursday)&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;12:30pm&lt;/strong&gt;           Mohammad Hosseini&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;12:50pm&lt;/strong&gt;           Pouya Bastani&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1:10pm&lt;/strong&gt;             Frederick Mallman&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1:30pm&lt;/strong&gt;             Erfan Sageqi Azer&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1:50pm&lt;/strong&gt;             MengLiu Zhao&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2:10pm&lt;/strong&gt;             Rohit Dholakia&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt; &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;July 3&lt;sup&gt;rd&lt;/sup&gt;&lt;/strong&gt; (Wednesday)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt; &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;12:30pm&lt;/strong&gt;           Shenwei Huang&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;12:50pm&lt;/strong&gt;           Marjan Rouhipour&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1:10pm&lt;/strong&gt;             Hengameh Mirzaalian&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1:30pm&lt;/strong&gt;             Ruiwen Chen&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1:50pm&lt;/strong&gt;             Fatemeh Riahi&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2:10pm&lt;/strong&gt;             Yasaman Sefidgar        &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Now only two big things left: organize food for guests and invite as many CS grads as possible!&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;P.S. You can also see the schedule as a Google Calendar: &lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.google.com/calendar/embed?src=l3lrqfi4quns3t2r5834htiup8%40group.calendar.google.com&amp;amp;ctz=America/Vancouver&quot;&gt;https://www.google.com/calendar/embed?src=l3lrqfi4quns3t2r5834htiup8%40group.calendar.google.com&amp;amp;ctz=America/Vancouver&lt;/a&gt;&lt;/p&gt;</content>
+	</entry>
+	<entry>
+		<title>Upcoming departmental colloquium “Common! Tell us about your research!”</title>
+		<link rel="alternate" type="text/html" href="http://csgsa.cs.sfu.ca/index.php/en/143-upcoming-departmental-colloquium-common-tell-us-about-your-research"/>
+		<published>2013-05-22T13:08:56+00:00</published>
+		<updated>2013-05-22T13:08:56+00:00</updated>
+		<id>http://csgsa.cs.sfu.ca/index.php/en/143-upcoming-departmental-colloquium-common-tell-us-about-your-research</id>
+		<author>
+			<name>Evgeny Vinnik</name>
+			<email>evgeny_vinnik@sfu.ca</email>
+		</author>
+		<summary type="html">&lt;p&gt;Dear fellow researchers,&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;This is an official call for participants in our upcoming departmental colloquium “Common! Tell us about your research!”&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Prelude: during our tea socials many of you approached me with concerns that we never have any events where we can talk about our research.&lt;/p&gt;
+&lt;p&gt;And now we have a great news for you all: we secured a $750 from the GSS to organize a professional development event.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;CS GSA is organizing a departmental colloquium called “Common! Tell us about your research!”, where graduate students will tell about their research and receive payment for doing so.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Here are details:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;We are looking for speakers.&lt;/strong&gt; If you are interested in making a &lt;strong&gt;15 minute&lt;/strong&gt; &lt;strong&gt;talk&lt;/strong&gt; about your research for the &lt;strong&gt;$35&lt;/strong&gt; you definitely should write me a mail to the (evinnik&amp;lt;at&amp;gt;sfu.ca).&lt;/li&gt;
+&lt;li&gt;Currently we are planning to have a two day event lasting 1.5 hours (&lt;strong&gt;6 speakers per session&lt;/strong&gt;, &lt;strong&gt;12&lt;/strong&gt; in total).&lt;/li&gt;
+&lt;li&gt;Once list of speakers will be formed by the jury we will book the room and make a public announcement on date and place.&lt;/li&gt;
+&lt;li&gt;All talks will be recorded and posted on YouTube channel. You should be agree to this condition.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;While forming a list of speakers we will try to put the emphasis on the variety of research labs and the research directions presented.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;With the current funding we are planning to have a two day event, however currently we are negotiating for additional funding from the School of Computing Science to add one extra day.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;If you have any questions regarding the event organization – send me a letter (evinnik&amp;lt;at&amp;gt;sfu.ca).&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;Dear fellow researchers,&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;This is an official call for participants in our upcoming departmental colloquium “Common! Tell us about your research!”&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Prelude: during our tea socials many of you approached me with concerns that we never have any events where we can talk about our research.&lt;/p&gt;
+&lt;p&gt;And now we have a great news for you all: we secured a $750 from the GSS to organize a professional development event.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;CS GSA is organizing a departmental colloquium called “Common! Tell us about your research!”, where graduate students will tell about their research and receive payment for doing so.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Here are details:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;We are looking for speakers.&lt;/strong&gt; If you are interested in making a &lt;strong&gt;15 minute&lt;/strong&gt; &lt;strong&gt;talk&lt;/strong&gt; about your research for the &lt;strong&gt;$35&lt;/strong&gt; you definitely should write me a mail to the (evinnik&amp;lt;at&amp;gt;sfu.ca).&lt;/li&gt;
+&lt;li&gt;Currently we are planning to have a two day event lasting 1.5 hours (&lt;strong&gt;6 speakers per session&lt;/strong&gt;, &lt;strong&gt;12&lt;/strong&gt; in total).&lt;/li&gt;
+&lt;li&gt;Once list of speakers will be formed by the jury we will book the room and make a public announcement on date and place.&lt;/li&gt;
+&lt;li&gt;All talks will be recorded and posted on YouTube channel. You should be agree to this condition.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;While forming a list of speakers we will try to put the emphasis on the variety of research labs and the research directions presented.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;With the current funding we are planning to have a two day event, however currently we are negotiating for additional funding from the School of Computing Science to add one extra day.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;If you have any questions regarding the event organization – send me a letter (evinnik&amp;lt;at&amp;gt;sfu.ca).&lt;/p&gt;</content>
+	</entry>
+	<entry>
+		<title>CS GSA Meeting on May 28th at 12:00 at TASC1 9204</title>
+		<link rel="alternate" type="text/html" href="http://csgsa.cs.sfu.ca/index.php/en/142-cs-gsa-meeting-on-may-28th-at-1200-at-tasc1-9204"/>
+		<published>2013-05-22T13:06:54+00:00</published>
+		<updated>2013-05-22T13:06:54+00:00</updated>
+		<id>http://csgsa.cs.sfu.ca/index.php/en/142-cs-gsa-meeting-on-may-28th-at-1200-at-tasc1-9204</id>
+		<author>
+			<name>Evgeny Vinnik</name>
+			<email>evgeny_vinnik@sfu.ca</email>
+		</author>
+		<summary type="html">&lt;div&gt;Fellow graduate students of Computing Science,&lt;/div&gt;
+&lt;div&gt; &lt;/div&gt;
+&lt;div&gt;We are organizing yet another meeting.&lt;/div&gt;
+&lt;div&gt;Wait. This one is special, however. &lt;/div&gt;
+&lt;div&gt; &lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;This is the first meeting of Summer 2013!&lt;/strong&gt;&lt;/div&gt;
+&lt;div&gt; &lt;/div&gt;
+&lt;div&gt;Where and when it will happen:&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Place: TASC 1 9204&lt;/strong&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Date: May 28th, 2013&lt;/strong&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Time: 12:00 (noon)&lt;/strong&gt;&lt;/div&gt;
+&lt;div&gt; &lt;/div&gt;
+&lt;div&gt;Purpose: a free food event disguised as a decision making gathering&lt;/div&gt;
+&lt;div&gt; &lt;/div&gt;
+&lt;div&gt;&lt;span&gt;Now to the official part:&lt;/span&gt;&lt;/div&gt;
+&lt;div&gt; &lt;/div&gt;
+&lt;div&gt;Our budget for the &lt;strong&gt;Summer 2013&lt;/strong&gt; semester is &lt;strong&gt;$392.78&lt;/strong&gt; + we recently secured a &lt;strong&gt;$750&lt;/strong&gt; grant from GSS to organize a professional development event.&lt;/div&gt;
+&lt;div&gt; &lt;/div&gt;
+&lt;div&gt;This is a tentative agenda for the meeting (as well as spending proposal):&lt;/div&gt;
+&lt;div&gt;&lt;span&gt;1. We need to contribute &lt;strong&gt;$100&lt;/strong&gt; for the organization of colloquium otherwise GSS would not give us the grant (those are the rules).&lt;/span&gt;&lt;br /&gt;&lt;span&gt;2. We will need to spend at least &lt;strong&gt;$150&lt;/strong&gt; towards the organization of our first meeting, in order to assemble enough people (at least 10) to pass the decisions. The money would be spent on pizza and refreshments, which we are going to consume right there, during the meeting&lt;/span&gt;&lt;br /&gt;&lt;span&gt;3. This leaves us with &lt;strong&gt;$142.78&lt;/strong&gt; which we can spend on one movie night, or 2 tea socials&lt;/span&gt;&lt;/div&gt;
+&lt;div&gt; &lt;/div&gt;
+&lt;div&gt;So ther you go, if you have any questions, please, address them to me.&lt;/div&gt;
+&lt;div&gt;Please mark event on your calendars, and invite your CS Grad buddies: we need at least 10 people in attendance in order to pass decisions.&lt;/div&gt;
+&lt;div&gt; &lt;/div&gt;
+&lt;div&gt;P.S. It is the 21 century, the age of needless social networks!&lt;/div&gt;
+&lt;div&gt;We joined the movement and organized a Facebook group - &lt;span style=&quot;font-size: x-small;&quot;&gt;&lt;a class=&quot;daria-goto-anchor&quot; href=&quot;https://r.mail.yandex.net/urls/3Lzr97mB2c7tEw0reZu2Vg,1369204742/www.facebook.com%2Fgroups%2Fcssfu%2F&quot; target=&quot;_blank&quot;&gt;https://www.facebook.com/groups/cssfu/&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: small;&quot;&gt;Everyone is welcome to join! There you will find the latest news!&lt;/span&gt;&lt;/p&gt;
+&lt;div&gt; &lt;/div&gt;
+&lt;div&gt;-- &lt;br /&gt;Evgeny Vinnik,&lt;/div&gt;
+&lt;div&gt;CS GSA President&lt;/div&gt;</summary>
+		<content type="html">&lt;div&gt;Fellow graduate students of Computing Science,&lt;/div&gt;
+&lt;div&gt; &lt;/div&gt;
+&lt;div&gt;We are organizing yet another meeting.&lt;/div&gt;
+&lt;div&gt;Wait. This one is special, however. &lt;/div&gt;
+&lt;div&gt; &lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;This is the first meeting of Summer 2013!&lt;/strong&gt;&lt;/div&gt;
+&lt;div&gt; &lt;/div&gt;
+&lt;div&gt;Where and when it will happen:&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Place: TASC 1 9204&lt;/strong&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Date: May 28th, 2013&lt;/strong&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Time: 12:00 (noon)&lt;/strong&gt;&lt;/div&gt;
+&lt;div&gt; &lt;/div&gt;
+&lt;div&gt;Purpose: a free food event disguised as a decision making gathering&lt;/div&gt;
+&lt;div&gt; &lt;/div&gt;
+&lt;div&gt;&lt;span&gt;Now to the official part:&lt;/span&gt;&lt;/div&gt;
+&lt;div&gt; &lt;/div&gt;
+&lt;div&gt;Our budget for the &lt;strong&gt;Summer 2013&lt;/strong&gt; semester is &lt;strong&gt;$392.78&lt;/strong&gt; + we recently secured a &lt;strong&gt;$750&lt;/strong&gt; grant from GSS to organize a professional development event.&lt;/div&gt;
+&lt;div&gt; &lt;/div&gt;
+&lt;div&gt;This is a tentative agenda for the meeting (as well as spending proposal):&lt;/div&gt;
+&lt;div&gt;&lt;span&gt;1. We need to contribute &lt;strong&gt;$100&lt;/strong&gt; for the organization of colloquium otherwise GSS would not give us the grant (those are the rules).&lt;/span&gt;&lt;br /&gt;&lt;span&gt;2. We will need to spend at least &lt;strong&gt;$150&lt;/strong&gt; towards the organization of our first meeting, in order to assemble enough people (at least 10) to pass the decisions. The money would be spent on pizza and refreshments, which we are going to consume right there, during the meeting&lt;/span&gt;&lt;br /&gt;&lt;span&gt;3. This leaves us with &lt;strong&gt;$142.78&lt;/strong&gt; which we can spend on one movie night, or 2 tea socials&lt;/span&gt;&lt;/div&gt;
+&lt;div&gt; &lt;/div&gt;
+&lt;div&gt;So ther you go, if you have any questions, please, address them to me.&lt;/div&gt;
+&lt;div&gt;Please mark event on your calendars, and invite your CS Grad buddies: we need at least 10 people in attendance in order to pass decisions.&lt;/div&gt;
+&lt;div&gt; &lt;/div&gt;
+&lt;div&gt;P.S. It is the 21 century, the age of needless social networks!&lt;/div&gt;
+&lt;div&gt;We joined the movement and organized a Facebook group - &lt;span style=&quot;font-size: x-small;&quot;&gt;&lt;a class=&quot;daria-goto-anchor&quot; href=&quot;https://r.mail.yandex.net/urls/3Lzr97mB2c7tEw0reZu2Vg,1369204742/www.facebook.com%2Fgroups%2Fcssfu%2F&quot; target=&quot;_blank&quot;&gt;https://www.facebook.com/groups/cssfu/&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: small;&quot;&gt;Everyone is welcome to join! There you will find the latest news!&lt;/span&gt;&lt;/p&gt;
+&lt;div&gt; &lt;/div&gt;
+&lt;div&gt;-- &lt;br /&gt;Evgeny Vinnik,&lt;/div&gt;
+&lt;div&gt;CS GSA President&lt;/div&gt;</content>
+	</entry>
+	<entry>
+		<title>Spring 2013 results</title>
+		<link rel="alternate" type="text/html" href="http://csgsa.cs.sfu.ca/index.php/en/140-spring-2013-results"/>
+		<published>2013-04-24T13:39:00+00:00</published>
+		<updated>2013-04-24T13:39:00+00:00</updated>
+		<id>http://csgsa.cs.sfu.ca/index.php/en/140-spring-2013-results</id>
+		<author>
+			<name>Evgeny Vinnik</name>
+			<email>evgeny_vinnik@sfu.ca</email>
+		</author>
+		<summary type="html">&lt;p&gt;Dear colleagues!&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Today our association officially closed Spring 2013 semester.&lt;/p&gt;
+&lt;p&gt;We had an awesome pizza social organized by Iman, with lots of food, deserts, drinks and cheerful chats.&lt;/p&gt;
+&lt;p&gt;Also we had a mini-meeting where we elected Frederick as our new GSS representative.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;I guess it is an appropriate moment to review this semester: what was planned and what was done.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;First we have a whole bunch of new people on our executive committee: Iman Sarrafi is our treasurer, Jianqiao Li is our secretary and Frederick is our GSS representative.&lt;/li&gt;
+&lt;li&gt;We successfully fulfilled ALL our financial motions:&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;-          We purchased not 4, but 6 Xbox gamepads (with significant discount)&lt;/p&gt;
+&lt;p&gt;-          We bought a foosball for our game room: now it feels complete [mancave ;] with ping pong, Xbox and foosball.&lt;/p&gt;
+&lt;p&gt;-          We hold several events that promote networking among graduate students: meeting with pizza, paintball event, and pizza-event.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Life goes on and quite soon we will have another event with free food, which would be called “First CS GSA Meeting of the Summer”, where once again we will decide how to spend our budget, which I expect would be around $900.&lt;/p&gt;
+&lt;p&gt;Already we can start compiling a tentative agenda, currently among all proposals we have:&lt;/p&gt;
+&lt;p&gt;-          Summer BBQ&lt;/p&gt;
+&lt;p&gt;-          Purchase of Electronic Piano&lt;/p&gt;
+&lt;p&gt;-          and the most important: a research-oriented event “Common tell us about your research!”&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;P.S. If you have Facebook friends who are SFU CS grad students, but not in our &lt;a href=&quot;https://www.facebook.com/groups/cssfu/&quot;&gt;Facebook group&lt;/a&gt; – please invite them.&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;Dear colleagues!&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Today our association officially closed Spring 2013 semester.&lt;/p&gt;
+&lt;p&gt;We had an awesome pizza social organized by Iman, with lots of food, deserts, drinks and cheerful chats.&lt;/p&gt;
+&lt;p&gt;Also we had a mini-meeting where we elected Frederick as our new GSS representative.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;I guess it is an appropriate moment to review this semester: what was planned and what was done.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;First we have a whole bunch of new people on our executive committee: Iman Sarrafi is our treasurer, Jianqiao Li is our secretary and Frederick is our GSS representative.&lt;/li&gt;
+&lt;li&gt;We successfully fulfilled ALL our financial motions:&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;-          We purchased not 4, but 6 Xbox gamepads (with significant discount)&lt;/p&gt;
+&lt;p&gt;-          We bought a foosball for our game room: now it feels complete [mancave ;] with ping pong, Xbox and foosball.&lt;/p&gt;
+&lt;p&gt;-          We hold several events that promote networking among graduate students: meeting with pizza, paintball event, and pizza-event.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Life goes on and quite soon we will have another event with free food, which would be called “First CS GSA Meeting of the Summer”, where once again we will decide how to spend our budget, which I expect would be around $900.&lt;/p&gt;
+&lt;p&gt;Already we can start compiling a tentative agenda, currently among all proposals we have:&lt;/p&gt;
+&lt;p&gt;-          Summer BBQ&lt;/p&gt;
+&lt;p&gt;-          Purchase of Electronic Piano&lt;/p&gt;
+&lt;p&gt;-          and the most important: a research-oriented event “Common tell us about your research!”&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;P.S. If you have Facebook friends who are SFU CS grad students, but not in our &lt;a href=&quot;https://www.facebook.com/groups/cssfu/&quot;&gt;Facebook group&lt;/a&gt; – please invite them.&lt;/p&gt;</content>
+	</entry>
+</feed>

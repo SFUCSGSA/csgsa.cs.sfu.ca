@@ -1,0 +1,372 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb" dir="ltr" >
+        <head>
+                  <base href="http://csgsa.cs.sfu.ca/index.php/en/minutes/125-minutes-for-cs-gsa-meeting-on-september-26-2012" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="robots" content="index, follow" />
+  <meta name="author" content="Evgeny Vinnik" />
+  <meta name="generator" content="Joomla! 1.7 - Open Source Content Management" />
+  <title>Minutes for CS GSA meeting on September 26, 2012 </title>
+  <link href="/templates/beez_20/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+  <link href="http://csgsa.cs.sfu.ca/index.php/en/component/search/?Itemid=466&amp;id=125&amp;format=opensearch" rel="search" title="Search CSGSA" type="application/opensearchdescription+xml" />
+  <link rel="stylesheet" href="/plugins/content/attachments/attachments1.css" type="text/css" />
+  <link rel="stylesheet" href="/plugins/content/attachments/attachments.css" type="text/css" />
+  <script src="/media/system/js/core.js" type="text/javascript"></script>
+  <script src="/media/system/js/mootools-core.js" type="text/javascript"></script>
+  <script src="/media/system/js/caption.js" type="text/javascript"></script>
+  <script src="/media/system/js/mootools-more.js" type="text/javascript"></script>
+  <script src="/plugins/content/attachments/attachments_refresh.js" type="text/javascript"></script>
+  <script src="/templates/beez_20/javascript/md_stylechanger.js" type="text/javascript" defer="defer"></script>
+
+                <link rel="stylesheet" href="/templates/system/css/system.css" type="text/css" />
+                <link rel="stylesheet" href="/templates/beez_20/css/position.css" type="text/css" media="screen,projection" />
+                <link rel="stylesheet" href="/templates/beez_20/css/layout.css" type="text/css" media="screen,projection" />
+                <link rel="stylesheet" href="/templates/beez_20/css/print.css" type="text/css" media="print" />
+                <link rel="stylesheet" href="/templates/beez_20/css/general.css" type="text/css" />
+                <link rel="stylesheet" href="/templates/beez_20/css/personal.css" type="text/css" />
+                <!--[if lte IE 6]>
+                <link href="/templates/beez_20/css/ieonly.css" rel="stylesheet" type="text/css" />
+
+                                <style type="text/css">
+                #line
+                {      width:98% ;
+                }
+                .logoheader
+                {
+                        height:200px;
+
+                }
+                #header ul.menu
+                {
+                display:block !important;
+                      width:98.2% ;
+
+
+                }
+                 </style>
+                                <![endif]-->
+                <!--[if IE 7]>
+                        <link href="/templates/beez_20/css/ie7only.css" rel="stylesheet" type="text/css" />
+                <![endif]-->
+                <script type="text/javascript" src="/templates/beez_20/javascript/hide.js"></script>
+
+                <script type="text/javascript">
+                        var big ='72%';
+                        var small='53%';
+                        var altopen='is open';
+                        var altclose='is closed';
+                        var bildauf='/templates/beez_20/images/plus.png';
+                        var bildzu='/templates/beez_20/images/minus.png';
+                        var rightopen='Open info';
+                        var rightclose='Close info';
+                        var fontSizeTitle='Font size';
+                        var bigger='Bigger';
+                        var reset='Reset';
+                        var smaller='Smaller';
+                        var biggerTitle='Increase size';
+                        var resetTitle='Revert styles to default';
+                        var smallerTitle='Decrease size';
+                </script>
+
+        </head>
+
+        <body>
+
+<div id="all">
+        <div id="back">
+                <div id="header">
+                                <div class="logoheader">
+                                        <h1 id="logo">
+
+                                                                                                                        CSGSA                                                                                <span class="header1">
+                                        Computer Science Graduate Students Association                                        </span></h1>
+                                </div><!-- end logoheader -->
+                                        <ul class="skiplinks">
+                                                <li><a href="#main" class="u2">Skip to content</a></li>
+                                                <li><a href="#nav" class="u2">Jump to main navigation and login</a></li>
+                                                                                    </ul>
+                                        <h2 class="unseen">Nav view search</h2>
+                                        <h3 class="unseen">Navigation</h3>
+                                        
+<ul class="menu">
+<li class="item-468"><a href="/index.php/en/" >News and Upcoming Events</a></li><li class="item-472"><a href="/index.php/en/constitution" >Constitution</a></li><li class="item-466 current active"><a href="/index.php/en/minutes" >Minutes</a></li><li class="item-489"><a href="/index.php/en/galleries" >Galleries</a></li><li class="item-492"><a href="/index.php/en/tssu" >TSSU</a></li><li class="item-471"><a href="/index.php/en/aboutcontacts" >About CS GSA</a></li><li class="item-470"><a href="/index.php/en/links" >Links</a></li><li class="item-496"><a href="/index.php/en/tutors-list" >Tutors</a></li><li class="item-493"><a href="https://csgsa.cs.sfu.ca/administrator/index.php" target="_blank" >Admin</a></li></ul>
+
+                                        <div id="line">
+                                        <div id="fontsize"></div>
+                                        <h3 class="unseen">Search</h3>
+                                        <form action="/index.php/en/minutes" method="post">
+	<div class="search">
+		<label for="mod-search-searchword">Search...</label><input name="searchword" id="mod-search-searchword" maxlength="20"  class="inputbox" type="text" size="20" value="Search..."  onblur="if (this.value=='') this.value='Search...';" onfocus="if (this.value=='Search...') this.value='';" />	<input type="hidden" name="task" value="search" />
+	<input type="hidden" name="option" value="com_search" />
+	<input type="hidden" name="Itemid" value="466" />
+	</div>
+</form>
+
+                                        </div> <!-- end line -->
+
+
+                        </div><!-- end header -->
+                        <div id="contentarea">
+                                        <div id="breadcrumbs">
+
+                                                        
+
+                                        </div>
+
+                                        
+                                        <div id="wrapper2" class="shownocolumns">
+
+                                                <div id="main">
+
+                                                
+                                                        
+<div id="system-message-container">
+</div>
+                                                        <div class="item-page">
+	<h2>
+			<a href="/index.php/en/minutes/125-minutes-for-cs-gsa-meeting-on-september-26-2012">
+		Minutes for CS GSA meeting on September 26, 2012 </a>
+		</h2>
+
+	<ul class="actions">
+						<li class="print-icon">
+			<a href="/index.php/en/minutes/125-minutes-for-cs-gsa-meeting-on-september-26-2012?tmpl=component&amp;print=1&amp;layout=default&amp;page=" title="Print" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><img src="/media/system/images/printButton.png" alt="Print"  /></a>			</li>
+		
+		
+		
+	
+	</ul>
+
+
+
+
+
+
+	<p align="center"><strong>Minutes for CS GSA meeting on September 26, 2012 </strong></p>
+<p> </p>
+<p>Date : September 26<sup>th</sup>, 2012           </p>
+<p>Location: TASC1 9204E</p>
+ 
+<p align="center"> </p>
+<p><strong>Attendance </strong></p>
+<p><strong> </strong></p>
+<p><strong>Present: </strong></p>
+<p> </p>
+<ol>
+<li>Erfan Sadeqi Azer</li>
+<li>Majid Razmara</li>
+<li>Yongmin Yan</li>
+<li>Hamed Shahir</li>
+<li>Tayebeh Lotfi</li>
+<li>Aungon Nag Raden</li>
+<li>Raiwen Chen</li>
+<li>Iman Sarrafi</li>
+<li>Amir Aavani</li>
+<li>Parastoo Geranmayeh</li>
+<li>Max Whitney</li>
+<li>Maryam Siahbani</li>
+<li>Maryam Sadeghi</li>
+<li>Kamyar Khadamaradi</li>
+<li>Samual Sun</li>
+<li>Jiahua Yu</li>
+<li>Ehsan Iranmanesh</li>
+<li>Vladyslav Sokol</li>
+<li>Maril Herot</li>
+<li>Marzieh Razavi</li>
+<li>Ravikiran Vadlapudi</li>
+<li>Arun Bharadwaj</li>
+<li>Hao Hang</li>
+<li>Shokoofeh Pourmehr</li>
+<li>Snehasish Kumar</li>
+<li>Tom Torsney-Weir</li>
+<li>Evgeny Vinnik</li>
+<li>Vivek Manadan</li>
+<li>Ryan McBride</li>
+<li>Sushant Joshi</li>
+<li>Rohit Dholakia</li>
+<li>Svetozar Miuchin</li>
+<li>Mengliu Zhao</li>
+</ol>
+<p> </p>
+<p><strong>Minutes</strong></p>
+<ol>
+<li><strong>1.    </strong>The meeting   was called to order <strong>at 2:00 in TASC1 9204E</strong></li>
+<li><strong>2.    </strong><strong>Evgeny Vinnik</strong> is appointed as the <strong>chair</strong></li>
+<li><strong>3.    </strong><strong>Ravikran Vadlapudi</strong> is appointed as the <strong>secretary</strong></li>
+<li><strong>4.    </strong><strong>Tom Torsney-Weir</strong> is stepped down from the vice-president position<strong></strong></li>
+<li><strong>5.    </strong>Elections for the CS GSA vice-president position<strong></strong></li>
+</ol>
+<p>Nominee: <strong>Arun Bharadwaj</strong> – votes for <strong>14</strong></p>
+<p>Nominee: <strong>Mengliu Zhao</strong> – votes for <strong>15</strong></p>
+<p>abstained from voting: <strong>2</strong></p>
+<p><strong>Mengliu Zhao</strong> Elected as Vice-president<strong></strong></p>
+<p><strong> </strong></p>
+<ol>
+<li><strong>6.    </strong><strong>Financial Motions</strong></li>
+</ol>
+<p>(Notes: due to several conflicting ideas of budget spending that combined would greatly exceed limited funds available in this semester we carried decision in the following fashion: we listed all motions alongside with their budgets, and then calculated only “votes for” for each motion. The motions with the greatest number of supporters were carried and received the funding)</p>
+<p> </p>
+<ol>
+<li><strong>1.    </strong>Motion to reimburse <strong>Evgeny Vinnik</strong> <span style="text-decoration: underline;">for organization of the meeting</span> on September 26<sup>th</sup>, 2012: purchases of pizza, sandwiches and drinks</li>
+</ol>
+<p>                                                            Cost: $145.81</p>
+<p>                                                            Moved by: Snehasish Kumar</p>
+<p>                                                            Second by: Arun Brahadwaj</p>
+<p>                                                            Votes for: 33</p>
+<p>                                         Decision: <strong>Motion carries</strong></p>
+<ol>
+<li><strong>2.    </strong>Motion to buy <span style="text-decoration: underline;">HDTV</span> for games room</li>
+</ol>
+<p>                                                            Volunteer: <strong>Majid Razmara</strong></p>
+<p>                                                            Moved by: Svetozar Miuchin</p>
+<p>                                                            Seconded by: Ravikran Vadlapudi</p>
+<p>                                                            Budget: $700</p>
+<p>                                                            Vote for: 14</p>
+<p>                                          Decision: <strong>Motion carries</strong></p>
+<ol>
+<li><strong>3.    </strong>Motion to host a <span style="text-decoration: underline;">paintball event</span></li>
+</ol>
+<p>                                                            Volunteer: Snehasish Kumar</p>
+<p>                                                            Moved by: Evgeny Vinnik</p>
+<p>                                                            Seconded by: Ravikiran Vadlapudi</p>
+<p>                                                            Budget: $300</p>
+<p>                                                            Votes for: 13</p>
+<p>                                          Decision: <strong>Motion carries</strong></p>
+<ol>
+<li><strong>4.    </strong>Motion to host a <span style="text-decoration: underline;">rock climbing event</span></li>
+</ol>
+<p>                                                            Volunteer: Tom Thorsney-Weir</p>
+<p>                                                            Moved by: Maryam Siahbani</p>
+<p>                                                            Seconded by: Ravikiran Vadlapudi</p>
+<p>                                                            Budget: $300</p>
+<p>                                                            Vote for: 8</p>
+<p>                                          Decision: <strong>Motion failed</strong></p>
+<ol>
+<li><strong>5.    </strong>Motion to buy <span style="text-decoration: underline;">ping pong rackets</span></li>
+</ol>
+<p>                                                            Volunteer: Hoda Akbari</p>
+<p>                                                            Moved by: Evgeny Vinnik</p>
+<p>                                                            Seconded by: Yongmin Yan</p>
+<p>                                                            Budget: $150</p>
+<p>                                                           Votes for: 11</p>
+<p>                                        Decision: <strong>Motion carries</strong></p>
+<ol>
+<li><strong>6.    </strong>Motion to hold <span style="text-decoration: underline;">“Game Night” event #1</span></li>
+</ol>
+<p>                                                            Volunteer: Ravikiran Vadlapudi</p>
+<p>                                                            Move: Evgeny Vinnik</p>
+<p>                                                            Second: Majid Razmara</p>
+<p>                                                            Budget: $125</p>
+<p>                                                            Votes for: 21</p>
+<p>                                      Decision<strong>: Motion carries</strong></p>
+<ol>
+<li><strong>7.    </strong>Motion to hold <span style="text-decoration: underline;">“Game Night” event #2</span></li>
+</ol>
+<p>                                                          Volunteer: Amir Aavani</p>
+<p>                                                          Moved by: Evgeny Vinnik</p>
+<p>                                                          Seconded by: Majid Razmara</p>
+<p>                                                          Budget: $125</p>
+<p>                                                         Votes for: 21</p>
+<p>                                    Decision: <strong>Motion carries</strong></p>
+<ol>
+<li><strong>8.    </strong>Motion to hold a <span style="text-decoration: underline;">“Movie Night” event</span></li>
+</ol>
+<p>                                                        Volunteer: Arun Bharadwaj</p>
+<p>                                                       Moved by: Snehasish Kumar</p>
+<p>                                                       Seconded by: Evgeny Vinnik</p>
+<p>                                                        Budget: $150</p>
+<p>                                                       Votes for: 16</p>
+<p>                                  Decision: <strong>Motion carries</strong></p>
+<ol>
+<li><strong>9.    </strong>Motion to buy <span style="text-decoration: underline;">Foosball table</span></li>
+</ol>
+<p>                                                       Volunteer: Evgeny Vinnik</p>
+<p>                                                        Moved by: none</p>
+<p>                                                        Seconded by: none</p>
+<p>                                                         Budget: $800</p>
+<p>                                                        Votes for: 6</p>
+<p>                                    Decision: <strong>Motion failed</strong></p>
+<ol>
+<li><strong>10.  </strong>Motion to buy <span style="text-decoration: underline;">Xbox Games and Accessories</span><strong></strong></li>
+</ol>
+<p>                                                       Volunteer: Ravikiran Vadlapudi</p>
+<p>                                                       Moved by: Majid Razmara</p>
+<p>                                                       Seconded by: Kamyar Khodamoradi<strong></strong></p>
+<p>                                                       Budget: $100</p>
+<p>                                                       Votes for: 15</p>
+<p>                                    Decision: <strong>Motion carries</strong></p>
+<ol>
+<li><strong>11.  </strong>Motion to buy <span style="text-decoration: underline;">kitchen supplies</span></li>
+</ol>
+<p>                                                       Volunteer: Hamed Yaghoubi</p>
+<p>                                                        Moved by:  Maryam Sadeghi</p>
+<p>                                                        Seconded by: Evgeny Vinnik</p>
+<p>                                                        Budget: $100</p>
+<p>                                                        Votes for: 33</p>
+<p>                                      Decision: <strong>Motion carries</strong></p>
+<ol>
+<li><strong>12.  </strong>Motion to hold <span style="text-decoration: underline;">Diwali celebrations</span></li>
+</ol>
+<p>                                                        Volunteer: Evgeny Vinnik</p>
+<p>                                                        Moved by: Ravikran Vadlapudi</p>
+<p>                                                        Seconded by: Snehasish Kumar</p>
+<p>                                                        Budget: $100</p>
+<p>                                                        Votes for: 15</p>
+<p>                                     Decision: <strong>Motion carries</strong></p>
+<p> </p>
+<ol>
+<li><strong>7.    </strong>The meeting is called <em><strong>adjourned</strong></em><strong> </strong><strong>at 3:00</strong>.<strong></strong></li>
+</ol><div class="attachmentsContainer">
+
+<div class="attachmentsList" id="attachmentsList_com_content_default_125"></div>
+
+</div>
+	</div>
+
+
+                                                </div><!-- end main -->
+
+                                        </div><!-- end wrapper -->
+
+                                
+                        
+                                <div class="wrap"></div>
+
+                                </div> <!-- end contentarea -->
+
+                        </div><!-- back -->
+
+                </div><!-- all -->
+
+                <div id="footer-outer">
+			 
+                        <div id="footer-sub">
+
+
+                                <div id="footer">
+
+                                        
+                                        <p>
+                                                Powered by <a href="http://www.joomla.org/">Joomla!&#174;</a>
+                                        </p>
+
+
+                                </div><!-- end footer -->
+                        </div>
+
+                </div>
+        
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-26581930-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+        </body>
+</html>

@@ -1,0 +1,547 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb" dir="ltr" >
+        <head>
+                  <base href="http://csgsa.cs.sfu.ca/index.php/en/" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="robots" content="index, follow" />
+  <meta name="generator" content="Joomla! 1.7 - Open Source Content Management" />
+  <title>News and Upcoming Events</title>
+  <link href="/index.php/en/?format=feed&amp;type=rss" rel="alternate" type="application/rss+xml" title="RSS 2.0" />
+  <link href="/index.php/en/?format=feed&amp;type=atom" rel="alternate" type="application/atom+xml" title="Atom 1.0" />
+  <link href="/templates/beez_20/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+  <link href="http://csgsa.cs.sfu.ca/index.php/en/component/search/?format=opensearch" rel="search" title="Search CSGSA" type="application/opensearchdescription+xml" />
+  <link rel="stylesheet" href="/plugins/content/attachments/attachments.css" type="text/css" />
+  <link rel="stylesheet" href="/plugins/content/attachments/attachments1.css" type="text/css" />
+  <link rel="stylesheet" href="/media/system/css/modal.css" type="text/css" />
+  <script src="/media/system/js/core.js" type="text/javascript"></script>
+  <script src="/media/system/js/mootools-core.js" type="text/javascript"></script>
+  <script src="/media/system/js/caption.js" type="text/javascript"></script>
+  <script src="/media/system/js/mootools-more.js" type="text/javascript"></script>
+  <script src="/media/system/js/modal.js" type="text/javascript"></script>
+  <script src="/plugins/content/attachments/attachments_refresh.js" type="text/javascript"></script>
+  <script src="/templates/beez_20/javascript/md_stylechanger.js" type="text/javascript" defer="defer"></script>
+  <script type="text/javascript">
+
+		window.addEvent('domready', function() {
+
+			SqueezeBox.initialize({});
+			SqueezeBox.assign($$('a.modal-button'), {
+				parse: 'rel'
+			});
+		});
+		window.addEvent('domready', function() {
+			$$('.hasTip').each(function(el) {
+				var title = el.get('title');
+				if (title) {
+					var parts = title.split('::', 2);
+					el.store('tip:title', parts[0]);
+					el.store('tip:text', parts[1]);
+				}
+			});
+			var JTooltips = new Tips($$('.hasTip'), { maxTitleChars: 50, fixed: false});
+		});
+  </script>
+
+                <link rel="stylesheet" href="/templates/system/css/system.css" type="text/css" />
+                <link rel="stylesheet" href="/templates/beez_20/css/position.css" type="text/css" media="screen,projection" />
+                <link rel="stylesheet" href="/templates/beez_20/css/layout.css" type="text/css" media="screen,projection" />
+                <link rel="stylesheet" href="/templates/beez_20/css/print.css" type="text/css" media="print" />
+                <link rel="stylesheet" href="/templates/beez_20/css/general.css" type="text/css" />
+                <link rel="stylesheet" href="/templates/beez_20/css/personal.css" type="text/css" />
+                <!--[if lte IE 6]>
+                <link href="/templates/beez_20/css/ieonly.css" rel="stylesheet" type="text/css" />
+
+                                <style type="text/css">
+                #line
+                {      width:98% ;
+                }
+                .logoheader
+                {
+                        height:200px;
+
+                }
+                #header ul.menu
+                {
+                display:block !important;
+                      width:98.2% ;
+
+
+                }
+                 </style>
+                                <![endif]-->
+                <!--[if IE 7]>
+                        <link href="/templates/beez_20/css/ie7only.css" rel="stylesheet" type="text/css" />
+                <![endif]-->
+                <script type="text/javascript" src="/templates/beez_20/javascript/hide.js"></script>
+
+                <script type="text/javascript">
+                        var big ='72%';
+                        var small='53%';
+                        var altopen='is open';
+                        var altclose='is closed';
+                        var bildauf='/templates/beez_20/images/plus.png';
+                        var bildzu='/templates/beez_20/images/minus.png';
+                        var rightopen='Open info';
+                        var rightclose='Close info';
+                        var fontSizeTitle='Font size';
+                        var bigger='Bigger';
+                        var reset='Reset';
+                        var smaller='Smaller';
+                        var biggerTitle='Increase size';
+                        var resetTitle='Revert styles to default';
+                        var smallerTitle='Decrease size';
+                </script>
+
+        </head>
+
+        <body>
+
+<div id="all">
+        <div id="back">
+                <div id="header">
+                                <div class="logoheader">
+                                        <h1 id="logo">
+
+                                                                                                                        CSGSA                                                                                <span class="header1">
+                                        Computer Science Graduate Students Association                                        </span></h1>
+                                </div><!-- end logoheader -->
+                                        <ul class="skiplinks">
+                                                <li><a href="#main" class="u2">Skip to content</a></li>
+                                                <li><a href="#nav" class="u2">Jump to main navigation and login</a></li>
+                                                                                    </ul>
+                                        <h2 class="unseen">Nav view search</h2>
+                                        <h3 class="unseen">Navigation</h3>
+                                        
+<ul class="menu">
+<li class="item-468 current active"><a href="/index.php/en/" >News and Upcoming Events</a></li><li class="item-472"><a href="/index.php/en/constitution" >Constitution</a></li><li class="item-466"><a href="/index.php/en/minutes" >Minutes</a></li><li class="item-489"><a href="/index.php/en/galleries" >Galleries</a></li><li class="item-492"><a href="/index.php/en/tssu" >TSSU</a></li><li class="item-471"><a href="/index.php/en/aboutcontacts" >About CS GSA</a></li><li class="item-470"><a href="/index.php/en/links" >Links</a></li><li class="item-496"><a href="/index.php/en/tutors-list" >Tutors</a></li><li class="item-493"><a href="https://csgsa.cs.sfu.ca/administrator/index.php" target="_blank" >Admin</a></li></ul>
+
+                                        <div id="line">
+                                        <div id="fontsize"></div>
+                                        <h3 class="unseen">Search</h3>
+                                        <form action="/index.php/en/" method="post">
+	<div class="search">
+		<label for="mod-search-searchword">Search...</label><input name="searchword" id="mod-search-searchword" maxlength="20"  class="inputbox" type="text" size="20" value="Search..."  onblur="if (this.value=='') this.value='Search...';" onfocus="if (this.value=='Search...') this.value='';" />	<input type="hidden" name="task" value="search" />
+	<input type="hidden" name="option" value="com_search" />
+	<input type="hidden" name="Itemid" value="468" />
+	</div>
+</form>
+
+                                        </div> <!-- end line -->
+
+
+                        </div><!-- end header -->
+                        <div id="contentarea">
+                                        <div id="breadcrumbs">
+
+                                                        
+
+                                        </div>
+
+                                        
+                                        <div id="wrapper2" class="shownocolumns">
+
+                                                <div id="main">
+
+                                                
+                                                        
+<div id="system-message-container">
+</div>
+                                                        <div class="blog">
+
+	
+
+
+
+
+
+
+<div class="items-leading">
+			<div class="leading-0">
+			
+	<h2>
+					<a href="/index.php/en/145-cs-gsa-colloquium-calendar">
+			CS GSA Colloquium Calendar</a>
+			</h2>
+
+	<ul class="actions">
+				<li class="print-icon">
+			<a href="/index.php/en/145-cs-gsa-colloquium-calendar?tmpl=component&amp;print=1&amp;layout=default&amp;page=" title="Print" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><img src="/media/system/images/printButton.png" alt="Print"  /></a>		</li>
+							</ul>
+
+
+
+
+
+<p>Hello everyone,</p>
+<p> <span style="line-height: 1.3em;">BIG NEWS: we have dates for our colloquium and confirmed list of speakers!</span></p>
+<p> </p>
+<p><strong>CS GSA Scientific Colloquium:</strong></p>
+<p>Dates: <strong>June 19<sup>th</sup>, June 20<sup>th</sup>, July 3<sup>rd</sup> 2013</strong></p>
+<p>Times: <strong>12:30 pm – 2:30 pm</strong></p>
+<p>Place: <strong>TASC 1 room 9204</strong></p>
+<p> </p>
+<p>In the past two weeks we were quite busy searching for the speakers among the SFU CS graduate students: here is the list of our speakers and detailed schedule:</p>
+<p> </p>
+<p><strong>June 19<sup>th</sup> </strong>(Wednesday)</p>
+<p> </p>
+<p><strong>12:30pm</strong>           Honghua Li</p>
+<p><strong>12:50pm</strong>           Stephen Makonin</p>
+<p><strong>1:10pm</strong>             Kamyar Khodamorahi</p>
+<p><strong>1:30pm</strong>             Jeremy Kawahara</p>
+<p><strong>1:50pm</strong>             Colin Brown</p>
+<p><strong>2:10pm</strong>             Tayebeh Lotfi Mahyari</p>
+<p><strong> </strong></p>
+<p><strong>June 20<sup>th</sup></strong> (Thursday)</p>
+<p> </p>
+<p><strong>12:30pm</strong>           Mohammad Hosseini</p>
+<p><strong>12:50pm</strong>           Pouya Bastani</p>
+<p><strong>1:10pm</strong>             Frederick Mallman</p>
+<p><strong>1:30pm</strong>             Erfan Sageqi Azer</p>
+<p><strong>1:50pm</strong>             MengLiu Zhao</p>
+<p><strong>2:10pm</strong>             Rohit Dholakia</p>
+<p><strong> </strong></p>
+<p><strong>July 3<sup>rd</sup></strong> (Wednesday)</p>
+<p><strong> </strong></p>
+<p><strong>12:30pm</strong>           Shenwei Huang</p>
+<p><strong>12:50pm</strong>           Marjan Rouhipour</p>
+<p><strong>1:10pm</strong>             Hengameh Mirzaalian</p>
+<p><strong>1:30pm</strong>             Ruiwen Chen</p>
+<p><strong>1:50pm</strong>             Fatemeh Riahi</p>
+<p><strong>2:10pm</strong>             Yasaman Sefidgar        </p>
+<p> </p>
+<p> </p>
+<p>Now only two big things left: organize food for guests and invite as many CS grads as possible!</p>
+<p> </p>
+<p>P.S. You can also see the schedule as a Google Calendar: </p>
+<p><a href="https://www.google.com/calendar/embed?src=l3lrqfi4quns3t2r5834htiup8%40group.calendar.google.com&amp;ctz=America/Vancouver">https://www.google.com/calendar/embed?src=l3lrqfi4quns3t2r5834htiup8%40group.calendar.google.com&amp;ctz=America/Vancouver</a></p><div class="attachmentsContainer">
+
+<div class="attachmentsList" id="attachmentsList_com_content_default_145"></div>
+
+</div>
+
+
+<div class="item-separator"></div>
+		</div>
+			</div>
+
+			<div class="items-row cols-1 row-0">
+		<div class="item column-1">
+		
+	<h2>
+					<a href="/index.php/en/143-upcoming-departmental-colloquium-common-tell-us-about-your-research">
+			Upcoming departmental colloquium “Common! Tell us about your research!”</a>
+			</h2>
+
+	<ul class="actions">
+				<li class="print-icon">
+			<a href="/index.php/en/143-upcoming-departmental-colloquium-common-tell-us-about-your-research?tmpl=component&amp;print=1&amp;layout=default&amp;page=" title="Print" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><img src="/media/system/images/printButton.png" alt="Print"  /></a>		</li>
+							</ul>
+
+
+
+
+
+<p>Dear fellow researchers,</p>
+<p> </p>
+<p><strong>This is an official call for participants in our upcoming departmental colloquium “Common! Tell us about your research!”</strong></p>
+<p> </p>
+<p>Prelude: during our tea socials many of you approached me with concerns that we never have any events where we can talk about our research.</p>
+<p>And now we have a great news for you all: we secured a $750 from the GSS to organize a professional development event.</p>
+<p> </p>
+<p>CS GSA is organizing a departmental colloquium called “Common! Tell us about your research!”, where graduate students will tell about their research and receive payment for doing so.</p>
+<p> </p>
+<p>Here are details:</p>
+<ol>
+<li><strong>We are looking for speakers.</strong> If you are interested in making a <strong>15 minute</strong> <strong>talk</strong> about your research for the <strong>$35</strong> you definitely should write me a mail to the (evinnik&lt;at&gt;sfu.ca).</li>
+<li>Currently we are planning to have a two day event lasting 1.5 hours (<strong>6 speakers per session</strong>, <strong>12</strong> in total).</li>
+<li>Once list of speakers will be formed by the jury we will book the room and make a public announcement on date and place.</li>
+<li>All talks will be recorded and posted on YouTube channel. You should be agree to this condition.</li>
+</ol>
+<p>While forming a list of speakers we will try to put the emphasis on the variety of research labs and the research directions presented.</p>
+<p> </p>
+<p>With the current funding we are planning to have a two day event, however currently we are negotiating for additional funding from the School of Computing Science to add one extra day.</p>
+<p> </p>
+<p>If you have any questions regarding the event organization – send me a letter (evinnik&lt;at&gt;sfu.ca).</p><div class="attachmentsContainer">
+
+<div class="attachmentsList" id="attachmentsList_com_content_default_143"></div>
+
+</div>
+
+
+<div class="item-separator"></div>
+	</div>
+						<span class="row-separator"></span>
+				</div>
+
+						<div class="items-row cols-1 row-1">
+		<div class="item column-1">
+		
+	<h2>
+					<a href="/index.php/en/142-cs-gsa-meeting-on-may-28th-at-1200-at-tasc1-9204">
+			CS GSA Meeting on May 28th at 12:00 at TASC1 9204</a>
+			</h2>
+
+	<ul class="actions">
+				<li class="print-icon">
+			<a href="/index.php/en/142-cs-gsa-meeting-on-may-28th-at-1200-at-tasc1-9204?tmpl=component&amp;print=1&amp;layout=default&amp;page=" title="Print" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><img src="/media/system/images/printButton.png" alt="Print"  /></a>		</li>
+							</ul>
+
+
+
+
+
+<div>Fellow graduate students of Computing Science,</div>
+<div> </div>
+<div>We are organizing yet another meeting.</div>
+<div>Wait. This one is special, however. </div>
+<div> </div>
+<div><strong>This is the first meeting of Summer 2013!</strong></div>
+<div> </div>
+<div>Where and when it will happen:</div>
+<div><strong>Place: TASC 1 9204</strong></div>
+<div><strong>Date: May 28th, 2013</strong></div>
+<div><strong>Time: 12:00 (noon)</strong></div>
+<div> </div>
+<div>Purpose: a free food event disguised as a decision making gathering</div>
+<div> </div>
+<div><span>Now to the official part:</span></div>
+<div> </div>
+<div>Our budget for the <strong>Summer 2013</strong> semester is <strong>$392.78</strong> + we recently secured a <strong>$750</strong> grant from GSS to organize a professional development event.</div>
+<div> </div>
+<div>This is a tentative agenda for the meeting (as well as spending proposal):</div>
+<div><span>1. We need to contribute <strong>$100</strong> for the organization of colloquium otherwise GSS would not give us the grant (those are the rules).</span><br /><span>2. We will need to spend at least <strong>$150</strong> towards the organization of our first meeting, in order to assemble enough people (at least 10) to pass the decisions. The money would be spent on pizza and refreshments, which we are going to consume right there, during the meeting</span><br /><span>3. This leaves us with <strong>$142.78</strong> which we can spend on one movie night, or 2 tea socials</span></div>
+<div> </div>
+<div>So ther you go, if you have any questions, please, address them to me.</div>
+<div>Please mark event on your calendars, and invite your CS Grad buddies: we need at least 10 people in attendance in order to pass decisions.</div>
+<div> </div>
+<div>P.S. It is the 21 century, the age of needless social networks!</div>
+<div>We joined the movement and organized a Facebook group - <span style="font-size: x-small;"><a class="daria-goto-anchor" href="https://r.mail.yandex.net/urls/3Lzr97mB2c7tEw0reZu2Vg,1369204742/www.facebook.com%2Fgroups%2Fcssfu%2F" target="_blank">https://www.facebook.com/groups/cssfu/</a></span></div>
+<p><span style="font-size: small;">Everyone is welcome to join! There you will find the latest news!</span></p>
+<div> </div>
+<div>-- <br />Evgeny Vinnik,</div>
+<div>CS GSA President</div><div class="attachmentsContainer">
+
+<div class="attachmentsList" id="attachmentsList_com_content_default_142"></div>
+
+</div>
+
+
+<div class="item-separator"></div>
+	</div>
+						<span class="row-separator"></span>
+				</div>
+
+						<div class="items-row cols-1 row-2">
+		<div class="item column-1">
+		
+	<h2>
+					<a href="/index.php/en/140-spring-2013-results">
+			Spring 2013 results</a>
+			</h2>
+
+	<ul class="actions">
+				<li class="print-icon">
+			<a href="/index.php/en/140-spring-2013-results?tmpl=component&amp;print=1&amp;layout=default&amp;page=" title="Print" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><img src="/media/system/images/printButton.png" alt="Print"  /></a>		</li>
+							</ul>
+
+
+
+
+
+<p>Dear colleagues!</p>
+<p> </p>
+<p>Today our association officially closed Spring 2013 semester.</p>
+<p>We had an awesome pizza social organized by Iman, with lots of food, deserts, drinks and cheerful chats.</p>
+<p>Also we had a mini-meeting where we elected Frederick as our new GSS representative.</p>
+<p> </p>
+<p>I guess it is an appropriate moment to review this semester: what was planned and what was done.</p>
+<ol>
+<li>First we have a whole bunch of new people on our executive committee: Iman Sarrafi is our treasurer, Jianqiao Li is our secretary and Frederick is our GSS representative.</li>
+<li>We successfully fulfilled ALL our financial motions:</li>
+</ol>
+<p>-          We purchased not 4, but 6 Xbox gamepads (with significant discount)</p>
+<p>-          We bought a foosball for our game room: now it feels complete [mancave ;] with ping pong, Xbox and foosball.</p>
+<p>-          We hold several events that promote networking among graduate students: meeting with pizza, paintball event, and pizza-event.</p>
+<p> </p>
+<p>Life goes on and quite soon we will have another event with free food, which would be called “First CS GSA Meeting of the Summer”, where once again we will decide how to spend our budget, which I expect would be around $900.</p>
+<p>Already we can start compiling a tentative agenda, currently among all proposals we have:</p>
+<p>-          Summer BBQ</p>
+<p>-          Purchase of Electronic Piano</p>
+<p>-          and the most important: a research-oriented event “Common tell us about your research!”</p>
+<p> </p>
+<p>P.S. If you have Facebook friends who are SFU CS grad students, but not in our <a href="https://www.facebook.com/groups/cssfu/">Facebook group</a> – please invite them.</p><div class="attachmentsContainer">
+
+<div class="attachmentsList" id="attachmentsList_com_content_default_140"></div>
+
+</div>
+
+
+<div class="item-separator"></div>
+	</div>
+						<span class="row-separator"></span>
+				</div>
+
+						<div class="items-row cols-1 row-3">
+		<div class="item column-1">
+		
+	<h2>
+					<a href="/index.php/en/139-cs-gsa-news-end-of-spring-2013-semester-edition">
+			CS GSA News (end of Spring 2013 semester edition) </a>
+			</h2>
+
+	<ul class="actions">
+				<li class="print-icon">
+			<a href="/index.php/en/139-cs-gsa-news-end-of-spring-2013-semester-edition?tmpl=component&amp;print=1&amp;layout=default&amp;page=" title="Print" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><img src="/media/system/images/printButton.png" alt="Print"  /></a>		</li>
+							</ul>
+
+
+
+
+
+<p> </p>
+<div>
+<div>1. New semester is coming...</div>
+<div>Which means we are collecting ideas how to spend our budget (around $900) in the future semester. Grads are welcome to send their proposals how to spend the money by e-mail</div>
+<div> </div>
+<div> </div>
+<div>2. Snehasish is gone...</div>
+<div>Our long term serving GSS council representative Snehasish Kumar resigned from this position, which means we have to elect new GSS council representative.</div>
+<div> </div>
+<div>What are the responsibilities of a council representative?</div>
+<div>- You will represent our school at the GSS meetings. You will have the power to influence the lives of a graduate students of all SFU. Theoretically, you can become a grey eminence and seize the power!</div>
+<div>- Usually questions like child support, food vouchers, and other grad students' problems are discussed during the meetings.</div>
+<div>- It is a paid position. They are paying you $50 per 2-hour meeting, which is being held once a month, which is like $200 per semester - sweet!</div>
+<div>- In Snehasish's words it is a quite boring position with about 14 hours of work per semester, but what sweetens the pill is that the pay is good!</div>
+<div>If you want to become a candidate for this position - send me a message.</div>
+<div> </div>
+<div> </div>
+<div>3. Our fridges in the grad lounge are filthy...</div>
+<div>Yeah! Spring is here! And that means it is time to do spring cleaning.</div>
+<div>I propose  throw away all the stale stuff from our fridges. Right now there are many food containers and bags that were left by the fellow grad students, which contain produce that become spoiled. </div>
+<div>Therefore, I announce that on Friday April 19th at 15:00 I will though away all the stuff from the fridge. Make sure to take your containers before this date.</div>
+<div> </div>
+<div>If you have any comments on this matter - send me a note.</div>
+<div> </div>
+<div> </div>
+<div>Evgeny Vinnik,</div>
+<div>CS GSA President</div>
+<div> 
+ <script type='text/javascript'>
+ <!--
+ var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+ var path = 'hr' + 'ef' + '=';
+ var addy44309 = '&#101;v&#105;nn&#105;k' + '&#64;';
+ addy44309 = addy44309 + 'sf&#117;' + '&#46;' + 'c&#97;';
+ document.write('<a ' + path + '\'' + prefix + ':' + addy44309 + '\'>');
+ document.write(addy44309);
+ document.write('<\/a>');
+ //-->\n </script><script type='text/javascript'>
+ <!--
+ document.write('<span style=\'display: none;\'>');
+ //-->
+ </script>This e-mail address is being protected from spambots. You need JavaScript enabled to view it.
+ <script type='text/javascript'>
+ <!--
+ document.write('</');
+ document.write('span>');
+ //-->
+ </script></div>
+</div><div class="attachmentsContainer">
+
+<div class="attachmentsList" id="attachmentsList_com_content_default_139"></div>
+
+</div>
+
+
+<div class="item-separator"></div>
+	</div>
+						<span class="row-separator"></span>
+				</div>
+
+				
+
+
+
+	
+
+<div class="items-more">
+
+<h3>More Articles...</h3>
+<ol>
+	<li>
+		<a href="/index.php/en/138-gss-meeting-feb-22">
+			GSS Meeting - Feb 22</a>
+	</li>
+	<li>
+		<a href="/index.php/en/137-its-official-the-results-of-the-cs-gsa-meeting-on-january-18th">
+			It's official. The results of the CS GSA meeting on January 18th</a>
+	</li>
+	<li>
+		<a href="/index.php/en/135-gss-council-update-january">
+			GSS Council Update - January </a>
+	</li>
+	<li>
+		<a href="/index.php/en/134-cs-gsa-first-meeting-of-the-spring-2013-semester-friday-18th-yes-this-message-contains-info-about-free-food">
+			CS GSA first meeting of the Spring 2013 semester! Friday 18th (YES, this message contains info about free food)</a>
+	</li>
+</ol>
+</div>
+
+
+
+	
+		<div class="pagination">
+												<p class="counter">
+								Page 2 of 10						</p>
+
+								<ul><li class="pagination-start"><a title="Start" href="/index.php/en/?limitstart=0" class="pagenav">Start</a></li><li class="pagination-prev"><a title="Prev" href="/index.php/en/?limitstart=0" class="pagenav">Prev</a></li><li><a title="1" href="/index.php/en/?limitstart=0" class="pagenav">1</a></li><li><span class="pagenav">2</span></li><li><a title="3" href="/index.php/en/?start=10" class="pagenav">3</a></li><li><a title="4" href="/index.php/en/?start=15" class="pagenav">4</a></li><li><a title="5" href="/index.php/en/?start=20" class="pagenav">5</a></li><li><a title="6" href="/index.php/en/?start=25" class="pagenav">6</a></li><li><a title="7" href="/index.php/en/?start=30" class="pagenav">7</a></li><li><a title="8" href="/index.php/en/?start=35" class="pagenav">8</a></li><li><a title="9" href="/index.php/en/?start=40" class="pagenav">9</a></li><li><a title="10" href="/index.php/en/?start=45" class="pagenav">10</a></li><li class="pagination-next"><a title="Next" href="/index.php/en/?start=10" class="pagenav">Next</a></li><li class="pagination-end"><a title="End" href="/index.php/en/?start=45" class="pagenav">End</a></li></ul>		</div>
+
+</div>
+
+
+                                                </div><!-- end main -->
+
+                                        </div><!-- end wrapper -->
+
+                                
+                        
+                                <div class="wrap"></div>
+
+                                </div> <!-- end contentarea -->
+
+                        </div><!-- back -->
+
+                </div><!-- all -->
+
+                <div id="footer-outer">
+			 
+                        <div id="footer-sub">
+
+
+                                <div id="footer">
+
+                                        
+                                        <p>
+                                                Powered by <a href="http://www.joomla.org/">Joomla!&#174;</a>
+                                        </p>
+
+
+                                </div><!-- end footer -->
+                        </div>
+
+                </div>
+        
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-26581930-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+        </body>
+</html>

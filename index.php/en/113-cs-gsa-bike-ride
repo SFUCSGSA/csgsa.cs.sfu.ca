@@ -1,0 +1,229 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb" dir="ltr" >
+        <head>
+                  <base href="http://csgsa.cs.sfu.ca/index.php/en/113-cs-gsa-bike-ride" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="robots" content="index, follow" />
+  <meta name="author" content="Evgeny Vinnik" />
+  <meta name="generator" content="Joomla! 1.7 - Open Source Content Management" />
+  <title>CS GSA Bike Ride!</title>
+  <link href="/templates/beez_20/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+  <link href="http://csgsa.cs.sfu.ca/index.php/en/component/search/?Itemid=468&amp;id=113&amp;format=opensearch" rel="search" title="Search CSGSA" type="application/opensearchdescription+xml" />
+  <link rel="stylesheet" href="/plugins/content/attachments/attachments1.css" type="text/css" />
+  <link rel="stylesheet" href="/plugins/content/attachments/attachments.css" type="text/css" />
+  <script src="/media/system/js/core.js" type="text/javascript"></script>
+  <script src="/media/system/js/mootools-core.js" type="text/javascript"></script>
+  <script src="/media/system/js/caption.js" type="text/javascript"></script>
+  <script src="/media/system/js/mootools-more.js" type="text/javascript"></script>
+  <script src="/plugins/content/attachments/attachments_refresh.js" type="text/javascript"></script>
+  <script src="/templates/beez_20/javascript/md_stylechanger.js" type="text/javascript" defer="defer"></script>
+
+                <link rel="stylesheet" href="/templates/system/css/system.css" type="text/css" />
+                <link rel="stylesheet" href="/templates/beez_20/css/position.css" type="text/css" media="screen,projection" />
+                <link rel="stylesheet" href="/templates/beez_20/css/layout.css" type="text/css" media="screen,projection" />
+                <link rel="stylesheet" href="/templates/beez_20/css/print.css" type="text/css" media="print" />
+                <link rel="stylesheet" href="/templates/beez_20/css/general.css" type="text/css" />
+                <link rel="stylesheet" href="/templates/beez_20/css/personal.css" type="text/css" />
+                <!--[if lte IE 6]>
+                <link href="/templates/beez_20/css/ieonly.css" rel="stylesheet" type="text/css" />
+
+                                <style type="text/css">
+                #line
+                {      width:98% ;
+                }
+                .logoheader
+                {
+                        height:200px;
+
+                }
+                #header ul.menu
+                {
+                display:block !important;
+                      width:98.2% ;
+
+
+                }
+                 </style>
+                                <![endif]-->
+                <!--[if IE 7]>
+                        <link href="/templates/beez_20/css/ie7only.css" rel="stylesheet" type="text/css" />
+                <![endif]-->
+                <script type="text/javascript" src="/templates/beez_20/javascript/hide.js"></script>
+
+                <script type="text/javascript">
+                        var big ='72%';
+                        var small='53%';
+                        var altopen='is open';
+                        var altclose='is closed';
+                        var bildauf='/templates/beez_20/images/plus.png';
+                        var bildzu='/templates/beez_20/images/minus.png';
+                        var rightopen='Open info';
+                        var rightclose='Close info';
+                        var fontSizeTitle='Font size';
+                        var bigger='Bigger';
+                        var reset='Reset';
+                        var smaller='Smaller';
+                        var biggerTitle='Increase size';
+                        var resetTitle='Revert styles to default';
+                        var smallerTitle='Decrease size';
+                </script>
+
+        </head>
+
+        <body>
+
+<div id="all">
+        <div id="back">
+                <div id="header">
+                                <div class="logoheader">
+                                        <h1 id="logo">
+
+                                                                                                                        CSGSA                                                                                <span class="header1">
+                                        Computer Science Graduate Students Association                                        </span></h1>
+                                </div><!-- end logoheader -->
+                                        <ul class="skiplinks">
+                                                <li><a href="#main" class="u2">Skip to content</a></li>
+                                                <li><a href="#nav" class="u2">Jump to main navigation and login</a></li>
+                                                                                    </ul>
+                                        <h2 class="unseen">Nav view search</h2>
+                                        <h3 class="unseen">Navigation</h3>
+                                        
+<ul class="menu">
+<li class="item-468 current active"><a href="/index.php/en/" >News and Upcoming Events</a></li><li class="item-472"><a href="/index.php/en/constitution" >Constitution</a></li><li class="item-466"><a href="/index.php/en/minutes" >Minutes</a></li><li class="item-489"><a href="/index.php/en/galleries" >Galleries</a></li><li class="item-492"><a href="/index.php/en/tssu" >TSSU</a></li><li class="item-471"><a href="/index.php/en/aboutcontacts" >About CS GSA</a></li><li class="item-470"><a href="/index.php/en/links" >Links</a></li><li class="item-496"><a href="/index.php/en/tutors-list" >Tutors</a></li><li class="item-493"><a href="https://csgsa.cs.sfu.ca/administrator/index.php" target="_blank" >Admin</a></li></ul>
+
+                                        <div id="line">
+                                        <div id="fontsize"></div>
+                                        <h3 class="unseen">Search</h3>
+                                        <form action="/index.php/en/" method="post">
+	<div class="search">
+		<label for="mod-search-searchword">Search...</label><input name="searchword" id="mod-search-searchword" maxlength="20"  class="inputbox" type="text" size="20" value="Search..."  onblur="if (this.value=='') this.value='Search...';" onfocus="if (this.value=='Search...') this.value='';" />	<input type="hidden" name="task" value="search" />
+	<input type="hidden" name="option" value="com_search" />
+	<input type="hidden" name="Itemid" value="468" />
+	</div>
+</form>
+
+                                        </div> <!-- end line -->
+
+
+                        </div><!-- end header -->
+                        <div id="contentarea">
+                                        <div id="breadcrumbs">
+
+                                                        
+
+                                        </div>
+
+                                        
+                                        <div id="wrapper2" class="shownocolumns">
+
+                                                <div id="main">
+
+                                                
+                                                        
+<div id="system-message-container">
+</div>
+                                                        <div class="item-page">
+	<h2>
+			<a href="/index.php/en/113-cs-gsa-bike-ride">
+		CS GSA Bike Ride!</a>
+		</h2>
+
+	<ul class="actions">
+						<li class="print-icon">
+			<a href="/index.php/en/113-cs-gsa-bike-ride?tmpl=component&amp;print=1&amp;layout=default&amp;page=" title="Print" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><img src="/media/system/images/printButton.png" alt="Print"  /></a>			</li>
+		
+		
+		
+	
+	</ul>
+
+
+
+
+
+
+	<div>CSGSA will hold a biking/social event at Stanley Park <strong>on Saturday, August 4 from 3:30 p.m.</strong> </div>
+<div><strong>Meeting place: 745 Denman Street, Vancouver</strong></div>
+<div> </div>
+<div><img src="/images/direction.png" border="0" alt="Directions to bike rentals" title="Directions and Meeting place (bike rentals)" width="1000" /></div>
+<div> </div>
+<div> </div>
+<div> </div>
+<div><strong>The plan is to rent bikes from the stores next to the Stanley Park and go for a ride around Stanley Park.</strong></div>
+<div> </div>
+<div>Typically the ride is short but exciting. It may take about one or two hours depending on how often we stop. The ideal plan is to go for the ride first and then go inside Stanley Park to play some games or socialize (without having tea :P ). There will be fireworks on the same day in the English bay after the sunset, so you will have a chance to finish your legendary day with dancing lights in the sky. As I mentioned before, CSGSA will cover the bike rental which includes helmet, but they are a few things that I like you to bring.</div>
+<div> </div>
+<div>A few <strong>updates</strong> about the event:</div>
+<div> </div>
+<div>1. Please RSVP using the link that I provided down to let me know if you are coming to bike ride. I need to know number of people to be able to book some bikes <strong>ASAP</strong>.</div>
+<div><a class=" daria-goto-anchor" href="https://r.mail.yandex.net/urls/T6G_QqSfXrpiBAeomU-t8g,1343878222/docs.google.com%2Fspreadsheet%2Fviewform%3FfromEmail%3Dtrue&amp;formkey%3DdDgyRHUxZGY1bzQyckhmcUJpdFdQdXc6MQ" target="_blank">https://docs.google.com/spreadsheet/viewform?fromEmail=true&amp;formkey=dDgyRHUxZGY1bzQyckhmcUJpdFdQdXc6MQ</a></div>
+<div> </div>
+<div><span style="color: #222222; font-family: arial, sans-serif;"><span>2. you should bring the following items to have a pleasant day :)</span></span></div>
+<div>
+<ul>
+<li><span style="color: #222222; font-family: arial, sans-serif;"><span>water (or bottle so that you can refill)</span></span></li>
+<li>some snacks like chocolate bar, energy bar, or some small sandwiches.</li>
+<li><span style="color: #222222; font-family: arial, sans-serif;"><span>your </span></span><strong>Student ID</strong><span style="color: #222222; font-family: arial, sans-serif;"><span>. I am not going to check your ID, I need this to get discount on the bikes. Honestly I have 300$ for this event. If we have some saving from this amount we can spend it on snacks.</span></span></li>
+<li><span style="color: #222222; font-family: arial, sans-serif;"><span>Apply/Bring Sunscreen. The current prediction says we will have a sunny day. </span></span></li>
+<li><span>Please <span style="text-decoration: underline;">don't bring big bags or large purses</span>. You really won't want to carry all those things on the bike. A small backpack will be ideal. </span></li>
+</ul>
+</div>
+<div>3. We are going to <strong>meet </strong>at <strong>bayshore bike rental at</strong><strong> 3:30 p.m</strong><strong>.</strong> It's address is: <strong>745 Denman Street</strong>, Vancouver, BC V6G 2L6. The easiest way to get there is to get to Burrard Skytrain station. Then you should go to Pender Street and get on the <strong>19 bus. </strong>A few stops later you should get off at Denman Street, and walk to the bike rental. I attached an image of google map that shows the route from Burrard skytrain. If you don't know the area, please print the image and bring it, or join a friend that knows how to get to stanley park. If you are still worried that you may get lost, send me an email and I will try to find some people for you that know the way.</div>
+<div> </div>
+<div>4. Main organizer: <span class="b-message-head__name">Arash Vahdat</span><span class="b-message-head__email"> &lt;avahdat(at)sfu.ca&gt;</span></div>
+<div> </div>
+<div><img src="/images/ride.png" border="0" width="700" /></div>
+<div> </div><div class="attachmentsContainer">
+
+<div class="attachmentsList" id="attachmentsList_com_content_default_113"></div>
+
+</div>
+	</div>
+
+
+                                                </div><!-- end main -->
+
+                                        </div><!-- end wrapper -->
+
+                                
+                        
+                                <div class="wrap"></div>
+
+                                </div> <!-- end contentarea -->
+
+                        </div><!-- back -->
+
+                </div><!-- all -->
+
+                <div id="footer-outer">
+			 
+                        <div id="footer-sub">
+
+
+                                <div id="footer">
+
+                                        
+                                        <p>
+                                                Powered by <a href="http://www.joomla.org/">Joomla!&#174;</a>
+                                        </p>
+
+
+                                </div><!-- end footer -->
+                        </div>
+
+                </div>
+        
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-26581930-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+        </body>
+</html>

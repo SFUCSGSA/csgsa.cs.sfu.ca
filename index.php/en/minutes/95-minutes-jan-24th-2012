@@ -1,0 +1,287 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb" dir="ltr" >
+        <head>
+                  <base href="http://csgsa.cs.sfu.ca/index.php/en/minutes/95-minutes-jan-24th-2012" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="robots" content="index, follow" />
+  <meta name="author" content="Amir Hedayaty" />
+  <meta name="generator" content="Joomla! 1.7 - Open Source Content Management" />
+  <title>Minutes Jan 24th 2012</title>
+  <link href="/templates/beez_20/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+  <link href="http://csgsa.cs.sfu.ca/index.php/en/component/search/?Itemid=466&amp;id=95&amp;format=opensearch" rel="search" title="Search CSGSA" type="application/opensearchdescription+xml" />
+  <link rel="stylesheet" href="/plugins/content/attachments/attachments1.css" type="text/css" />
+  <link rel="stylesheet" href="/plugins/content/attachments/attachments.css" type="text/css" />
+  <script src="/media/system/js/core.js" type="text/javascript"></script>
+  <script src="/media/system/js/mootools-core.js" type="text/javascript"></script>
+  <script src="/media/system/js/caption.js" type="text/javascript"></script>
+  <script src="/media/system/js/mootools-more.js" type="text/javascript"></script>
+  <script src="/plugins/content/attachments/attachments_refresh.js" type="text/javascript"></script>
+  <script src="/templates/beez_20/javascript/md_stylechanger.js" type="text/javascript" defer="defer"></script>
+
+                <link rel="stylesheet" href="/templates/system/css/system.css" type="text/css" />
+                <link rel="stylesheet" href="/templates/beez_20/css/position.css" type="text/css" media="screen,projection" />
+                <link rel="stylesheet" href="/templates/beez_20/css/layout.css" type="text/css" media="screen,projection" />
+                <link rel="stylesheet" href="/templates/beez_20/css/print.css" type="text/css" media="print" />
+                <link rel="stylesheet" href="/templates/beez_20/css/general.css" type="text/css" />
+                <link rel="stylesheet" href="/templates/beez_20/css/personal.css" type="text/css" />
+                <!--[if lte IE 6]>
+                <link href="/templates/beez_20/css/ieonly.css" rel="stylesheet" type="text/css" />
+
+                                <style type="text/css">
+                #line
+                {      width:98% ;
+                }
+                .logoheader
+                {
+                        height:200px;
+
+                }
+                #header ul.menu
+                {
+                display:block !important;
+                      width:98.2% ;
+
+
+                }
+                 </style>
+                                <![endif]-->
+                <!--[if IE 7]>
+                        <link href="/templates/beez_20/css/ie7only.css" rel="stylesheet" type="text/css" />
+                <![endif]-->
+                <script type="text/javascript" src="/templates/beez_20/javascript/hide.js"></script>
+
+                <script type="text/javascript">
+                        var big ='72%';
+                        var small='53%';
+                        var altopen='is open';
+                        var altclose='is closed';
+                        var bildauf='/templates/beez_20/images/plus.png';
+                        var bildzu='/templates/beez_20/images/minus.png';
+                        var rightopen='Open info';
+                        var rightclose='Close info';
+                        var fontSizeTitle='Font size';
+                        var bigger='Bigger';
+                        var reset='Reset';
+                        var smaller='Smaller';
+                        var biggerTitle='Increase size';
+                        var resetTitle='Revert styles to default';
+                        var smallerTitle='Decrease size';
+                </script>
+
+        </head>
+
+        <body>
+
+<div id="all">
+        <div id="back">
+                <div id="header">
+                                <div class="logoheader">
+                                        <h1 id="logo">
+
+                                                                                                                        CSGSA                                                                                <span class="header1">
+                                        Computer Science Graduate Students Association                                        </span></h1>
+                                </div><!-- end logoheader -->
+                                        <ul class="skiplinks">
+                                                <li><a href="#main" class="u2">Skip to content</a></li>
+                                                <li><a href="#nav" class="u2">Jump to main navigation and login</a></li>
+                                                                                    </ul>
+                                        <h2 class="unseen">Nav view search</h2>
+                                        <h3 class="unseen">Navigation</h3>
+                                        
+<ul class="menu">
+<li class="item-468"><a href="/index.php/en/" >News and Upcoming Events</a></li><li class="item-472"><a href="/index.php/en/constitution" >Constitution</a></li><li class="item-466 current active"><a href="/index.php/en/minutes" >Minutes</a></li><li class="item-489"><a href="/index.php/en/galleries" >Galleries</a></li><li class="item-492"><a href="/index.php/en/tssu" >TSSU</a></li><li class="item-471"><a href="/index.php/en/aboutcontacts" >About CS GSA</a></li><li class="item-470"><a href="/index.php/en/links" >Links</a></li><li class="item-496"><a href="/index.php/en/tutors-list" >Tutors</a></li><li class="item-493"><a href="https://csgsa.cs.sfu.ca/administrator/index.php" target="_blank" >Admin</a></li></ul>
+
+                                        <div id="line">
+                                        <div id="fontsize"></div>
+                                        <h3 class="unseen">Search</h3>
+                                        <form action="/index.php/en/minutes" method="post">
+	<div class="search">
+		<label for="mod-search-searchword">Search...</label><input name="searchword" id="mod-search-searchword" maxlength="20"  class="inputbox" type="text" size="20" value="Search..."  onblur="if (this.value=='') this.value='Search...';" onfocus="if (this.value=='Search...') this.value='';" />	<input type="hidden" name="task" value="search" />
+	<input type="hidden" name="option" value="com_search" />
+	<input type="hidden" name="Itemid" value="466" />
+	</div>
+</form>
+
+                                        </div> <!-- end line -->
+
+
+                        </div><!-- end header -->
+                        <div id="contentarea">
+                                        <div id="breadcrumbs">
+
+                                                        
+
+                                        </div>
+
+                                        
+                                        <div id="wrapper2" class="shownocolumns">
+
+                                                <div id="main">
+
+                                                
+                                                        
+<div id="system-message-container">
+</div>
+                                                        <div class="item-page">
+	<h2>
+			<a href="/index.php/en/minutes/95-minutes-jan-24th-2012">
+		Minutes Jan 24th 2012</a>
+		</h2>
+
+	<ul class="actions">
+						<li class="print-icon">
+			<a href="/index.php/en/minutes/95-minutes-jan-24th-2012?tmpl=component&amp;print=1&amp;layout=default&amp;page=" title="Print" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><img src="/media/system/images/printButton.png" alt="Print"  /></a>			</li>
+		
+		
+		
+	
+	</ul>
+
+
+
+
+
+
+	<p>CSGSA Minutes for Jan 24th 2012 Computing Science Graduate Students Society(CSGSA) Meeting Minutes <br /> Date: Jan 24th 2012 <br /> Location: TASC1 9204W</p>
+<h2>Attendance</h2>
+<h3>Present</h3>
+<ol>
+<li>Amir Hedayaty (Secretary) &lt;aha49 at sfu dot ca&gt;</li>
+<li>Mark Roth (TSSU Rep) &lt;mroth at sfu dot ca&gt;</li>
+<li>Ouldooz Baghban Karimi (President) &lt;oba2 at sfu dot ca&gt;</li>
+<li>Zahra Vaseqi (GSS Rep) &lt;zvaseqi at sfu dot ca&gt;</li>
+<li>Evgeny Vinnik (Vice-president) &lt;evgeny_vinik at sfu dot ca&gt;</li>
+<li>Shahab Tasharrofi (Treasurer) &lt;sta44 at sfu dot ca&gt;</li>
+<li>Kamyar Khodamoradi</li>
+<li>Arun Bharadwaj</li>
+<li>Erfan Sadeqi Azer</li>
+<li>Ryan Shea</li>
+<li>Marjan Marzban</li>
+<li>Ankit Gupta</li>
+<li>Maryam Siabani</li>
+<li>Ehsan Iranmanesh</li>
+<li>Scott Kristijanson</li>
+</ol>
+<h2>Minutes</h2>
+<ol><ol>
+<li>The meeting is <em>called to order</em> at 4:00 in TASC1 9204W.</li>
+<li>Ouldooz Baghban Karimi is appointed as the <em>chair</em>.</li>
+<li>Amir Hedayaty is appointed as the <em>secretary</em>.</li>
+</ol></ol>
+<h2>Old Business</h2>
+<ol><ol>
+<li>Feedback from Zahra about Ice skating event:
+<ul>
+<li>25 people attended</li>
+<li>$309.88 was spent</li>
+</ul>
+</li>
+<li>Feedback from Arun about Movie nigh: 7-8 people attended</li>
+<li>Feedback from Shahab about the spendings on previous semester:
+<ul>
+<li>$60 spent on tea socials</li>
+<li>$290 spent on BBQ</li>
+<li>$309.88 Spent on Ice-skating</li>
+<li>Totaly $600 from $783 is spent</li>
+<li>$960 is available for next semester</li>
+</ul>
+</li>
+</ol></ol>
+<h3>Committee Reports</h3>
+<ol><ol>
+<li>Report From Zahra Vaseqi about GSS meeting:
+<ul>
+<li>Referendum on 2 questions:
+<ul>
+<li>Increasing membership fee due to inflation by 2.9%
+<ul>
+<li>for full time students from $33.00 to $33.96</li>
+<li>for part time students from $17.50 to $18.00</li>
+</ul>
+</li>
+<li>Due to increase of usage of benefit plan the cap of cost will rise from $399 to $450</li>
+</ul>
+</li>
+<li>The department with the most member of participants in the general meeting gets a prize</li>
+<li>Announcement of a workshop in SFU about academic dishonesty policy for grad students (Jan 25th 3:00-4:00)</li>
+</ul>
+</li>
+<li>Report from Mark Roth about TSSU meeting : <br /> The TSSU has had several meetings with the University last semester with no progress. The general feeling is that the University is trying to stall for as long as possible in order to keep the students on an expired (unfavorable) contract. The University feels that it can get away with this since there is not much public debate around this issue. The TSSU is therefore planning strike/job action round table on Feb 21.<br /> Some of the big things that the TSSU is trying to bargain for is a better priority mechanism for TA appointments for Grad students. A large chunk of TA funding actually goes to undergraduates or non-SFU grad students.</li>
+</ol></ol>
+<h2>New Business</h2>
+<h3>Financial Motions</h3>
+<ol><ol>
+<li>Motion to approve <strong>Mark Roth</strong> to spend <strong>$30</strong> from the GSS Core Caucus funds for three tea socials held on <em>Feb. 2nd 2012</em>, <em>March 2nd 2012</em>, <em>April 5th 2012</em>.<br /> Moved by: <strong>Amir Hedayaty</strong> <br /> Seconded by: <strong>Evgeny Vinnik</strong> <br /> Abstained from voting: <strong>Mark Roth</strong><br /> Votes for: 10 <br /> <strong>Motion carries</strong></li>
+<li>Motion to reimburse <strong>Ankit Gupta</strong> <strong>$300</strong> from Core Caucus Funds for a Bowling night held on <em>March 7th 2012</em>. <br /> Moved by: <strong>Shahab Tasharrofi</strong><br /> Seconded by: <strong>Zhara Vaseqi</strong><br /> Abstained from voting: <strong>Arun Bharadwaj</strong><br /> Votes for: 11 <br /> Decision: <strong>Motion carries</strong></li>
+<li>Motion to buy a new Foosball Table by <strong>Evgeny Vinnik</strong>. <br /> Moved by: <strong>Shahab Tasharrofi</strong><br /> Seconded by: <strong>Amir Hedayaty</strong><br /> Votes for: 5 <br /> Votes against: 0 <br /> Decision: <strong>Motion failed </strong><br /> Description: The foosball table is around $800 to $1000 which is more than one semster CSGSA budget. It was agreed not to spend such a big budget on 5 votes.</li>
+<li>Motion to hold a Movie night on <em>Feb 17th</em> by <strong>Arun Bharadwaj</strong>:<br /> Moved by: <strong>Amir Hedayaty</strong><br /> Seconded by: <strong>Zahra Vaseqi</strong><br /> Votes for: 7 <br /> Votes against: 0 <br /> Decision: <strong>Motion carries </strong></li>
+<li>Motion for <strong>Mark Roth</strong> to spend <strong>$100</strong> from CS department budget for Kitchen supplies. <br /> Moved by: <strong>Shahab Tasharrofi</strong><br /> Seconded by: <strong>Zahra Vaseqi</strong><br /> Votes for: 7 <br /> Votes against: 0 <br /> Decision: <strong>Motion carries </strong></li>
+<li>Motion for <strong>Scott Kristijanson</strong> to spend up to <strong>$300</strong> from the Core Caucus Funds for a BBQ to be held on <em>March 23rd</em> <br /> Moved by: <strong>Evgeny Vinnik</strong><br /> Seconded by: <strong>Shahab Tasharrofi</strong><br /> Abstained from voting: <strong>Scott Kristijanson</strong> <br /> Votes for: 10 <br /> Votes against: 0 <br /> Decision: <strong>Motion carries </strong></li>
+</ol></ol>
+<h3>Other Business</h3>
+<ol>
+<li>Discussions about having a survey on supervisors:
+<ul>
+<li>No on rating similar to myprof</li>
+<li>Possiblity to have rating from graduated students</li>
+<li>Decided to have surveys from students</li>
+<li>Mark volunteered to help</li>
+</ul>
+</li>
+<li>Mark is volunteered to help Amir as an officer for CSGSA homepage</li>
+<li>Motion to hold the next meeting on March 2nd: <br /> Moved by: <strong>Amir Hedayaty</strong><br /> Seconded by: <strong>Shahab Tasharrofi</strong><br /> Votes for: 8 <br /> Votes against: 0 <br /> Decision: <strong>Motion carries </strong></li>
+<li>The meeting is called <em>adjourned</em> at 5:30.</li>
+</ol> <div class="attachmentsContainer">
+
+<div class="attachmentsList" id="attachmentsList_com_content_default_95"></div>
+
+</div>
+	</div>
+
+
+                                                </div><!-- end main -->
+
+                                        </div><!-- end wrapper -->
+
+                                
+                        
+                                <div class="wrap"></div>
+
+                                </div> <!-- end contentarea -->
+
+                        </div><!-- back -->
+
+                </div><!-- all -->
+
+                <div id="footer-outer">
+			 
+                        <div id="footer-sub">
+
+
+                                <div id="footer">
+
+                                        
+                                        <p>
+                                                Powered by <a href="http://www.joomla.org/">Joomla!&#174;</a>
+                                        </p>
+
+
+                                </div><!-- end footer -->
+                        </div>
+
+                </div>
+        
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-26581930-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+        </body>
+</html>

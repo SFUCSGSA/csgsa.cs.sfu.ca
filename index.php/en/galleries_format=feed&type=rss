@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! 1.7 - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Galleries</title>
+		<description></description>
+		<link>http://csgsa.cs.sfu.ca/index.php/en/galleries</link>
+		<lastBuildDate>Wed, 13 Dec 2017 20:51:37 +0000</lastBuildDate>
+		<generator>Joomla! 1.7 - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="http://csgsa.cs.sfu.ca/index.php/en/galleries?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<item>
+			<title> CS GSA Game Night and Tea Social on December 11th</title>
+			<link>http://csgsa.cs.sfu.ca/index.php/en/galleries/130-cs-gsa-game-night-and-tea-social-on-december-11th</link>
+			<guid isPermaLink="true">http://csgsa.cs.sfu.ca/index.php/en/galleries/130-cs-gsa-game-night-and-tea-social-on-december-11th</guid>
+			<description><![CDATA[<p>On December 11th, 2012 CS GSA organized a game night for all grad students with pizza and Indian sweets.</p>
+<p>That was a very cool event!</p>
+<p>{gallery}event-albums/gamenight{/gallery}</p>
+<p>Photos by Evgeny Vinnik</p>]]></description>
+			<author>evgeny_vinnik@sfu.ca (Evgeny Vinnik)</author>
+			<pubDate>Tue, 15 Jan 2013 01:20:51 +0000</pubDate>
+		</item>
+		<item>
+			<title>SFU CS GSA BBQ Summer 2012</title>
+			<link>http://csgsa.cs.sfu.ca/index.php/en/galleries/109-sfu-cs-gsa-bbq-summer-2012</link>
+			<guid isPermaLink="true">http://csgsa.cs.sfu.ca/index.php/en/galleries/109-sfu-cs-gsa-bbq-summer-2012</guid>
+			<description><![CDATA[<p>On July 18th our Computing Science (CS) Graduate Student Society (GSS) organized BBQ for all grad students!</p>
+<p>We carefully documented every step on how to prepare such a great event</p>
+<p> </p>
+<p>On this video our master chef Thomas Torsney-Weir is sharing his professional secrets on how to cook BBQ North-American style</p>
+<p><object width="853" height="480" data="http://www.youtube.com/v/LrwlwXP4xuM?version=3&amp;hl=en_US" type="application/x-shockwave-flash"><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="src" value="http://www.youtube.com/v/LrwlwXP4xuM?version=3&amp;hl=en_US" /><param name="allowfullscreen" value="true" /></object></p>
+<p> </p>
+<p>More videos after the break</p>
+]]></description>
+			<author>evgeny_vinnik@sfu.ca (Evgeny Vinnik)</author>
+			<pubDate>Thu, 19 Jul 2012 22:29:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Photos of Ice-Skating 2 Dec 2011</title>
+			<link>http://csgsa.cs.sfu.ca/index.php/en/galleries/94-photos-of-ice-skating-2-dec-2011</link>
+			<guid isPermaLink="true">http://csgsa.cs.sfu.ca/index.php/en/galleries/94-photos-of-ice-skating-2-dec-2011</guid>
+			<description><![CDATA[<p>{gallery}event-albums/Ice-Skating-2-Dec-2011{/gallery}</p>]]></description>
+			<author>aha49@sfu.ca (Amir Hedayaty)</author>
+			<pubDate>Fri, 13 Jan 2012 09:51:55 +0000</pubDate>
+		</item>
+		<item>
+			<title>Pictures from BBQ Event on Oct. 25, 2011</title>
+			<link>http://csgsa.cs.sfu.ca/index.php/en/galleries/88-pics-bbq-25-10-2011</link>
+			<guid isPermaLink="true">http://csgsa.cs.sfu.ca/index.php/en/galleries/88-pics-bbq-25-10-2011</guid>
+			<description><![CDATA[<p>{gallery}event-albums/BBQ-25-10-2011{/gallery}</p>
+<p>Videos from the event:</p>
+<p><object width="640" height="480" data="http://www.youtube.com/v/Bsz5w83uZwE?version=3&amp;hl=en_US" type="application/x-shockwave-flash"><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="src" value="http://www.youtube.com/v/Bsz5w83uZwE?version=3&amp;hl=en_US" /><param name="allowfullscreen" value="true" /></object></p>
+<p><object width="640" height="480" data="http://www.youtube.com/v/l-4PFtnJJwI?version=3&amp;hl=en_US" type="application/x-shockwave-flash"><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="src" value="http://www.youtube.com/v/l-4PFtnJJwI?version=3&amp;hl=en_US" /><param name="allowfullscreen" value="true" /></object> <object width="640" height="480" data="http://www.youtube.com/v/oTHdjntZGZ4?version=3&amp;hl=en_US" type="application/x-shockwave-flash"><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="src" value="http://www.youtube.com/v/oTHdjntZGZ4?version=3&amp;hl=en_US" /><param name="allowfullscreen" value="true" /></object></p>
+
+
+]]></description>
+			<author>sta44@sfu.ca (Shahab Tasharofi)</author>
+			<pubDate>Fri, 28 Oct 2011 02:35:50 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,468 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb" dir="ltr" >
+        <head>
+                  <base href="http://csgsa.cs.sfu.ca/index.php/en/" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="robots" content="index, follow" />
+  <meta name="generator" content="Joomla! 1.7 - Open Source Content Management" />
+  <title>News and Upcoming Events</title>
+  <link href="/index.php/en/?format=feed&amp;type=rss" rel="alternate" type="application/rss+xml" title="RSS 2.0" />
+  <link href="/index.php/en/?format=feed&amp;type=atom" rel="alternate" type="application/atom+xml" title="Atom 1.0" />
+  <link href="/templates/beez_20/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+  <link href="http://csgsa.cs.sfu.ca/index.php/en/component/search/?format=opensearch" rel="search" title="Search CSGSA" type="application/opensearchdescription+xml" />
+  <link rel="stylesheet" href="/plugins/content/attachments/attachments.css" type="text/css" />
+  <link rel="stylesheet" href="/plugins/content/attachments/attachments1.css" type="text/css" />
+  <link rel="stylesheet" href="/media/system/css/modal.css" type="text/css" />
+  <script src="/media/system/js/core.js" type="text/javascript"></script>
+  <script src="/media/system/js/mootools-core.js" type="text/javascript"></script>
+  <script src="/media/system/js/caption.js" type="text/javascript"></script>
+  <script src="/media/system/js/mootools-more.js" type="text/javascript"></script>
+  <script src="/media/system/js/modal.js" type="text/javascript"></script>
+  <script src="/plugins/content/attachments/attachments_refresh.js" type="text/javascript"></script>
+  <script src="/templates/beez_20/javascript/md_stylechanger.js" type="text/javascript" defer="defer"></script>
+  <script type="text/javascript">
+
+		window.addEvent('domready', function() {
+
+			SqueezeBox.initialize({});
+			SqueezeBox.assign($$('a.modal-button'), {
+				parse: 'rel'
+			});
+		});
+		window.addEvent('domready', function() {
+			$$('.hasTip').each(function(el) {
+				var title = el.get('title');
+				if (title) {
+					var parts = title.split('::', 2);
+					el.store('tip:title', parts[0]);
+					el.store('tip:text', parts[1]);
+				}
+			});
+			var JTooltips = new Tips($$('.hasTip'), { maxTitleChars: 50, fixed: false});
+		});
+  </script>
+
+                <link rel="stylesheet" href="/templates/system/css/system.css" type="text/css" />
+                <link rel="stylesheet" href="/templates/beez_20/css/position.css" type="text/css" media="screen,projection" />
+                <link rel="stylesheet" href="/templates/beez_20/css/layout.css" type="text/css" media="screen,projection" />
+                <link rel="stylesheet" href="/templates/beez_20/css/print.css" type="text/css" media="print" />
+                <link rel="stylesheet" href="/templates/beez_20/css/general.css" type="text/css" />
+                <link rel="stylesheet" href="/templates/beez_20/css/personal.css" type="text/css" />
+                <!--[if lte IE 6]>
+                <link href="/templates/beez_20/css/ieonly.css" rel="stylesheet" type="text/css" />
+
+                                <style type="text/css">
+                #line
+                {      width:98% ;
+                }
+                .logoheader
+                {
+                        height:200px;
+
+                }
+                #header ul.menu
+                {
+                display:block !important;
+                      width:98.2% ;
+
+
+                }
+                 </style>
+                                <![endif]-->
+                <!--[if IE 7]>
+                        <link href="/templates/beez_20/css/ie7only.css" rel="stylesheet" type="text/css" />
+                <![endif]-->
+                <script type="text/javascript" src="/templates/beez_20/javascript/hide.js"></script>
+
+                <script type="text/javascript">
+                        var big ='72%';
+                        var small='53%';
+                        var altopen='is open';
+                        var altclose='is closed';
+                        var bildauf='/templates/beez_20/images/plus.png';
+                        var bildzu='/templates/beez_20/images/minus.png';
+                        var rightopen='Open info';
+                        var rightclose='Close info';
+                        var fontSizeTitle='Font size';
+                        var bigger='Bigger';
+                        var reset='Reset';
+                        var smaller='Smaller';
+                        var biggerTitle='Increase size';
+                        var resetTitle='Revert styles to default';
+                        var smallerTitle='Decrease size';
+                </script>
+
+        </head>
+
+        <body>
+
+<div id="all">
+        <div id="back">
+                <div id="header">
+                                <div class="logoheader">
+                                        <h1 id="logo">
+
+                                                                                                                        CSGSA                                                                                <span class="header1">
+                                        Computer Science Graduate Students Association                                        </span></h1>
+                                </div><!-- end logoheader -->
+                                        <ul class="skiplinks">
+                                                <li><a href="#main" class="u2">Skip to content</a></li>
+                                                <li><a href="#nav" class="u2">Jump to main navigation and login</a></li>
+                                                                                    </ul>
+                                        <h2 class="unseen">Nav view search</h2>
+                                        <h3 class="unseen">Navigation</h3>
+                                        
+<ul class="menu">
+<li class="item-468 current active"><a href="/index.php/en/" >News and Upcoming Events</a></li><li class="item-472"><a href="/index.php/en/constitution" >Constitution</a></li><li class="item-466"><a href="/index.php/en/minutes" >Minutes</a></li><li class="item-489"><a href="/index.php/en/galleries" >Galleries</a></li><li class="item-492"><a href="/index.php/en/tssu" >TSSU</a></li><li class="item-471"><a href="/index.php/en/aboutcontacts" >About CS GSA</a></li><li class="item-470"><a href="/index.php/en/links" >Links</a></li><li class="item-496"><a href="/index.php/en/tutors-list" >Tutors</a></li><li class="item-493"><a href="https://csgsa.cs.sfu.ca/administrator/index.php" target="_blank" >Admin</a></li></ul>
+
+                                        <div id="line">
+                                        <div id="fontsize"></div>
+                                        <h3 class="unseen">Search</h3>
+                                        <form action="/index.php/en/" method="post">
+	<div class="search">
+		<label for="mod-search-searchword">Search...</label><input name="searchword" id="mod-search-searchword" maxlength="20"  class="inputbox" type="text" size="20" value="Search..."  onblur="if (this.value=='') this.value='Search...';" onfocus="if (this.value=='Search...') this.value='';" />	<input type="hidden" name="task" value="search" />
+	<input type="hidden" name="option" value="com_search" />
+	<input type="hidden" name="Itemid" value="468" />
+	</div>
+</form>
+
+                                        </div> <!-- end line -->
+
+
+                        </div><!-- end header -->
+                        <div id="contentarea">
+                                        <div id="breadcrumbs">
+
+                                                        
+
+                                        </div>
+
+                                        
+                                        <div id="wrapper2" class="shownocolumns">
+
+                                                <div id="main">
+
+                                                
+                                                        
+<div id="system-message-container">
+</div>
+                                                        <div class="blog">
+
+	
+
+
+
+
+
+
+<div class="items-leading">
+			<div class="leading-0">
+			
+	<h2>
+					<a href="/index.php/en/132-the-results-of-our-fall-2012-semester">
+			The results of our Fall 2012 semester</a>
+			</h2>
+
+	<ul class="actions">
+				<li class="print-icon">
+			<a href="/index.php/en/132-the-results-of-our-fall-2012-semester?tmpl=component&amp;print=1&amp;layout=default&amp;page=" title="Print" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><img src="/media/system/images/printButton.png" alt="Print"  /></a>		</li>
+							</ul>
+
+
+
+
+
+<p><span><strong>Success</strong> (events that were approved and money were spent):</span><br /><span>1. Organized one big meeting at the beginning of semester. Spent $145.81</span><br /><span>2. Majid Razmara purchased HD TV for our game room</span><br /><span class="text_exposed_show">3. Ping pong rackets were purchased by Hoda Akbari (budget $150) and are available at our game room.<br />4. Game night #1 organized by Ravikran Vadlapudi ($125)<br />5. Game night #2 organized by Amir Aavani ($125)<br />6. Purchase of XBox 360 games (Fifa 13) and gamepads by Ravikran Vadlapudi for $100<br />7. Purchase of Kitchen Supplies (soap, sponges and paper towels) by Hamed Yaghoubi for $100<br />8. Tea social with Indian sweets organized by Evgeny Vinnik (budget $100)<br /><br /><strong>Failure</strong> (events that were approved and never happened):<br />1. Paintball event (volunteer Snehasish Kumar) for $300<br />2. Movie night (volunteer Arun Bharadwaj) for $150<br /><br /><strong>Died on the planning stage</strong> (events that were proposed but never got funding):<br />1. Rock climbing<br />2. Fusbal table purchase</span></p><div class="attachmentsContainer">
+
+<div class="attachmentsList" id="attachmentsList_com_content_default_132"></div>
+
+</div>
+
+
+<div class="item-separator"></div>
+		</div>
+			</div>
+
+			<div class="items-row cols-1 row-0">
+		<div class="item column-1">
+		
+	<h2>
+					<a href="/index.php/en/131-new-gallery-added-cs-gsa-game-night-and-indians-sweets-tea-social">
+			New gallery added: CS GSA Game Night and Indian sweets tea social</a>
+			</h2>
+
+	<ul class="actions">
+				<li class="print-icon">
+			<a href="/index.php/en/131-new-gallery-added-cs-gsa-game-night-and-indians-sweets-tea-social?tmpl=component&amp;print=1&amp;layout=default&amp;page=" title="Print" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><img src="/media/system/images/printButton.png" alt="Print"  /></a>		</li>
+							</ul>
+
+
+
+
+
+<p>Everyone is welcome to check out <a href="http://csgsa.cs.sfu.ca/index.php/en/galleries/130-cs-gsa-game-night-and-tea-social-on-december-11th">pics from our latest Tea Social and Game Night</a></p><div class="attachmentsContainer">
+
+<div class="attachmentsList" id="attachmentsList_com_content_default_131"></div>
+
+</div>
+
+
+<div class="item-separator"></div>
+	</div>
+						<span class="row-separator"></span>
+				</div>
+
+						<div class="items-row cols-1 row-1">
+		<div class="item column-1">
+		
+	<h2>
+					<a href="/index.php/en/129-gss-council-updates-nov-and-dec">
+			GSS Council Updates - Nov and Dec</a>
+			</h2>
+
+	<ul class="actions">
+				<li class="print-icon">
+			<a href="/index.php/en/129-gss-council-updates-nov-and-dec?tmpl=component&amp;print=1&amp;layout=default&amp;page=" title="Print" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><img src="/media/system/images/printButton.png" alt="Print"  /></a>		</li>
+							</ul>
+
+
+
+
+
+<p><span>Hello Grads!</span></p>
+<div> </div>
+<div>Here are some important updates from the Graduate Student Society:</div>
+<div> </div>
+<div><ol>
+<li>We have a new Executive Director : Amina Rai</li>
+<li>Our very own Narek Nalbandyan, has been re-elected as Professional Development Coordinator.</li>
+<li>UPass will not increase in the Spring semester, however from Summer it is proposed to be increased to $35 per month.</li>
+<li>International graduate student tuition will not change for 2013-2014 year.</li>
+</ol>
+<div>Merry Christmas and a Happy New Year!</div>
+<div> </div>
+<div>Snehasish</div>
+</div>
+<div> </div>
+<div>More details in the attached PDF.</div><div class="attachmentsContainer">
+
+<div class="attachmentsList" id="attachmentsList_com_content_article_129">
+<table>
+<caption>Attachments:</caption>
+<tbody>
+<tr class="odd"><td class="at_filename"><a class="at_icon" href="/attachments/article/129/GSS November and December Council Update.pdf" title="Download this file (GSS November and December Council Update.pdf)"><img src="/components/com_attachments/media/icons/pdf.gif" alt="Download this file (GSS November and December Council Update.pdf)" /></a><a class="at_url" href="/attachments/article/129/GSS November and December Council Update.pdf" target="_blank" title="Download this file (GSS November and December Council Update.pdf)">GSS November and December Council Update.pdf</a></td><td class="at_description">[&nbsp;]</td><td class="at_file_size">126 Kb</td></tr>
+</tbody></table>
+</div>
+
+</div>
+
+
+<div class="item-separator"></div>
+	</div>
+						<span class="row-separator"></span>
+				</div>
+
+						<div class="items-row cols-1 row-2">
+		<div class="item column-1">
+		
+	<h2>
+					<a href="/index.php/en/128-amendment-of-the-september-26-2012-meeting-minutes">
+			Amendment of the September 26, 2012 meeting minutes</a>
+			</h2>
+
+	<ul class="actions">
+				<li class="print-icon">
+			<a href="/index.php/en/128-amendment-of-the-september-26-2012-meeting-minutes?tmpl=component&amp;print=1&amp;layout=default&amp;page=" title="Print" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><img src="/media/system/images/printButton.png" alt="Print"  /></a>		</li>
+							</ul>
+
+
+
+
+
+<div>Unfortunately, GSS head office did not liked the wording that we used in our meeting minutes from the September 26th.</div>
+<div> </div>
+<div>Because of that some of our colleagues have troubles with reimbursements for the things we already purchased and using, namely  HDTV in the game room, ping-pong bats, Fifa 13, and kitchen supplies.</div>
+<div> </div>
+<div>
+<div>Therefore I've amended our meeting minutes in order to make our financial motions  and make sure they comply with the GSS wording requirements.</div>
+<div style="padding-left: 30px;"><span style="text-decoration: underline;">Example:</span></div>
+<div style="padding-left: 60px;"><strong>Old wording:</strong> </div>
+<div style="padding-left: 60px;"><strong><br /></strong></div>
+<div style="padding-left: 60px;">Motion to buy HDTV for games room</div>
+</div>
+<div style="padding-left: 60px;">
+<p>                                                            Volunteer: <strong>Majid Razmara</strong></p>
+<p>                                                            Moved by: Svetozar Miuchin</p>
+<p>                                                            Seconded by: Ravikran Vadlapudi</p>
+<p>                                                            Budget: $700</p>
+<p>                                                            Vote for: 14</p>
+<p>                                          Decision: <strong>Motion carries</strong></p>
+</div>
+<div style="padding-left: 60px;"> </div>
+<div style="padding-left: 60px;"><strong> New wording:</strong></div>
+<div style="padding-left: 60px;">
+<p><strong> </strong>Motion to buy <span>HDTV</span> for games room and to approve that <strong>Majid Razmara</strong> will spend up to $700 and got reimbursed for this purchase.</p>
+<p>                                                            Volunteer: <strong>Majid Razmara</strong></p>
+<p>                                                            Moved by: Svetozar Miuchin</p>
+<p>                                                            Seconded by: Ravikran Vadlapudi</p>
+<p>                                                            Budget: $700</p>
+<p>                                                            Vote for: 14</p>
+</div>
+<div> </div>
+<div> </div>
+<div>As you might see now motion reads who exactly would be able to spend the money and how much.</div>
+<div>The amended meeting minutes could be found in our <a href="http://csgsa.cs.sfu.ca/index.php/en/minutes/127-amended-minutes-for-cs-gsa-meeting-on-september-26-2012">meeting minutes section</a></div>
+<div> </div>
+<div> </div>
+<div>Now in order to approve amendments we need to conduct web-survey and received at least 10 votes in favor of approval.</div>
+<div>Please, support the amendment of our minutes and vote <a href="http://websurvey.sfu.ca/survey/125542904">using this web-survey</a> </div>
+<div> </div>
+<div><strong>Update 8/11/2012</strong><span style="color: #ff0000;"> Web-survey is closed now. Thank you everyone for voting.</span></div><div class="attachmentsContainer">
+
+<div class="attachmentsList" id="attachmentsList_com_content_default_128"></div>
+
+</div>
+
+
+<div class="item-separator"></div>
+	</div>
+						<span class="row-separator"></span>
+				</div>
+
+						<div class="items-row cols-1 row-3">
+		<div class="item column-1">
+		
+	<h2>
+					<a href="/index.php/en/126-cs-gsa-september-26th-meeting-results-2000-will-be-spent">
+			CS GSA September 26th meeting results. $2000 will be spent! </a>
+			</h2>
+
+	<ul class="actions">
+				<li class="print-icon">
+			<a href="/index.php/en/126-cs-gsa-september-26th-meeting-results-2000-will-be-spent?tmpl=component&amp;print=1&amp;layout=default&amp;page=" title="Print" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><img src="/media/system/images/printButton.png" alt="Print"  /></a>		</li>
+							</ul>
+
+
+
+
+
+<div>We held a meeting on September 26th, 2012.</div>
+<div>Thank you for attending the meeting. There were more than 30 students! That's a huge sucess.</div>
+<div> </div>
+<div>We saw heated debates and democracy in action.</div>
+<div> </div>
+<div>As our vice-president Tom Thorsney-Weir (you might remember him as a guy who organized our BBQ event this summer) stepped down,</div>
+<div>we elected new one: Mengliu Zhao from the medical imaging lab.</div>
+<div> </div>
+<div>Here is how we decided to spend our $2000 budget for this semester:</div>
+<div>1. Evgeny Vinnik (me) would be reimbursed with $145.81  for organizing the meeting: buying pizza, sandwiches and drinks.</div>
+<div>2. Majid Razmara would by a new HDTV in our game room. His budget is 700$. We will play XBox in HD quality! Alternatively student would be able to watch movies on it.</div>
+<div>3. We are going to hold a paintball event. Snehasish is going to be an organizer. Budget: $300</div>
+<div>4. Hoda Akbari will buy nice new ping pong rackets and ball. We allocated $150 for this. So we would be able to buy some decent bats!</div>
+<div>5. We will hold two game nights: we allocated $250 for the food and drinks.</div>
+<div>6. Arun Bharadwaj traditionally volunteered to hold a Movie Night. He'll spend $150 for it.</div>
+<div>7. Ravikran Vadlapudi is going to buy FIFA 2013 and some other Xbox accessories. All together - $100.</div>
+<div>8. We need to get new kitchen supplies. Hamed Yaghoubi volunteered to buy this. We allocated $100 for this purchase, so we would be able to buy lots of dishsoap ahead.</div>
+<div>9. At the end of October we would celebrate Diwali, with Indian sweets, music and stuff. Evgeny Vinnik (me) will spend $100 on gulab jamun, ras malai, chai etc.</div>
+<div> </div>
+<div>We are going to see a semester filled with research and super-cool socializing events.</div>
+<div> </div>
+<div>Official minutes of the meeting are posted online: <a href="http://csgsa.cs.sfu.ca/index.php/en/minutes/125-minutes-for-cs-gsa-meeting-on-september-26-2012">http://csgsa.cs.sfu.ca/index.php/en/minutes/125-minutes-for-cs-gsa-meeting-on-september-26-2012</a></div><div class="attachmentsContainer">
+
+<div class="attachmentsList" id="attachmentsList_com_content_default_126"></div>
+
+</div>
+
+
+<div class="item-separator"></div>
+	</div>
+						<span class="row-separator"></span>
+				</div>
+
+				
+
+
+
+	
+
+<div class="items-more">
+
+<h3>More Articles...</h3>
+<ol>
+	<li>
+		<a href="/index.php/en/124-gss-meeting-september-24-report">
+			GSS Meeting - September 24 - Report</a>
+	</li>
+	<li>
+		<a href="/index.php/en/123-announcement-cs-gsa-meeting-on-september-26th-2-pm--tasc1-9204">
+			Announcement: CS GSA Meeting on September 26th, 2 pm , TASC1 9204</a>
+	</li>
+	<li>
+		<a href="/index.php/en/122-i-want-you-to-spend-2000-of-our-budget">
+			I want you to spend $2000 of our budget!</a>
+	</li>
+	<li>
+		<a href="/index.php/en/121-visit-university-of-calgary-for-free">
+			Visit University of Calgary for free!</a>
+	</li>
+</ol>
+</div>
+
+
+
+	
+		<div class="pagination">
+												<p class="counter">
+								Page 4 of 10						</p>
+
+								<ul><li class="pagination-start"><a title="Start" href="/index.php/en/?limitstart=0" class="pagenav">Start</a></li><li class="pagination-prev"><a title="Prev" href="/index.php/en/?start=10" class="pagenav">Prev</a></li><li><a title="1" href="/index.php/en/?limitstart=0" class="pagenav">1</a></li><li><a title="2" href="/index.php/en/?start=5" class="pagenav">2</a></li><li><a title="3" href="/index.php/en/?start=10" class="pagenav">3</a></li><li><span class="pagenav">4</span></li><li><a title="5" href="/index.php/en/?start=20" class="pagenav">5</a></li><li><a title="6" href="/index.php/en/?start=25" class="pagenav">6</a></li><li><a title="7" href="/index.php/en/?start=30" class="pagenav">7</a></li><li><a title="8" href="/index.php/en/?start=35" class="pagenav">8</a></li><li><a title="9" href="/index.php/en/?start=40" class="pagenav">9</a></li><li><a title="10" href="/index.php/en/?start=45" class="pagenav">10</a></li><li class="pagination-next"><a title="Next" href="/index.php/en/?start=20" class="pagenav">Next</a></li><li class="pagination-end"><a title="End" href="/index.php/en/?start=45" class="pagenav">End</a></li></ul>		</div>
+
+</div>
+
+
+                                                </div><!-- end main -->
+
+                                        </div><!-- end wrapper -->
+
+                                
+                        
+                                <div class="wrap"></div>
+
+                                </div> <!-- end contentarea -->
+
+                        </div><!-- back -->
+
+                </div><!-- all -->
+
+                <div id="footer-outer">
+			 
+                        <div id="footer-sub">
+
+
+                                <div id="footer">
+
+                                        
+                                        <p>
+                                                Powered by <a href="http://www.joomla.org/">Joomla!&#174;</a>
+                                        </p>
+
+
+                                </div><!-- end footer -->
+                        </div>
+
+                </div>
+        
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-26581930-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+        </body>
+</html>

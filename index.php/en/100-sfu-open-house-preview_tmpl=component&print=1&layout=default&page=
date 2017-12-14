@@ -1,0 +1,71 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb" dir="ltr">
+<head>
+	  <base href="http://csgsa.cs.sfu.ca/index.php/en/100-sfu-open-house-preview" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="robots" content="noindex, nofollow" />
+  <meta name="author" content="Evgeny Vinnik" />
+  <meta name="generator" content="Joomla! 1.7 - Open Source Content Management" />
+  <title>SFU Open House preview</title>
+  <link href="/templates/beez_20/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+  <link rel="stylesheet" href="/plugins/content/attachments/attachments1.css" type="text/css" />
+  <link rel="stylesheet" href="/plugins/content/attachments/attachments.css" type="text/css" />
+  <script src="/media/system/js/core.js" type="text/javascript"></script>
+  <script src="/media/system/js/mootools-core.js" type="text/javascript"></script>
+  <script src="/media/system/js/caption.js" type="text/javascript"></script>
+  <script src="/media/system/js/mootools-more.js" type="text/javascript"></script>
+  <script src="/plugins/content/attachments/attachments_refresh.js" type="text/javascript"></script>
+
+	<link rel="stylesheet" href="/templates/system/css/system.css" type="text/css" />
+	<link rel="stylesheet" href="/templates/beez_20/css/template.css" type="text/css" />
+	<link rel="stylesheet" href="/templates/beez_20/css/position.css" type="text/css" />
+	<link rel="stylesheet" href="/templates/beez_20/css/layout.css" type="text/css" media="screen,projection" />
+	<link rel="stylesheet" href="/templates/beez_20/css/print.css" type="text/css" media="Print" />
+	<link rel="stylesheet" href="/templates/beez_20/css/personal.css" type="text/css" />
+			<link rel="stylesheet" href="/templates/beez_20/css/general.css" type="text/css" />
+
+<!--[if lte IE 6]>
+	<link href="/templates/beez_20/css/ieonly.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+</head>
+<body class="contentpane">
+	<div id="all">
+		<div id="main">
+			
+<div id="system-message-container">
+</div>
+			<div class="item-page">
+	<h2>
+			<a href="/index.php/en/100-sfu-open-house-preview">
+		SFU Open House preview</a>
+		</h2>
+
+	<ul class="actions">
+			<li>
+		<a href="#" onclick="window.print();return false;"><img src="/media/system/images/printButton.png" alt="Print"  /></a>		</li>
+	
+	</ul>
+
+
+
+
+
+
+	<p>Simon Fraser University invites everyone to attend Open House on May 26th, 2012!</p>
+<p>This would be a great event!</p>
+<p>All schools will showcase their best works and compete for attention of the prospective students.</p>
+<p>Our School of Computing Science is not falling behind! In fact we grabbed one of the top spots, near the entrance to the Applied Science Building.</p>
+<p>And our CS graduate student associations also organizing a booth, where we will give away chocolates!</p>
+<p>Our students will tell everyone what is like to be a Master or Doctoral student at SFU.</p>
+<p> </p>
+<p>Stop by for a chat!</p> <div class="attachmentsContainer">
+
+<div class="attachmentsList" id="attachmentsList_com_content_default_100"></div>
+
+</div>
+	</div>
+
+		</div>
+	</div>
+</body>
+</html>
